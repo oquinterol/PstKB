@@ -5,36 +5,22 @@ Task 1
 3. Create a comparison table between the solutions of each model + a
 relative delta or a way to measure their difference
 %}
-
 %% Initialize Cobratoolbox
 initCobraToolbox(false)
-
+cd('/home/Oscar/Git/PstKB/')
 %% Load the model, 'ori' represents the current model
-ModelOri = readCbModel('/home/Oscar/Git/PstKB/PstKB.ori.xml');
+ModelOri = readCbModel('/home/Oscar/Git/PstKB/Models/PstKB.ori.xml');
+% Optimize model
 OptModelOri = optimizeCbModel(ModelOri);
-% Call the printFluxVector function and redirect the output to a text file
-diary('FluxOri.txt');
-printFluxVector(ModelOri, OptModelOri.v, 0);
-diary off;
-% import file as table
-tablaOri = readtable('FluxOri.txt', 'ReadVariableNames', false);
 %% Load 'cobra' represents the model with the updated stoichiometry
-ModelNew = readCbModel('/home/Oscar/Git/PstKB/PstKB_cobra.xml');
+ModelNew = readCbModel('/home/Oscar/Git/PstKB/Models/PstKB_cobra.xml');
+% Optimize Model
 OptModelNew = optimizeCbModel(ModelNew);
-% Call printFluxVector and redirect the output to a text file
-diary('FluxNew.txt');
-printFluxVector(ModelNew, OptModelNew.v, 0);
-diary off;
-% import data from file
-tablaNew = readtable('FluxNew.txt','ReadVariableNames',false);
-%% Combinar las dos tablas
-tabla = join(tablaOri,tablaNew,"Keys","Var1");
-% Actualizar nombres
-tabla.Properties.VariableNames(1) = "Reaction";
-tabla.Properties.VariableNames(2) = "Ori";
-tabla.Properties.VariableNames(3) = "Cobra";
-% Agregar la Columna Delta
-%tabla.Delta = 
-tabla.DeltaRelativo = ((tabla.Ori - tabla.Cobra) ./ tabla.Ori);
+%% Crear la tabla
+tabla = table(ModelOri.rxns,ModelOri.rxnNames,OptModelOri.v,OptModelNew.v,'VariableNames',{'rxn ID','rxn Name','Ori','Cobra'});
+% Agregar la Columna Delta es el porcentaje de Cambio respecto a Ori
+tabla.DeltaPorcentual = ((tabla.Cobra - tabla.Ori) ./ tabla.Ori) * 100 ;
+% Delta = Ori - Cobra
+tabla.Delta= ((tabla.Ori - tabla.Cobra));
 %% Guarda la tabla en un archivo CSV
 writetable(tabla, 'DeltaModels.csv');
