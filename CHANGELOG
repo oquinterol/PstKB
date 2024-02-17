@@ -1,3 +1,6 @@
+2023-02-13
+* Structured the information into Code, Data, and Models. In the Data folder, all information derived from the models in Models is stored, obtained using the code in Code.
+
 2024-01-18
 * Created the dev branch, and restored the main branch to Nov 7, 2023 fraction values
 

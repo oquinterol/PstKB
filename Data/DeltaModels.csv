@@ -1,0 +1,1086 @@
+rxn ID,rxn Name,Ori,Cobra,DeltaPorcentual,Delta
+rxn00001_c0,"diphosphate phosphohydrolase_c0",-563.572786167332,1000,-277.439369775227,-1563.57278616733
+rxn00001_d0,"diphosphate phosphohydrolase_d0",372.154881770121,-824.074074074074,-321.43309531624,1196.2289558442
+rxn00001_g0,"diphosphate phosphohydrolase_g0",-0,-0,NaN,0
+rxn00001_v0,"diphosphate phosphohydrolase_v0",0,0,NaN,0
+rxn00001_w0,"diphosphate phosphohydrolase_w0",-0,-0,NaN,0
+rxn00006_c0,"hydrogen-peroxide:hydrogen-peroxide oxidoreductase_c0",0.0286541329375741,500,1744848.97852711,-499.971345867062
+rxn00006_x0,"hydrogen-peroxide:hydrogen-peroxide oxidoreductase_x0",0.0252830584745628,0,-100,0.0252830584745628
+rxn00018_d0,"3-phospho-D-glycerate carboxy-lyase (dimerizing; D-ribulose-1,5-bisphosphate-forming)_d0",0,277.777777777778,Inf,-277.777777777778
+rxn00018_x0,"3-phospho-D-glycerate carboxy-lyase (dimerizing; D-ribulose-1,5-bisphosphate-forming)_x0",0,0,NaN,0
+rxn00048_d0,"6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)lumazine 2,3-butanediyltransferase_d0",0.0168553723163644,-3.3835545501258e-17,-100,0.0168553723163645
+rxn00069_d0,"L-glutamate:NAD+ oxidoreductase (transaminating)_d0",-241.763266603776,2.20232908690778e-14,-100,-241.763266603776
+rxn00076_c0,"NAD+ phosphohydrolase_c0",0,0,NaN,0
+rxn00076_d0,"NAD+ phosphohydrolase_d0",0,0,NaN,0
+rxn00077_c0,"ATP:NAD+ 2'-phosphotransferase_c0",0,0,NaN,0
+rxn00077_d0,"ATP:NAD+ 2'-phosphotransferase_d0",0,0,NaN,0
+rxn00078_c0,"ATP:NADH 2'-phosphotransferase_c0",0,0,NaN,0
+rxn00078_x0,"ATP:NADH 2'-phosphotransferase_x0",0,0,NaN,0
+rxn00083_c0,"NADPH:NAD+ oxidoreductase_c0",-1000,-1000,-0,0
+rxn00086_c0,"glutathione:NADP+ oxidoreductase_c0",0,0,NaN,0
+rxn00086_d0,"glutathione:NADP+ oxidoreductase_d0",-6.74037911245277,4.67528906730069e-14,-100.000000000001,-6.74037911245282
+rxn00086_m0,"glutathione:NADP+ oxidoreductase_m0",-0,-0,NaN,0
+rxn00088_c0,"NADP+ 2'-phosphohydrolase_c0",-1000,-1000,-0,0
+rxn00097_c0,"ATP:AMP phosphotransferase_c0",363.099481920855,-287.037037037037,-179.051899363382,650.136518957892
+rxn00097_d0,"ATP:AMP phosphotransferase_d0",-289.150581172166,287.037037037037,-199.269050704805,-576.187618209203
+rxn00097_m0,"ATP:AMP phosphotransferase_m0",-0.0294969015536539,-5.94977774483927e-15,-99.9999999999798,-0.0294969015536479
+rxn00097_n0,"ATP:AMP phosphotransferase_n0",-0,-0,NaN,0
+rxn00100_c0,"ATP:dephospho-CoA 3'-phosphotransferase_c0",0.0114616531749748,-5.41367387229263e-14,-100.000000000472,0.0114616531750289
+rxn00100_x0,"ATP:dephospho-CoA 3'-phosphotransferase_x0",0,0,NaN,0
+rxn00101_c0,"Urea amidohydrolase_c0",121.85226929979,0,-100,121.85226929979
+rxn00102_c0,"carbonate hydro-lyase (carbon-dioxide-forming)_c0",-393.745592990823,944.444444444444,-339.861591153467,-1338.19003743527
+rxn00102_d0,"carbonate hydro-lyase (carbon-dioxide-forming)_d0",80.8654688930469,-870.370370370371,-1176.31895577274,951.235839263418
+rxn00105_c0,"ATP:nicotinamide-nucleotide adenylyltransferase_c0",0,-5.55562403150215e-14,-Inf,5.55562403150215e-14
+rxn00116_c0,"UDP phosphohydrolase_c0",0,0,NaN,0
+rxn00116_g0,"UDP phosphohydrolase_g0",0,0,NaN,0
+rxn00117_c0,"ATP:UDP phosphotransferase_c0",-275.983667060533,-69.4444444444446,-74.8374803537874,-206.539222616088
+rxn00117_d0,"ATP:UDP phosphotransferase_d0",-0,-0,NaN,0
+rxn00117_m0,"ATP:UDP phosphotransferase_m0",-0,-0,NaN,0
+rxn00117_n0,"ATP:UDP phosphotransferase_n0",-0,-0,NaN,0
+rxn00117_x0,"ATP:UDP phosphotransferase_x0",-0,-0,NaN,0
+rxn00119_c0,"ATP:UMP phosphotransferase_c0",9.18617791241857,5.43059164505585e-14,-99.9999999999994,9.18617791241851
+rxn00120_c0,"UTP phosphohydrolase_c0",0,0,NaN,0
+rxn00120_g0,"UTP phosphohydrolase_g0",0,0,NaN,0
+rxn00121_c0,"FAD nucleotidohydrolase_c0",0,0,NaN,0
+rxn00121_d0,"FAD nucleotidohydrolase_d0",0,0,NaN,0
+rxn00122_c0,"ATP:FMN adenylyltransferase_c0",0.00842768615818222,-1.69177727506288e-17,-100,0.00842768615818224
+rxn00122_d0,"ATP:FMN adenylyltransferase_d0",0,0,NaN,0
+rxn00123_c0,"pyridoxal-5'-phosphate phosphohydrolase_c0",0,1000,Inf,-1000
+rxn00124_c0,"ATP:pyridoxal 5'-phosphotransferase_c0",0,0,NaN,0
+rxn00124_d0,"ATP:pyridoxal 5'-phosphotransferase_d0",0,0,NaN,0
+rxn00126_c0,"ATP:L-methionine S-adenosyltransferase_c0",6.60503047275217,4.79949241654504e-14,-99.9999999999993,6.60503047275213
+rxn00126_n0,"ATP:L-methionine S-adenosyltransferase_n0",0,0,NaN,0
+rxn00128_c0,"S-adenosyl-L-methionine methylthioadenosine-lyase (1-aminocyclopropane-1-carboxylate-forming)_c0",0,0,NaN,0
+rxn00134_c0,"ATP:adenosine 5'-phosphotransferase_c0",3.44405822540241,4.81037054442364e-14,-99.9999999999986,3.44405822540236
+rxn00138_c0,"deamido-NAD+:ammonia ligase (AMP-forming)_c0",0.0657359520335393,6.32184000519732e-14,-99.9999999999038,0.065735952033476
+rxn00139_c0,"AMP:diphosphate phospho-D-ribosyltransferase_c0",-3.10678222535266,0,-100,-3.10678222535266
+rxn00141_c0,"S-Adenosyl-L-homocysteine hydrolase_c0",6.52555739228031,1.03693781304759e-13,-99.9999999999984,6.5255573922802
+rxn00148_c0,"ATP:pyruvate 2-O-phosphotransferase_c0",317.252732326899,962.962962962964,203.531810711317,-645.710230636064
+rxn00148_d0,"ATP:pyruvate 2-O-phosphotransferase_d0",-1000,-1000,-0,0
+rxn00151_d0,"ATP:pyruvate,phosphate phosphotransferase_d0",0,0,NaN,0
+rxn00154_d0,"pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating)_d0",0,740.740740740741,Inf,-740.740740740741
+rxn00154_m0,"pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating)_m0",586.798734977089,0,-100,586.798734977089
+rxn00154_n0,"pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating)_n0",0,0,NaN,0
+rxn00159_m0,"(S)-malate:NAD+ oxidoreductase (decarboxylating)_m0",0,0,NaN,0
+rxn00161_c0,"(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating)_c0",0,0,NaN,0
+rxn00161_d0,"(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating)_d0",0,0,NaN,0
+rxn00166_c0,"D-serine ammonia-lyase_c0",0,703.703703703704,Inf,-703.703703703704
+rxn00168_c0,"pyruvate carboxy-lyase (acetaldehyde-forming)_c0",19.244031404178,0,-100,19.244031404178
+rxn00175_d0,"Acetate:CoA ligase (AMP-forming)_d0",6.74037911245277,-4.67528906730068e-14,-100.000000000001,6.74037911245282
+rxn00178_c0,"Acetyl-CoA:acetyl-CoA C-acetyltransferase_c0",0,-1.04805602190269e-15,-Inf,1.04805602190269e-15
+rxn00178_x0,"Acetyl-CoA:acetyl-CoA C-acetyltransferase_x0",0,0,NaN,0
+rxn00179_c0,"ATP:L-glutamate 5-phosphotransferase_c0",1000,1000,-1.13686837721616e-14,1.13686837721616e-13
+rxn00179_d0,"ATP:L-glutamate 5-phosphotransferase_d0",1000,1000,0,0
+rxn00184_c0,"L-Glutamate:NADP+ oxidoreductase (deaminating)_c0",-867.995036955724,-1000,15.208032007562,132.004963044276
+rxn00187_c0,"L-Glutamate:ammonia ligase (ADP-forming)_c0",0,0,NaN,0
+rxn00187_d0,"L-Glutamate:ammonia ligase (ADP-forming)_d0",0,0,NaN,0
+rxn00187_m0,"L-Glutamate:ammonia ligase (ADP-forming)_m0",0,0,NaN,0
+rxn00189_c0,"L-Glutamine amidohydrolase_c0",385.35248244638,0,-100,385.35248244638
+rxn00191_c0,"L-Alanine:2-oxoglutarate aminotransferase_c0",-1000,-1000,-0,0
+rxn00191_d0,"L-Alanine:2-oxoglutarate aminotransferase_d0",1000,1000,0,0
+rxn00191_m0,"L-Alanine:2-oxoglutarate aminotransferase_m0",1000,703.703703703703,-29.6296296296297,296.296296296297
+rxn00191_x0,"L-Alanine:2-oxoglutarate aminotransferase_x0",-1000,-1000,-0,0
+rxn00192_d0,"acetyl-CoA:L-glutamate N-acetyltransferase_d0",-1.62344403490682e-16,-3.61827245040419e-15,2128.76327893365,3.4559280469135e-15
+rxn00208_c0,"Pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating)_c0",0,-3.91076291343242e-16,-Inf,3.91076291343242e-16
+rxn00208_d0,"Pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating)_d0",0,0,NaN,0
+rxn00209_c0,"Pyridoxine 5-phosphate:oxygen oxidoreductase_c0",0,1000,Inf,-1000
+rxn00209_d0,"Pyridoxine 5-phosphate:oxygen oxidoreductase_d0",0,0,NaN,0
+rxn00211_c0,"UDP-glucose:NAD+ 6-oxidoreductase_c0",64.5560759716758,-4.77081191567734e-14,-100,64.5560759716758
+rxn00213_c0,"UTP:alpha-D-glucose-1-phosphate uridylyltransferase_c0",-282.641539125497,-69.4444444444446,-75.4302058150022,-213.197094681052
+rxn00237_c0,"ATP:GDP phosphotransferase_c0",4.44981829152024,-7.03817248795077e-16,-100,4.44981829152025
+rxn00237_d0,"ATP:GDP phosphotransferase_d0",8.13768947747693,7.03817248732829e-16,-100,8.13768947747693
+rxn00237_m0,"ATP:GDP phosphotransferase_m0",-0,-0,NaN,0
+rxn00237_n0,"ATP:GDP phosphotransferase_n0",-0,-0,NaN,0
+rxn00237_x0,"ATP:GDP phosphotransferase_x0",-0,-0,NaN,0
+rxn00239_c0,"ATP:GMP phosphotransferase_c0",4.44981829152024,-7.03817248826366e-16,-100,4.44981829152025
+rxn00247_c0,"ATP:oxaloacetate carboxy-lyase (transphosphorylating;phosphoenolpyruvate-forming)_c0",0,0,NaN,0
+rxn00247_n0,"ATP:oxaloacetate carboxy-lyase (transphosphorylating;phosphoenolpyruvate-forming)_n0",0,0,NaN,0
+rxn00248_c0,"(S)-malate:NAD+ oxidoreductase_c0",-3.11824387852742,74.0740740740736,-2475.50611689342,-77.192317952601
+rxn00248_d0,"(S)-malate:NAD+ oxidoreductase_d0",1000,1000,0,0
+rxn00248_m0,"(S)-malate:NAD+ oxidoreductase_m0",-685.234922617831,-333.333333333334,-51.3548824890759,-351.901589284497
+rxn00248_x0,"(S)-malate:NAD+ oxidoreductase_x0",0,3.27114647077739e-13,Inf,-3.27114647077739e-13
+rxn00257_c0,"acetyl-CoA:oxaloacetate C-acetyltransferase [(pro-S)-carboxymethyl-forming, ADP-phosphorylating]_c0",-330.748774119197,-666.666666666667,101.562853389869,335.917892547469
+rxn00260_c0,"L-Aspartate:2-oxoglutarate aminotransferase_c0",-1000,-1000,-0,0
+rxn00260_d0,"L-Aspartate:2-oxoglutarate aminotransferase_d0",-1000,-1000,2.27373675443232e-14,2.27373675443232e-13
+rxn00260_m0,"L-Aspartate:2-oxoglutarate aminotransferase_m0",942.798428631129,1000,6.06721114840249,-57.2015713688713
+rxn00260_x0,"L-Aspartate:2-oxoglutarate aminotransferase_x0",1000,1000,-4.54747350886464e-14,4.54747350886464e-13
+rxn00272_d0,"L-Alanine:glyoxylate aminotransferase_d0",-1000,-1000,-0,0
+rxn00272_m0,"L-Alanine:glyoxylate aminotransferase_m0",-999.991572313842,-703.703703703703,-29.6290365652352,-296.287868610138
+rxn00272_x0,"L-Alanine:glyoxylate aminotransferase_x0",1000,1000,0,0
+rxn00275_d0,"Glycine:2-oxoglutarate aminotransferase_d0",-102.787383793349,0,-100,-102.787383793349
+rxn00275_m0,"Glycine:2-oxoglutarate aminotransferase_m0",-942.74786251418,-1000,6.07290026976423,57.2521374858202
+rxn00275_x0,"Glycine:2-oxoglutarate aminotransferase_x0",743.952587060261,703.703703703704,-5.41014092250161,40.2488833565566
+rxn00285_m0,"Succinate:CoA ligase (ADP-forming)_m0",0,0,NaN,0
+rxn00299_c0,"GTP 7,8-8,9-dihydrolase_c0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn00300_d0,"GTP 7,8-8,9-dihydrolase (diphosphate-forming)_d0",0.0168553723163644,0,-100,0.0168553723163644
+rxn00313_d0,"meso-2,6-diaminoheptanedioate carboxy-lyase (L-lysine-forming)_d0",8.09057871185493,-1.88161270275293e-14,-100,8.09057871185495
+rxn00330_c0,"acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)_c0",0,-74.0740740740739,-Inf,74.0740740740739
+rxn00333_d0,"Glycolate:oxygen 2-oxidoreductase_d0",0,0,NaN,0
+rxn00333_x0,"Glycolate:oxygen 2-oxidoreductase_x0",0.0505661169491255,0,-100,0.0505661169491255
+rxn00337_d0,"ATP:L-aspartate 4-phosphotransferase_d0",8.09057871185496,-7.53492277699921e-16,-100,8.09057871185496
+rxn00338_c0,"L-aspartate:oxygen oxidoreductase_c0",0.0573082658751482,6.32184000519737e-14,-99.9999999998897,0.057308265875085
+rxn00338_d0,"L-aspartate:oxygen oxidoreductase_d0",0,0,NaN,0
+rxn00343_m0,"3-Cyano-L-alanine aminohydrolase_m0",0,1.19180549107492e-14,Inf,-1.19180549107492e-14
+rxn00361_c0,"ATP:adenylylsulfate 3'-phosphotransferase_c0",0,0,NaN,0
+rxn00361_d0,"ATP:adenylylsulfate 3'-phosphotransferase_d0",0,0,NaN,0
+rxn00363_c0,"Cytidine-5'-monophosphate phosphohydrolase_c0",0,0,NaN,0
+rxn00364_c0,"ATP:CMP phosphotransferase_c0",0.617833672256185,162.037037037045,26126.6438870713,-161.419203364789
+rxn00366_c0,"CDP phosphohydrolase_c0",0,162.037037037045,Inf,-162.037037037045
+rxn00366_g0,"CDP phosphohydrolase_g0",0,0,NaN,0
+rxn00371_c0,"Formate:NAD+ oxidoreductase_c0",0,0,NaN,0
+rxn00371_m0,"Formate:NAD+ oxidoreductase_m0",0,0,NaN,0
+rxn00383_c0,"Sulfite:oxygen oxidoreductase_c0",0,0,NaN,0
+rxn00383_x0,"Sulfite:oxygen oxidoreductase_x0",0,0,NaN,0
+rxn00391_c0,"riboflavin-5-phosphate phosphohydrolase (acid optimum)_c0",-0.0168553723163644,3.38355455012577e-17,-100,-0.0168553723163645
+rxn00391_d0,"riboflavin-5-phosphate phosphohydrolase (acid optimum)_d0",0,0,NaN,0
+rxn00392_c0,"ATP:riboflavin 5'-phosphotransferase_c0",0,0,NaN,0
+rxn00392_d0,"ATP:riboflavin 5'-phosphotransferase_d0",0,0,NaN,0
+rxn00394_d0,"L-Arginine amidinohydrolase_d0",0,3.86868937693213e-13,Inf,-3.86868937693213e-13
+rxn00394_m0,"L-Arginine amidinohydrolase_m0",0,0,NaN,0
+rxn00408_c0,"CTP phosphohydrolase_c0",0,0,NaN,0
+rxn00408_g0,"CTP phosphohydrolase_g0",0,0,NaN,0
+rxn00409_c0,"ATP:CDP phosphotransferase_c0",0.617833672256185,-5.43059164504326e-14,-100.000000000009,0.61783367225624
+rxn00409_d0,"ATP:CDP phosphotransferase_d0",-0,-0,NaN,0
+rxn00409_m0,"ATP:CDP phosphotransferase_m0",-0,-0,NaN,0
+rxn00409_n0,"ATP:CDP phosphotransferase_n0",0,0,NaN,0
+rxn00409_x0,"ATP:CDP phosphotransferase_x0",0,0,NaN,0
+rxn00412_c0,"UTP:L-glutamine amido-ligase (ADP-forming)_c0",4.38239680225475,-1.11378302396611e-14,-100,4.38239680225477
+rxn00414_d0,"hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)_d0",18.5523712011758,0,-100,18.5523712011758
+rxn00416_c0,"L-aspartate:L-glutamine amido-ligase (AMP-forming)_c0",4.71950424858204,0,-100,4.71950424858204
+rxn00420_d0,"O-phospho-L-serine phosphohydrolase_d0",-88.5407736158246,407.407407407408,-560.135359981306,-495.948181023232
+rxn00424_x0,"L-Serine:glyoxylate aminotransferase_x0",0,3.27114647077739e-13,Inf,-3.27114647077739e-13
+rxn00425_c0,"serine racemase_c0",0,703.703703703704,Inf,-703.703703703704
+rxn00437_c0,"ATP:thiamine-diphosphate phosphotransferase_c0",0,0,NaN,0
+rxn00439_c0,"Thiamin-triphosphate phosphohydrolase_c0",0,0,NaN,0
+rxn00440_c0,"ATP:thiamine diphosphotransferase_c0",0.00842768615818222,-1.69177727506288e-17,-100,0.00842768615818224
+rxn00451_c0,"S-Adenosyl-L-methionine:L-methionine S-methyltransferase_c0",0,0,NaN,0
+rxn00452_c0,"S-Adenosyl-L-methionine:L-homocysteine S-methyltransferase_c0",0,0,NaN,0
+rxn00454_c0,"L-Methionine:glyoxylate aminotransferase_c0",986.431425285327,1000,1.37552133547941,-13.5685747146733
+rxn00456_c0,"L-methionine methanethiol-lyase (deaminating;2-oxobutanoate-forming)_c0",0,0,NaN,0
+rxn00459_c0,"2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)_c0",765.430538079271,-185.185185185185,-124.193597716898,950.615723264457
+rxn00459_d0,"2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)_d0",130.600481318886,148.148148148149,13.4361425410191,-17.5476668292626
+rxn00459_n0,"2-phospho-D-glycerate hydro-lyase (phosphoenolpyruvate-forming)_n0",0,0,NaN,0
+rxn00469_c0,"N2-Acetyl-L-ornithine amidohydrolase_c0",-0,-0,NaN,0
+rxn00493_c0,"L-Phenylalanine:2-oxoglutarate aminotransferase_c0",0,0,NaN,0
+rxn00493_d0,"L-Phenylalanine:2-oxoglutarate aminotransferase_d0",0,0,NaN,0
+rxn00493_m0,"L-Phenylalanine:2-oxoglutarate aminotransferase_m0",0,0,NaN,0
+rxn00493_x0,"L-Phenylalanine:2-oxoglutarate aminotransferase_x0",0,0,NaN,0
+rxn00495_c0,"L-phenylalanine ammonia-lyase (trans-cinnamate-forming)_c0",52.7657430363787,1.08710375538847e-14,-100,52.7657430363787
+rxn00499_c0,"(S)-Lactate:NAD+ oxidoreductase_c0",-3.28679760169107,6.59793137274525e-15,-100,-3.28679760169107
+rxn00506_c0,"Acetaldehyde:NAD+ oxidoreductase_c0",0,0,NaN,0
+rxn00506_d0,"Acetaldehyde:NAD+ oxidoreductase_d0",0,0,NaN,0
+rxn00506_m0,"Acetaldehyde:NAD+ oxidoreductase_m0",0,0,NaN,0
+rxn00527_c0,"L-tyrosine:2-oxoglutarate aminotransferase_c0",0,0,NaN,0
+rxn00527_d0,"L-tyrosine:2-oxoglutarate aminotransferase_d0",0.0130629135451824,-2.62225477634747e-17,-100,0.0130629135451825
+rxn00527_m0,"L-tyrosine:2-oxoglutarate aminotransferase_m0",0,0,NaN,0
+rxn00527_x0,"L-tyrosine:2-oxoglutarate aminotransferase_x0",0,0,NaN,0
+rxn00533_c0,"Acetyl-CoA:carbon-dioxide ligase (ADP-forming)_c0",0.0252830584745467,-5.07533182518865e-17,-100,0.0252830584745467
+rxn00533_d0,"Acetyl-CoA:carbon-dioxide ligase (ADP-forming)_d0",211.619199431956,-1.99409071789877e-14,-100,211.619199431956
+rxn00541_c0,"L-threonine acetaldehyde-lyase (glycine-forming)_c0",-19.2693144626527,5.5590075860578e-14,-100,-19.2693144626528
+rxn00543_c0,"ethanol:NAD+ oxidoreductase_c0",-0,-0,NaN,0
+rxn00571_c0,"nitrite:NAD+ oxidoreductase_c0",0,0,NaN,0
+rxn00578_c0,"sucrose-6F-phosphate phosphohydrolase_c0",-328.058339831941,-69.4444444444446,-78.8316783898803,-258.613895387496
+rxn00611_c0,"sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase_c0",-10.9559920056369,2.19931045758175e-14,-100,-10.9559920056369
+rxn00611_d0,"sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase_d0",-0,-0,NaN,0
+rxn00654_c0,"N-Carbamoyl-beta-alanine amidohydrolase_c0",0.095738514756797,-5.43059164504326e-14,-100.000000000057,0.0957385147568513
+rxn00686_c0,"5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase_c0",-2.52830584745467,4.88599335707316e-15,-100,-2.52830584745467
+rxn00686_m0,"5,6,7,8-tetrahydrofolate:NADP+ oxidoreductase_m0",-0.0505661169491255,-1.19164732616165e-14,-99.9999999999764,-0.0505661169491136
+rxn00689_c0,"Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)_c0",0,0,NaN,0
+rxn00689_d0,"Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)_d0",0,0,NaN,0
+rxn00689_m0,"Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)_m0",0,0,NaN,0
+rxn00690_c0,"Formate:tetrahydrofolate ligase (ADP-forming)_c0",0.10955992005661,-4.36736026132252e-14,-100.00000000004,0.109559920056654
+rxn00692_c0,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase_c0",-789.43200547486,-703.703703703703,-10.8594915301906,-85.7283017711565
+rxn00692_d0,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase_d0",93.3855413921444,1.05338037410378e-13,-99.9999999999999,93.3855413921443
+rxn00692_m0,"5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase_m0",801.777947647139,1000,24.722811712963,-198.222052352861
+rxn00693_c0,"5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase_c0",6.52555739228031,1.03693781304759e-13,-99.9999999999984,6.5255573922802
+rxn00693_d0,"5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase_d0",4.18375623950656,6.71138061009353e-14,-99.9999999999984,4.18375623950649
+rxn00693_x0,"5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase_x0",0,0,NaN,0
+rxn00708_c0,"Uridine 5'-monophosphate phosphohydrolase_c0",0.0957385147567969,-5.43059164504326e-14,-100.000000000057,0.0957385147568512
+rxn00710_c0,"orotidine-5'-phosphate carboxy-lyase (UMP-forming)_c0",9.28191642717537,1.25858990250401e-25,-100,9.28191642717537
+rxn00711_d0,"UMP:diphosphate phospho-alpha-D-ribosyltransferase_d0",0,0,NaN,0
+rxn00720_d0,"5,6-Dihydrouracil:NADP+ oxidoreductase_d0",-0.0957385147567969,5.43059164504326e-14,-100.000000000057,-0.0957385147568512
+rxn00737_d0,"L-threonine ammonia-lyase (2-oxobutanoate-forming)_d0",6.99497951129124,-1.5062846565557e-14,-100,6.99497951129126
+rxn00747_c0,"D-glyceraldehyde-3-phosphate aldose-ketose-isomerase_c0",-1000,-1000,-0,0
+rxn00747_d0,"D-glyceraldehyde-3-phosphate aldose-ketose-isomerase_d0",-421.713848733601,46.2962962962965,-110.978130415997,-468.010145029898
+rxn00747_m0,"D-glyceraldehyde-3-phosphate aldose-ketose-isomerase_m0",1000,1000,1.13686837721616e-14,-1.13686837721616e-13
+rxn00770_c0,"ATP:D-ribose-5-phosphate diphosphotransferase_c0",12.4544346045616,6.32184000520994e-14,-99.9999999999995,12.4544346045615
+rxn00770_d0,"ATP:D-ribose-5-phosphate diphosphotransferase_d0",14.6185801331193,-5.86871018758392e-14,-100,14.6185801331194
+rxn00777_c0,"D-ribose-5-phosphate aldose-ketose-isomerase_c0",-12.4628622907197,0,-100,-12.4628622907197
+rxn00777_d0,"D-ribose-5-phosphate aldose-ketose-isomerase_d0",-31.5012300603497,92.5925925925928,-393.933260432069,-124.093822652942
+rxn00777_n0,"D-ribose-5-phosphate aldose-ketose-isomerase_n0",-0,-0,NaN,0
+rxn00779_c0,"D-glyceraldehyde 3-phosphate:NADP+ oxidoreductase_c0",0,0,NaN,0
+rxn00781_c0,"D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)_c0",1000,814.814814814815,-18.5185185185185,185.185185185185
+rxn00781_d0,"D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)_d0",807.490245782333,0,-100,807.490245782333
+rxn00781_m0,"D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)_m0",0,0,NaN,0
+rxn00781_n0,"D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)_n0",0,0,NaN,0
+rxn00782_d0,"D-glyceraldehyde-3-phosphate:NADP+ oxidoreductase (phosphorylating)_d0",-1000,-1000,-0,0
+rxn00789_d0,"1-(5-phospho-D-ribosyl)-ATP:diphosphate phospho-alpha-D-ribosyl-transferase_d0",-3.20252074010924,5.77444321975746e-15,-100,-3.20252074010925
+rxn00790_d0,"5-phosphoribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)_d0",-9.39341471504632,4.97817970953569e-14,-100.000000000001,-9.39341471504637
+rxn00791_d0,"N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate phosphoribosyl-transferase_d0",-2.02264467796373,3.13086156072509e-15,-100,-2.02264467796374
+rxn00799_m0,"(S)-malate hydro-lyase (fumarate-forming)_m0",-314.765077382169,-666.666666666667,111.798167767271,351.901589284497
+rxn00800_d0,"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)_d0",8.13768947747693,7.03817248732917e-16,-100,8.13768947747693
+rxn00802_d0,"2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)_d0",9.27045477400044,-1.25775550006727e-25,-100,9.27045477400044
+rxn00829_c0,"ATP:(R)-5-diphosphomevalonate carboxy-lyase (adding ATP; isopentenyl-diphosphate-forming)_c0",0,-1.04805602190269e-15,-Inf,1.04805602190269e-15
+rxn00829_x0,"ATP:(R)-5-diphosphomevalonate carboxy-lyase (adding ATP; isopentenyl-diphosphate-forming)_x0",0,0,NaN,0
+rxn00830_c0,"Isopentenyl-diphosphate delta3-delta2-isomerase_c0",-0.207321079491283,-6.31878812237066e-16,-99.9999999999997,-0.207321079491282
+rxn00830_d0,"Isopentenyl-diphosphate delta3-delta2-isomerase_d0",0.310981619236924,4.23790207404256e-16,-99.9999999999999,0.310981619236923
+rxn00830_m0,"Isopentenyl-diphosphate delta3-delta2-isomerase_m0",0,0,NaN,0
+rxn00832_d0,"IMP 1,2-hydrolase (decyclizing)_d0",-12.5875077689972,9.35863674184182e-26,-100,-12.5875077689972
+rxn00834_c0,"IMP:NAD+ oxidoreductase_c0",4.44981829152024,-7.03817248826327e-16,-100,4.44981829152024
+rxn00838_d0,"IMP:L-aspartate ligase (GDP-forming)_d0",8.13768947747693,7.03817248732917e-16,-100,8.13768947747693
+rxn00839_c0,"ATP:dADP phosphotransferase_c0",0,0,NaN,0
+rxn00839_d0,"ATP:dADP phosphotransferase_d0",0,0,NaN,0
+rxn00839_m0,"ATP:dADP phosphotransferase_m0",0,0,NaN,0
+rxn00839_n0,"ATP:dADP phosphotransferase_n0",0,0,NaN,0
+rxn00839_x0,"ATP:dADP phosphotransferase_x0",0,0,NaN,0
+rxn00863_d0,"L-histidinal:NAD+ oxidoreductase_d0",3.20252074010924,-5.77444321975747e-15,-100,3.20252074010925
+rxn00899_d0,"3-methyl-2-oxobutanoate:NAD+ oxidoreductase (CoA-mehtylpropanoylating)_d0",0,0,NaN,0
+rxn00899_m0,"3-methyl-2-oxobutanoate:NAD+ oxidoreductase (CoA-mehtylpropanoylating)_m0",0,0,NaN,0
+rxn00907_c0,"5,10-methylenetetrahydrofolate:NADP+ oxidoreductase_c0",-1000,-1000,-0,0
+rxn00907_d0,"5,10-methylenetetrahydrofolate:NADP+ oxidoreductase_d0",906.614458607856,703.703703703703,-22.381151434065,202.910754904152
+rxn00907_m0,"5,10-methylenetetrahydrofolate:NADP+ oxidoreductase_m0",115.282187014606,296.296296296297,157.018281808583,-181.014109281691
+rxn00908_m0,"glycine synthase_m0",140.978342553199,296.296296296297,110.17149934536,-155.317953743097
+rxn00912_c0,"5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase_c0",0.0957385147567969,-5.43059164504326e-14,-100.000000000057,0.0957385147568512
+rxn00912_m0,"5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate hydroxymethyltransferase_m0",0,0,NaN,0
+rxn00915_c0,"GMP:diphosphate 5-phospho-alpha-D-ribosyltransferase_c0",0,0,NaN,0
+rxn00917_c0,"Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)_c0",4.44981829152024,-7.03817248826405e-16,-100,4.44981829152024
+rxn00929_c0,"L-Proline:NAD+ 5-oxidoreductase_c0",-973.28406209582,-1000,2.74492709216379,26.7159379041804
+rxn00929_d0,"L-Proline:NAD+ 5-oxidoreductase_d0",-1000,-1000,-0,0
+rxn00931_c0,"L-Proline:NADP+ 5-oxidoreductase_c0",973.28406209582,1000,2.7449270921638,-26.7159379041805
+rxn00931_d0,"L-Proline:NADP+ 5-oxidoreductase_d0",991.909421288145,1000,0.815657008413945,-8.09057871185496
+rxn00937_m0,"L-asparagine hydro-lyase (3-cyanoalanine-forming)_m0",0,1.19180549107491e-14,Inf,-1.19180549107491e-14
+rxn00938_c0,"Nicotinamide amidohydrolase_c0",0.00842768615839106,0,-100,0.00842768615839106
+rxn00940_c0,"Nicotinamide D-ribonucleotide phosphoribohydrolase_c0",0,5.55562403150214e-14,Inf,-5.55562403150214e-14
+rxn00943_x0,"Palmitoyl-CoA hydrolase_x0",0,0,NaN,0
+rxn00947_d0,"Palmitate:CoA ligase (AMP-forming)_d0",0,0,NaN,0
+rxn00947_r0,"Palmitate:CoA ligase (AMP-forming)_r0",0,0,NaN,0
+rxn00947_x0,"Palmitate:CoA ligase (AMP-forming)_x0",0,0,NaN,0
+rxn00965_c0,"4-Hydroxybenzoyl-CoA hydrolase_c0",0.00842768615818222,-1.69177727507039e-17,-100,0.00842768615818224
+rxn00974_c0,"citrate hydro-lyase (cis-aconitate-forming)_c0",329.653174918634,666.666666666667,102.232745621581,-337.013491748033
+rxn00974_d0,"citrate hydro-lyase (cis-aconitate-forming)_d0",-0,-0,NaN,0
+rxn00974_m0,"citrate hydro-lyase (cis-aconitate-forming)_m0",0,0,NaN,0
+rxn00979_c0,"glycolaldehyde:NAD+ oxidoreductase_c0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn00980_c0,"2-Phosphoglycolate phosphohydrolase_c0",-0,-0,NaN,0
+rxn00980_d0,"2-Phosphoglycolate phosphohydrolase_d0",0,-1.19164732616165e-14,-Inf,1.19164732616165e-14
+rxn00980_n0,"2-Phosphoglycolate phosphohydrolase_n0",0,0,NaN,0
+rxn01000_d0,"prephenate hydro-lyase (decarboxylating; phenylpyruvate-forming)_d0",0,0,NaN,0
+rxn01005_c0,"UTP:1-phospho-alpha-D-glucuronate uridylyltransferase_c0",-0,-0,NaN,0
+rxn01007_c0,"UDP-D-glucuronate carboxy-lyase (UDP-D-xylose-forming)_c0",64.5560759716758,-4.77081191567733e-14,-100,64.5560759716759
+rxn01009_c0,"UDP-D-glucuronate carboxy-lyase (UDP-D-apiose-forming)_c0",0,0,NaN,0
+rxn01011_d0,"D-Glycerate:NAD+ 2-oxidoreductase_d0",0,0,NaN,0
+rxn01011_x0,"D-Glycerate:NAD+ 2-oxidoreductase_x0",0,-3.27114647077739e-13,-Inf,3.27114647077739e-13
+rxn01018_d0,"carbamoyl-phosphate:L-aspartate carbamoyltransferase_d0",9.28191642717537,1.25764203895903e-25,-100,9.28191642717537
+rxn01019_d0,"Carbamoyl-phosphate:L-ornithine carbamoyltransferase_d0",9.27045477400044,-1.25764203895903e-25,-100,9.27045477400044
+rxn01021_c0,"Methylthioadenosine methylthioribohydrolase_c0",-0,-0,NaN,0
+rxn01069_d0,"O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)_d0",-4.18375623950656,2.62403050417643e-14,-100.000000000001,-4.18375623950658
+rxn01100_c0,"ATP:3-phospho-D-glycerate 1-phosphotransferase_c0",-1000,-814.814814814815,-18.5185185185185,-185.185185185185
+rxn01100_d0,"ATP:3-phospho-D-glycerate 1-phosphotransferase_d0",192.509754217667,1000,419.454198081474,-807.490245782333
+rxn01101_d0,"3-Phospho-D-glycerate:NAD+ 2-oxidoreductase_d0",-88.5407736158245,407.407407407408,-560.135359981306,-495.948181023232
+rxn01102_d0,"ATP:(R)-glycerate 3-phosphotransferase_d0",0,3.2711464707774e-13,Inf,-3.2711464707774e-13
+rxn01106_c0,"2-Phospho-D-glycerate 2,3-phosphomutase_c0",-765.430538079271,185.185185185185,-124.193597716898,-950.615723264457
+rxn01106_d0,"2-Phospho-D-glycerate 2,3-phosphomutase_d0",-130.600481318886,-148.148148148149,13.4361425410191,17.5476668292626
+rxn01111_d0,"ATP:D-ribulose-5-phosphate 1-phosphotransferase_d0",0,277.777777777778,Inf,-277.777777777778
+rxn01115_c0,"6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)_c0",0,0,NaN,0
+rxn01115_d0,"6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)_d0",0,0,NaN,0
+rxn01115_m0,"6-phospho-D-gluconate:NADP+ 2-oxidoreductase (decarboxylating)_m0",0,0,NaN,0
+rxn01116_d0,"D-Ribulose-5-phosphate 3-epimerase_d0",-31.5349408049824,-185.185185185185,487.238093549638,153.650244380203
+rxn01169_m0,"ATP:beta-D-glucose 6-phosphotransferase_m0",0,0,NaN,0
+rxn01179_c0,"Malonyl-CoA:4-Coumaroyl-CoA malonyltransferase(cyclizing)_c0",0,0,NaN,0
+rxn01179_n0,"Malonyl-CoA:4-Coumaroyl-CoA malonyltransferase(cyclizing)_n0",0,0,NaN,0
+rxn01179_r0,"Malonyl-CoA:4-Coumaroyl-CoA malonyltransferase(cyclizing)_r0",0,0,NaN,0
+rxn01181_c0,"4-Hydroxycinnamyl aldehyde:NADP+ oxidoreductase (CoA-hydroxycinnamoylating)_c0",0,0,NaN,0
+rxn01182_c0,"4-Coumarate:CoA ligase (AMP-forming)_c0",0.00842768615818222,-1.69177727505275e-17,-100,0.00842768615818224
+rxn01200_d0,"Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase_d0",-16.8826499272304,92.5925925925927,-648.448217499601,-109.475242519823
+rxn01207_d0,"4-methyl-2-oxopentanoate:NAD+ oxidoreductase (CoA-mehtylpropanoylating)_d0",0,0,NaN,0
+rxn01207_m0,"4-methyl-2-oxopentanoate:NAD+ oxidoreductase (CoA-mehtylpropanoylating)_m0",0,0,NaN,0
+rxn01208_d0,"R01652_d0",-14.4956201920734,2.52638791623894e-14,-100,-14.4956201920734
+rxn01211_c0,"5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)_c0",-1000,-1000,-0,0
+rxn01211_d0,"5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)_d0",1000,1000,1.13686837721616e-14,-1.13686837721616e-13
+rxn01211_m0,"5,10-Methenyltetrahydrofolate 5-hydrolase (decyclizing)_m0",21.879790250145,-2.246979111496e-13,-100.000000000001,21.8797902501453
+rxn01213_c0,"GPPSYN-RXN_c0",0.103660539745641,-2.0808860483281e-16,-100,0.103660539745642
+rxn01213_m0,"GPPSYN-RXN_m0",0,0,NaN,0
+rxn01217_c0,"dCMP aminohydrolase_c0",0,0,NaN,0
+rxn01249_c0,"Pyridoxine:NADP+ 4-oxidoreductase_c0",0,-1000,-Inf,1000
+rxn01249_d0,"Pyridoxine:NADP+ 4-oxidoreductase_d0",0,0,NaN,0
+rxn01253_c0,"Pyridoxamine:pyruvate aminotransferase_c0",0,3.91076291343237e-16,Inf,-3.91076291343237e-16
+rxn01255_d0,"5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase (chorismate-forming)_d0",65.3002406594431,3.95934276780142e-18,-100,65.3002406594431
+rxn01256_c0,"Chorismate pyruvatemutase_c0",0,0,NaN,0
+rxn01256_d0,"Chorismate pyruvatemutase_d0",63.144859924488,-8.61670407380553e-15,-100,63.144859924488
+rxn01257_d0,"chorismate:L-glutamine aminotransferase_d0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn01258_d0,"chorismate hydroxymutase_d0",0.0821699400422766,-1.64948284318632e-16,-100,0.0821699400422768
+rxn01262_c0,"S-Adenosyl-L-methionine:nicotinate N-methyltransferase_c0",0,0,NaN,0
+rxn01263_c0,"UDP-glucose:nicotinate N-glucosyltransferase_c0",0,0,NaN,0
+rxn01265_c0,"Nicotinate D-ribonucleotide:diphosphate phosphoribosyltransferase_c0",-0.00842768615839106,0,-100,-0.00842768615839106
+rxn01275_c0,"ATP:D-Gluconate 6-phosphotransferase_c0",0,0,NaN,0
+rxn01301_d0,"L-Homoserine:NAD+ oxidoreductase_d0",1000,851.851851851852,-14.8148148148148,148.148148148148
+rxn01302_d0,"L-homoserine:NADP+ oxidoreductase_d0",-1000,-851.851851851852,-14.8148148148148,-148.148148148148
+rxn01332_d0,"Phosphoenolpyruvate:D-erythrose-4-phosphate C-(1-carboxyvinyl)transferase (phosphate hydrolysing, 2-carboxy-2-oxoethyl-forming)_d0",65.3002406594431,3.95934276728847e-18,-100,65.3002406594431
+rxn01334_c0,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase_c0",0,0,NaN,0
+rxn01334_d0,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase_d0",432.701865946638,907.407407407407,109.707301682704,-474.705541460769
+rxn01345_c0,"Sedoheptulose 1,7-bisphosphate 1-phosphohydrolase_c0",-0,-0,NaN,0
+rxn01345_d0,"Sedoheptulose 1,7-bisphosphate 1-phosphohydrolase_d0",-432.701865946638,-907.407407407407,109.707301682704,474.705541460769
+rxn01353_c0,"ATP:dGDP phosphotransferase_c0",0,0,NaN,0
+rxn01353_d0,"ATP:dGDP phosphotransferase_d0",0,0,NaN,0
+rxn01353_m0,"ATP:dGDP phosphotransferase_m0",0,0,NaN,0
+rxn01353_n0,"ATP:dGDP phosphotransferase_n0",0,0,NaN,0
+rxn01353_x0,"ATP:dGDP phosphotransferase_x0",0,0,NaN,0
+rxn01362_c0,"Orotidine-5'-phosphate:diphosphate phospho-alpha-D-ribosyl-transferase_c0",-9.28191642717537,-1.25917491696863e-25,-100,-9.28191642717537
+rxn01396_c0,"ATP:pyridoxine 5'-phosphotransferase_c0",0,1000,Inf,-1000
+rxn01396_d0,"ATP:pyridoxine 5'-phosphotransferase_d0",0,0,NaN,0
+rxn01399_c0,"UDP-glucose:pyridoxine 5'-O-beta-D-glucosyltransferase_c0",0,0,NaN,0
+rxn01426_c0,"S-Adenosyl-L-methionine:caffeoyl-CoA 3-O-methyltransferase_c0",0,0,NaN,0
+rxn01427_c0,"Caffeate:CoA ligase (AMP-forming)_c0",0,0,NaN,0
+rxn01429_c0,"Caffeoyl-CoA:quinate O-(3,4-dihydroxycinnamoyl)transferase_c0",0,0,NaN,0
+rxn01434_d0,"L-Citrulline:L-aspartate ligase (AMP-forming)_d0",9.27045477400044,-1.25775550006727e-25,-100,9.27045477400044
+rxn01454_c0,"acetyl-CoA:acetoacetyl-CoA C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)_c0",0,1.04805602190269e-15,Inf,-1.04805602190269e-15
+rxn01465_c0,"(S)-dihydroorotate amidohydrolase_c0",0,0,NaN,0
+rxn01465_d0,"(S)-dihydroorotate amidohydrolase_d0",-9.28191642717537,-1.26046948000619e-25,-100,-9.28191642717537
+rxn01466_c0,"Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase_c0",0.103660539745641,-2.0808860483281e-16,-100,0.103660539745642
+rxn01476_c0,"6-Phospho-D-glucono-1,5-lactone lactonohydrolase_c0",12.4628622907197,0,-100,12.4628622907197
+rxn01476_d0,"6-Phospho-D-glucono-1,5-lactone lactonohydrolase_d0",0,0,NaN,0
+rxn01486_d0,"trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase_d0",0.103660539745641,-2.0808860483281e-16,-100,0.103660539745641
+rxn01486_m0,"trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase_m0",0,0,NaN,0
+rxn01486_r0,"trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase_r0",0,0,NaN,0
+rxn01494_c0,"3,4-Dihydroxy-L-phenylalanine:oxygen 4,5-oxidoreductase (recyclizing)_c0",0,0,NaN,0
+rxn01501_c0,"(R)-Mevalonate:NADP+ oxidoreductase (CoA acylating)_c0",0,1.04805602190269e-15,Inf,-1.04805602190269e-15
+rxn01501_r0,"(R)-Mevalonate:NADP+ oxidoreductase (CoA acylating)_r0",0,0,NaN,0
+rxn01511_c0,"dTDP phosphohydrolase_c0",0,0,NaN,0
+rxn01511_g0,"dTDP phosphohydrolase_g0",0,0,NaN,0
+rxn01512_c0,"ATP:dTDP phosphotransferase_c0",2.52830584745467,-4.88599335707316e-15,-100,2.52830584745467
+rxn01512_d0,"ATP:dTDP phosphotransferase_d0",-0,-0,NaN,0
+rxn01512_m0,"ATP:dTDP phosphotransferase_m0",-0,-0,NaN,0
+rxn01512_n0,"ATP:dTDP phosphotransferase_n0",-0,-0,NaN,0
+rxn01512_x0,"ATP:dTDP phosphotransferase_x0",-0,-0,NaN,0
+rxn01513_c0,"ATP:dTMP phosphotransferase_c0",2.52830584745467,-4.88599335707316e-15,-100,2.52830584745467
+rxn01513_m0,"ATP:dTMP phosphotransferase_m0",-0,-0,NaN,0
+rxn01514_c0,"dTTP nucleotidohydrolase_c0",0,0,NaN,0
+rxn01514_g0,"dTTP nucleotidohydrolase_g0",0,0,NaN,0
+rxn01519_c0,"dUTP nucleotidohydrolase_c0",2.52830584745467,-4.88599335707316e-15,-100,2.52830584745467
+rxn01520_c0,"5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase_c0",2.52830584745467,-4.88599335707315e-15,-100,2.52830584745467
+rxn01539_c0,"thiamin monophosphate phosphohydrolase_c0",-1000,-1000,1.13686837721616e-14,1.13686837721616e-13
+rxn01539_d0,"thiamin monophosphate phosphohydrolase_d0",999.991572313842,1000,0.000842775718486288,-0.00842768615837031
+rxn01570_c0,"Coniferyl aldehyde:NADP+ oxidoreductase (CoA-feruloylating)_c0",0,0,NaN,0
+rxn01571_c0,"Ferulate:CoA ligase (AMP-forming)_c0",0,0,NaN,0
+rxn01607_c0,"ATP:(R)-mevalonate 5-phosphotransferase_c0",0,-1.04805602190269e-15,-Inf,1.04805602190269e-15
+rxn01611_c0,"trans-cinnamate,NADPH:oxygen oxidoreductase (4-hydroxylating)_c0",52.7657430363787,1.08710375538848e-14,-100,52.7657430363787
+rxn01611_r0,"trans-cinnamate,NADPH:oxygen oxidoreductase (4-hydroxylating)_r0",0,0,NaN,0
+rxn01612_c0,"trans-Cinnamate,NADPH:oxygen oxidoreductase (2-hydroxylating)_c0",0,0,NaN,0
+rxn01613_c0,"trans-Cinnamate:CoA ligase (AMP-forming)_c0",0,0,NaN,0
+rxn01626_c0,"5,6-Dihydrouracil amidohydrolase_c0",0.095738514756797,-5.43059164504326e-14,-100.000000000057,0.0957385147568513
+rxn01626_r0,"5,6-Dihydrouracil amidohydrolase_r0",0,0,NaN,0
+rxn01636_d0,"N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase_d0",9.27045477400044,148.148148148148,1498.06775136467,-138.877693374147
+rxn01637_d0,"N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase_d0",-9.27045477400044,-148.148148148148,1498.06775136467,138.877693374147
+rxn01643_c0,"L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)_c0",-0,-0,NaN,0
+rxn01643_d0,"L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)_d0",-8.09057871185496,7.53492277700145e-16,-100,-8.09057871185496
+rxn01644_d0,"L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and cyclizing)_d0",8.09057871185496,3.755678826525e-14,-99.9999999999995,8.09057871185492
+rxn01652_c0,"S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming)_c0",-1000,-1000,-0,0
+rxn01652_d0,"S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming)_d0",906.614458607856,148.148148148148,-83.6591897755926,758.466310459708
+rxn01652_m0,"S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming)_m0",93.3939690783025,851.851851851852,812.105846082685,-758.457882773549
+rxn01653_m0,"5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)_m0",0,0,NaN,0
+rxn01670_c0,"Nicotinamide ribonucleotide phosphohydrolase_c0",0,0,NaN,0
+rxn01673_c0,"ATP:dCDP phosphotransferase_c0",0,0,NaN,0
+rxn01673_d0,"ATP:dCDP phosphotransferase_d0",0,0,NaN,0
+rxn01673_m0,"ATP:dCDP phosphotransferase_m0",0,0,NaN,0
+rxn01673_n0,"ATP:dCDP phosphotransferase_n0",0,0,NaN,0
+rxn01673_x0,"ATP:dCDP phosphotransferase_x0",0,0,NaN,0
+rxn01678_c0,"ATP:dUDP phosphotransferase_c0",2.52830584745467,0,-100,2.52830584745467
+rxn01678_d0,"ATP:dUDP phosphotransferase_d0",0,0,NaN,0
+rxn01678_m0,"ATP:dUDP phosphotransferase_m0",0,0,NaN,0
+rxn01678_n0,"ATP:dUDP phosphotransferase_n0",0,0,NaN,0
+rxn01678_x0,"ATP:dUDP phosphotransferase_x0",0,0,NaN,0
+rxn01712_c0,"S-Adenosyl-L-methionine:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase_c0",0,0,NaN,0
+rxn01718_c0,"Feruloyl-CoA:tyramine N-(hydroxycinnamoyl)transferase_c0",0,0,NaN,0
+rxn01739_d0,"ATP:shikimate 3-phosphotransferase_d0",65.3002406594431,3.95934276754857e-18,-100,65.3002406594431
+rxn01740_d0,"Shikimate:NADP+ 3-oxidoreductase_d0",-65.3002406594431,-3.95934276757342e-18,-100,-65.3002406594431
+rxn01743_c0,"4-Coumaroyl-CoA:shikimate O-(hydroxycinnamoyl)transferase_c0",0,0,NaN,0
+rxn01765_r0,"flavonoid,NADPH:oxygen oxidoreductase (3'-hydroxylating)_r0",0,0,NaN,0
+rxn01790_c0,"(R)-Pantoate:NADP+ 2-oxidoreductase_c0",-0.0957385147567969,5.43059164504326e-14,-100.000000000057,-0.0957385147568512
+rxn01791_c0,"(R)-Pantoate:beta-alanine ligase (AMP-forming)_c0",0.095738514756797,-5.43059164504326e-14,-100.000000000057,0.0957385147568513
+rxn01807_c0,"ATP:pyridoxal 5'-phosphotransferase_c0",0,-3.91076291343238e-16,-Inf,3.91076291343238e-16
+rxn01807_d0,"ATP:pyridoxal 5'-phosphotransferase_d0",0,0,NaN,0
+rxn01827_c0,"4-Hydroxyphenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)_c0",0,0,NaN,0
+rxn01827_d0,"4-Hydroxyphenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)_d0",0.0130629135451824,-2.62225477634747e-17,-100,0.0130629135451825
+rxn01887_c0,"coniferyl alcohol:NADP+ oxidoreductase_c0",-0,-0,NaN,0
+rxn01887_w0,"coniferyl alcohol:NADP+ oxidoreductase_w0",-0,-0,NaN,0
+rxn01888_c0,"UDPglucose:coniferyl-alcohol 4'-beta-D-glucosyltransferase_c0",0,0,NaN,0
+rxn01909_c0,"UTP:1-Phospho-alpha-D-galacturonate uridylyltransferase_c0",-0,-0,NaN,0
+rxn01917_d0,"ATP:N-acetyl-L-glutamate 5-phosphotransferase_d0",9.27045477400044,148.148148148148,1498.06775136467,-138.877693374147
+rxn01974_d0,"LL-2,6-Diaminoheptanedioate 2-epimerase_d0",8.09057871185493,-1.88161270275292e-14,-100,8.09057871185495
+rxn01975_c0,"beta-D-Glucose-6-phosphate:NADP+ 1-oxoreductase_c0",12.4628622907197,0,-100,12.4628622907197
+rxn01975_d0,"beta-D-Glucose-6-phosphate:NADP+ 1-oxoreductase_d0",0,0,NaN,0
+rxn02155_c0,"ATP:nicotinamide-nucleotide adenylyltransferase_c0",0.0657359520335393,6.32184000519729e-14,-99.9999999999038,0.0657359520334761
+rxn02159_d0,"L-Histidinol:NAD+ oxidoreductase_d0",3.20252074010924,-5.77444321975747e-15,-100,3.20252074010925
+rxn02175_c0,"ATP:pantetheine-4'-phosphate adenylyltransferase_c0",0.0114616531749748,-5.41367387229263e-14,-100.000000000472,0.0114616531750289
+rxn02201_c0,"2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase_c0",0,0,NaN,0
+rxn02201_m0,"2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-diphosphate:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase_m0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn02212_d0,"2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase (cyclyzing)_d0",65.3002406594431,3.95934276760217e-18,-100,65.3002406594431
+rxn02213_d0,"3-Dehydroquinate hydro-lyase_d0",65.3002406594431,3.95934276785066e-18,-100,65.3002406594431
+rxn02251_d0,"D-Ribulose 1,5-bisphosphate oxygenase_d0",0,-1.19164732616165e-14,-Inf,1.19164732616165e-14
+rxn02251_x0,"D-Ribulose 1,5-bisphosphate oxygenase_x0",0,0,NaN,0
+rxn02277_m0,"7,8-Diaminononanoate:carbon-dioxide cyclo-ligase_m0",0.00842768615818222,-1.69177727506288e-17,-100,0.00842768615818224
+rxn02297_c0,"6-Carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase (decarboxylating)_c0",0.00842768615818222,-1.69177727506288e-17,-100,0.00842768615818224
+rxn02302_c0,"O-Acetyl-L-homoserine succinate-lyase (adding cysteine)_c0",0,0,NaN,0
+rxn02305_d0,"2-methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-(2-phosphoethyl)-thiazole 2-methyl-4-aminopyridine-5-methenyltransferase_d0",0.00842768615839106,-5.55562403150216e-14,-100.000000000659,0.00842768615844662
+rxn02312_m0,"S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase_m0",0.00842768615818222,-1.69177727506288e-17,-100,0.00842768615818224
+rxn02320_d0,"5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase_d0",-3.20252074010924,5.77444321975748e-15,-100,-3.20252074010925
+rxn02322_c0,"ATP:(R)-5-phosphomevalonate phosphotransferase_c0",0,-1.04805602190269e-15,-Inf,1.04805602190269e-15
+rxn02322_x0,"ATP:(R)-5-phosphomevalonate phosphotransferase_x0",0,0,NaN,0
+rxn02341_c0,"N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase_c0",0.095738514756797,-5.43059164504326e-14,-100.000000000057,0.0957385147568513
+rxn02373_c0,"L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)_c0",-1000,-1000,-0,0
+rxn02373_d0,"L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylating)_d0",-1000,-1000,-0,0
+rxn02374_c0,"R03314_c0",0,0,NaN,0
+rxn02374_d0,"R03314_d0",8.09057871185505,1.99393123196858e-13,-99.9999999999975,8.09057871185485
+rxn02374_m0,"R03314_m0",0,148.148148148148,Inf,-148.148148148148
+rxn02374_v0,"R03314_v0",0,0,NaN,0
+rxn02374_x0,"R03314_x0",0,0,NaN,0
+rxn02380_c0,"beta-D-Glucose 6-phosphate ketol-isomerase_c0",0,0,NaN,0
+rxn02380_d0,"beta-D-Glucose 6-phosphate ketol-isomerase_d0",0,0,NaN,0
+rxn02402_c0,"Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)_c0",-0.0573082658751482,-6.3218400051973e-14,-99.9999999998897,-0.057308265875085
+rxn02402_d0,"Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase (carboxylating)_d0",0,0,NaN,0
+rxn02414_c0,"S-Adenosyl-L-methionine:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase_c0",6.4050414802183,1.03935705455094e-13,-99.9999999999984,6.4050414802182
+rxn02465_d0,"N-acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphrylating)_d0",-9.27045477400045,-148.148148148148,1498.06775136467,138.877693374147
+rxn02473_d0,"D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase_d0",3.20252074010924,-5.77444321975748e-15,-100,3.20252074010925
+rxn02474_d0,"5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase_d0",-0.0168553723163644,0,-100,-0.0168553723163644
+rxn02475_d0,"2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine 2-aminohydrolase_d0",0.0168553723163644,0,-100,0.0168553723163644
+rxn02476_d0,"Phosphoenolpyruvate:3-phosphoshikimate 5-O-(1-carboxyvinyl)-transferase_d0",65.3002406594431,3.95934276786921e-18,-100,65.3002406594431
+rxn02484_d0,"ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase_d0",0,0,NaN,0
+rxn02503_c0,"ATP:2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine 6'-pyrophosphotransferase_c0",0,0,NaN,0
+rxn02503_m0,"ATP:2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine 6'-pyrophosphotransferase_m0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn02504_c0,"2-amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine glycolaldehyde-lyase_c0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn02507_d0,"1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate carboxy-lyase(cyclizing)_d0",2.02264467796373,-3.13086156072509e-15,-100,2.02264467796374
+rxn02516_m0,"L-cysteine hydrogen-sulfide-lyase (adding HCN)_m0",-0,-0,NaN,0
+rxn02554_c0,"R07440_c0",0,0,NaN,0
+rxn02554_r0,"R07440_r0",0,0,NaN,0
+rxn02575_c0,"UDPglucose:coniferyl-alcohol 4'-beta-D-glucosyltransferase_c0",0,0,NaN,0
+rxn02758_c0,"Sinapyl alcohol:NADP+ oxidoreductase_c0",0,0,NaN,0
+rxn02758_w0,"Sinapyl alcohol:NADP+ oxidoreductase_w0",0,0,NaN,0
+rxn02789_d0,"2-Isopropylmalate hydro-lyase_d0",14.4956201920734,-2.52638791623894e-14,-100,14.4956201920734
+rxn02811_d0,"3-Isopropylmalate hydro-lyase_d0",-14.4956201920734,2.52638791623894e-14,-100,-14.4956201920734
+rxn02814_c0,"4-coumaryl alcohol:NADP+ oxidoreductase_c0",0,0,NaN,0
+rxn02814_w0,"4-coumaryl alcohol:NADP+ oxidoreductase_w0",0,0,NaN,0
+rxn02832_d0,"(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate hydrolyase (2-succinylbenzoate-forming)_d0",-0.0821699400422766,1.64948284318632e-16,-100,-0.0821699400422768
+rxn02834_d0,"Phosphoribosyl-ATP pyrophosphohydrolase_d0",3.20252074010924,-5.77444321975746e-15,-100,3.20252074010925
+rxn02835_d0,"1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase_d0",3.20252074010924,-5.77444321975747e-15,-100,3.20252074010925
+rxn02894_c0,"ATP:S5-methyl-5-thio-D-ribose 1-phosphotransferase_c0",0,0,NaN,0
+rxn02895_d0,"5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)_d0",9.39341471504632,-4.97817970953571e-14,-100.000000000001,9.39341471504637
+rxn02914_d0,"3-Phosphoserine:2-oxoglutarate aminotransferase_d0",88.5407736158246,-407.407407407408,-560.135359981306,495.948181023232
+rxn02928_d0,"2,3,4,5-Tetrahydrodipicolinate:NAD+ oxidoreductase_d0",-285.954000331728,-1000,249.706595760132,714.045999668273
+rxn02929_d0,"2,3,4,5-Tetrahydrodipicolinate:NADP+ oxidoreductase_d0",277.863421619873,1000,259.889039791656,-722.136578380128
+rxn02937_d0,"2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase (ADP-forming)_d0",9.39341471504632,-4.97817970953574e-14,-100.000000000001,9.39341471504637
+rxn02938_d0,"1-(5-phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate carboxy-lyase_d0",-9.38498702888793,-5.77444321966426e-15,-99.9999999999999,-9.38498702888792
+rxn02988_c0,"glycerone phosphate:iminosuccinate alkyltransferase (cyclizing)_c0",-0.0573082658751482,-6.32184000519732e-14,-99.9999999998897,-0.057308265875085
+rxn02988_d0,"glycerone phosphate:iminosuccinate alkyltransferase (cyclizing)_d0",0,0,NaN,0
+rxn03004_d0,"10-Formyltetrahydrofolate:5'-phosphoribosylglycinamide formyltransferase_d0",9.39341471504632,-4.9781797095357e-14,-100.000000000001,9.39341471504637
+rxn03016_c0,"trans-5-O-(4-coumaroyl)-D-quinate,NADPH:oxygen oxidoreductase (3'-hydorxylating)_c0",0,0,NaN,0
+rxn03016_r0,"trans-5-O-(4-coumaroyl)-D-quinate,NADPH:oxygen oxidoreductase (3'-hydorxylating)_r0",0,0,NaN,0
+rxn03057_c0,"5-Methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase_c0",-0,-0,NaN,0
+rxn03062_d0,"3-Isopropylmalate:NAD+ oxidoreductase_d0",14.4956201920734,-2.52638791623894e-14,-100,14.4956201920734
+rxn03075_c0,"ATP:4-methyl-5-(2-hydroxyethyl)-thiazole 2-phosphotransferase_c0",0,0,NaN,0
+rxn03080_d0,"5-amino-6-(D-ribitylamino)uracil butanedionetransferase_d0",0.0337107446327289,-3.3835545501258e-17,-100,0.0337107446327289
+rxn03084_d0,"5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)_d0",9.39341471504632,-4.97817970953569e-14,-100.000000000001,9.39341471504637
+rxn03084_m0,"5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase (ADP-forming)_m0",0,0,NaN,0
+rxn03108_d0,"ATP:4-amino-2-methyl-5-phosphomethylpyrimidine phosphotransferase_d0",0.00842768615839106,-5.55562403150215e-14,-100.000000000659,0.00842768615844662
+rxn03135_d0,"R04558_d0",-3.20252074010924,5.77444321975747e-15,-100,-3.20252074010925
+rxn03136_d0,"1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole AMP-lyase_d0",9.38498702888793,5.77444321966413e-15,-99.9999999999999,9.38498702888792
+rxn03137_d0,"10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-imidazolecarboxamide formyltransferase_d0",12.5875077689972,0,-100,12.5875077689972
+rxn03147_d0,"1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase (ADP-forming)_d0",9.38498702888793,5.77444321966423e-15,-99.9999999999999,9.38498702888792
+rxn03168_c0,"R04621_c0",-0.0505661169491255,-1.19164732616165e-14,-99.9999999999764,-0.0505661169491136
+rxn03173_c0,"R04638_c0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn03175_d0,"N-(5'-Phospho-D-ribosylformimino)-5-amino-1- (5''-phospho-D-ribosyl)-4-imidazolecarboxamide ketol-isomerase_d0",3.20252074010924,-5.77444321975746e-15,-100,3.20252074010925
+rxn03891_d0,"R05612_d0",0.0214905997033647,-4.31403205141786e-17,-100,0.0214905997033647
+rxn03891_m0,"R05612_m0",0,0,NaN,0
+rxn03891_r0,"R05612_r0",0,0,NaN,0
+rxn03892_d0,"R05613_d0",0.0214905997033647,-4.31403205141786e-17,-100,0.0214905997033647
+rxn03892_m0,"R05613_m0",0,0,NaN,0
+rxn03892_r0,"R05613_r0",0,0,NaN,0
+rxn03907_d0,"CTP: 2-C-Methyl-D-erythritol 4-phosphate cytidylyltransferase_d0",0.522095157499388,0,-100,0.522095157499388
+rxn03908_d0,"ATP:4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol 2-phosphotransferase_d0",0.522095157499388,0,-100,0.522095157499388
+rxn03909_d0,"1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)_d0",0.522095157499388,0,-100,0.522095157499388
+rxn03910_d0,"2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol CMP-lyase (cyclizing)_d0",0.522095157499388,0,-100,0.522095157499388
+rxn03958_d0,"1-Deoxy-D-xylulose-5-phosphate isomeroreductase_d0",-0.522095157499388,0,-100,-0.522095157499388
+rxn03970_c0,"Coniferyl aldehyde:NAD oxidoreductase_c0",-1000,-1000,-1.13686837721616e-14,-1.13686837721616e-13
+rxn03971_c0,"Coniferyl aldehyde:NADP oxidoreductase_c0",1000,1000,0,0
+rxn03983_c0,"AMP,sulfite:glutathione-disulfide oxidoreductase (adenosine-5'-phosphosulfate-forming)_c0",0,0,NaN,0
+rxn03983_d0,"AMP,sulfite:glutathione-disulfide oxidoreductase (adenosine-5'-phosphosulfate-forming)_d0",-6.74037911245277,4.6752890673007e-14,-100.000000000001,-6.74037911245282
+rxn04113_d0,"isopentenyl-diphosphate:NAD(P)+ oxidoreductase_d0",0,0,NaN,0
+rxn04426_c0,"R06572_c0",0,0,NaN,0
+rxn04426_r0,"R06572_r0",0,0,NaN,0
+rxn04430_c0,"S-adenosyl-L-methionine:3,4-dihydroxy-trans-cinnamate 3-O-methyltransferase_c0",0,0,NaN,0
+rxn04954_c0,"5-methyltetrahydrofolate:NAD+ oxidoreductase_c0",-10.717741317945,-1.70790669632944e-13,-99.9999999999984,-10.7177413179449
+rxn04996_d0,"dimethyallyl diphosphate:NADP+ oxidoreductase_d0",0,0,NaN,0
+rxn05023_d0,"1,4-dihydroxy-2-naphthoyl-CoA hydrolase_d0",0.0821699400422766,-1.64948284318631e-16,-100,0.0821699400422768
+rxn05023_x0,"1,4-dihydroxy-2-naphthoyl-CoA hydrolase_x0",0,0,NaN,0
+rxn05024_d0,"4-(2-carboxyphenyl)-4-oxobutanoyl-CoA dehydratase (cyclizing)_d0",0.0821699400422766,-1.64948284318631e-16,-100,0.0821699400422768
+rxn05024_x0,"4-(2-carboxyphenyl)-4-oxobutanoyl-CoA dehydratase (cyclizing)_x0",0,0,NaN,0
+rxn05034_m0,"solanesyl-diphosphate:4-hydroxybenzoate nonaprenyltransferase_m0",0.00842768615818222,-1.69177727507039e-17,-100,0.00842768615818224
+rxn05039_d0,"R07280_d0",0.0168553723163644,0,-100,0.0168553723163644
+rxn05040_d0,"D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)_d0",0.0337107446327289,-3.3835545501258e-17,-100,0.0337107446327289
+rxn05092_c0,"1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase (formate-forming)_c0",0,0,NaN,0
+rxn05104_c0,"S-methyl-5-thio-D-ribulose-1-phosphate hydro-lyase_c0",0,0,NaN,0
+rxn05104_d0,"S-methyl-5-thio-D-ribulose-1-phosphate hydro-lyase_d0",0,0,NaN,0
+rxn05105_d0,"2,3-diketo-5-methylthiopentyl-1-phosphate keto---enol-isomerase_d0",0,0,NaN,0
+rxn05106_d0,"2-hydroxy-5-(methylthio)-3-oxopent-1-enyl phosphate phosphohydrolase_d0",-0,-0,NaN,0
+rxn05136_c0,"p-coumaroyl-CoA:quinate hydroxycinnamoyltransferase_c0",0,0,NaN,0
+rxn05143_c0,"sinapoyl aldehyde:NADP oxidoreductase_c0",0,0,NaN,0
+rxn05206_c0,"TRANS-RXN-187.ce_c0",25.8729965056194,-5.19375623444305e-14,-100,25.8729965056195
+rxn05218_d0,"TRANS-RXNBWI-115362.ce.maizeexp.GLY_d0",-1000,-1000,-0,0
+rxn05218_m0,"TRANS-RXNBWI-115362.ce.maizeexp.GLY_m0",-1000,-1000,-0,0
+rxn05218_x0,"TRANS-RXNBWI-115362.ce.maizeexp.GLY_x0",256.047412939739,296.296296296296,15.7193087383506,-40.248883356557
+rxn05220_d0,"TRANS-RXNBWI-115362.ce.maizeexp.ASN_d0",-0,-0,NaN,0
+rxn05220_m0,"TRANS-RXNBWI-115362.ce.maizeexp.ASN_m0",0,-1.19180549107491e-14,-Inf,1.19180549107491e-14
+rxn05220_x0,"TRANS-RXNBWI-115362.ce.maizeexp.ASN_x0",-0,-0,NaN,0
+rxn05222_d0,"RXN66-449.ce_d0",2.02264467796373,-3.13086156072509e-15,-100,2.02264467796374
+rxn05222_m0,"RXN66-449.ce_m0",-0,-0,NaN,0
+rxn05222_x0,"RXN66-449.ce_x0",-0,-0,NaN,0
+rxn05224_d0,"Riboflavin permease_d0",0.0168553723163644,-3.38355455012577e-17,-100,0.0168553723163645
+rxn05224_m0,"Riboflavin permease_m0",-0,-0,NaN,0
+rxn05238_c0,"TRANS-RXNBWI-115353.ce_c0",6.74037911245277,-4.6752890673007e-14,-100.000000000001,6.74037911245282
+rxn05238_d0,"TRANS-RXNBWI-115353.ce_d0",-6.74037911245277,4.6752890673007e-14,-100.000000000001,-6.74037911245282
+rxn05238_v0,"TRANS-RXNBWI-115353.ce_v0",-0,-0,NaN,0
+rxn05245_d0,"TRANS-RXNBWI-115362.ce.maizeexp.VAL_d0",10.7988999356482,-7.38387480027695e-14,-100.000000000001,10.7988999356483
+rxn05245_m0,"TRANS-RXNBWI-115362.ce.maizeexp.VAL_m0",-0,-0,NaN,0
+rxn05245_x0,"TRANS-RXNBWI-115362.ce.maizeexp.VAL_x0",-0,-0,NaN,0
+rxn05287_d0,"geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase_d0",0.0214905997033647,-4.31403205141786e-17,-100,0.0214905997033647
+rxn05287_m0,"geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase_m0",0,0,NaN,0
+rxn05287_r0,"geranylgeranyl-diphosphate:isopentenyl-diphosphate transtransferase_r0",0,0,NaN,0
+rxn05319_c0,"TRANS-RXNBWI-115401.ce.maizeexp.OH_c0",-1000,-763.888888888889,-23.6111111111111,-236.111111111111
+rxn05319_d0,"TRANS-RXNBWI-115401.ce.maizeexp.OH_d0",-1000,-824.074074074075,-17.5925925925925,-175.925925925925
+rxn05319_m0,"TRANS-RXNBWI-115401.ce.maizeexp.OH_m0",252.676624991518,-1000,-495.762765959681,1252.67662499152
+rxn05319_v0,"TRANS-RXNBWI-115401.ce.maizeexp.OH_v0",-0,-0,NaN,0
+rxn05319_x0,"TRANS-RXNBWI-115401.ce.maizeexp.OH_x0",0.0505661169491255,0,-100,0.0505661169491255
+rxn05324_d0,"Dodecanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_d0",-29.9182858615469,2.49904754355878e-15,-100,-29.9182858615469
+rxn05325_d0,"Octanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_d0",-29.9182858615469,2.49904754355879e-15,-100,-29.9182858615469
+rxn05326_d0,"Hexanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase(decarboxylating, oxoacyl- and enoyl-reducing)_d0",-29.9182858615469,2.49904754355878e-15,-100,-29.9182858615469
+rxn05330_d0,"(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn05331_d0,"(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn05335_d0,"(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase_d0",29.9182858615469,-2.49904754355877e-15,-100,29.9182858615469
+rxn05337_d0,"(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_d0",-29.9182858615469,2.49904754355879e-15,-100,-29.9182858615469
+rxn05338_d0,"(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_d0",-29.9182858615469,2.49904754355879e-15,-100,-29.9182858615469
+rxn05340_d0,"(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_d0",-29.9182858615469,2.49904754355878e-15,-100,-29.9182858615469
+rxn05342_d0,"(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase_d0",-29.9182858615469,2.49904754355877e-15,-100,-29.9182858615469
+rxn05343_d0,"Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_d0",29.9182858615469,-2.49904754355879e-15,-100,29.9182858615469
+rxn05345_d0,"dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_d0",29.9182858615469,-2.49904754355877e-15,-100,29.9182858615469
+rxn05346_d0,"butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn05348_d0,"Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn05350_d0,"hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn05465_d0,"Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase_d0",209.428001030828,-1.74933328049115e-14,-100,209.428001030828
+rxn05467_c0,"CO2 transporter via diffusion_c0",-1000,-833.333333333332,-16.6666666666668,-166.666666666668
+rxn05467_d0,"CO2 transporter via diffusion_d0",403.86387299234,-407.407407407409,-200.877408119923,811.271280399749
+rxn05467_m0,"CO2 transporter via diffusion_m0",762.210496251082,296.296296296297,-61.1267100422226,465.914199954785
+rxn05468_c0,"TRANS-RXNAVI-26568.ce_c0",194.961137737236,833.333333333334,327.435612556017,-638.372195596098
+rxn05468_d0,"TRANS-RXNAVI-26568.ce_d0",123.722784162727,1.25293151808871e-14,-100,123.722784162727
+rxn05468_m0,"TRANS-RXNAVI-26568.ce_m0",-259.47605556427,-333.333333333333,28.4640051308199,73.8572777690629
+rxn05468_x0,"TRANS-RXNAVI-26568.ce_x0",-0.0252830584745628,0,-100,-0.0252830584745628
+rxn05667_c0,"TRANS-RXN4LZ-7041.ce_c0",121.85226929979,-3.86868937693213e-13,-100,121.85226929979
+rxn05667_d0,"TRANS-RXN4LZ-7041.ce_d0",0,3.86868937693213e-13,Inf,-3.86868937693213e-13
+rxn05667_m0,"TRANS-RXN4LZ-7041.ce_m0",0,0,NaN,0
+rxn05736_d0,"acyl-coenzyme A ligase_d0",0,0,NaN,0
+rxn05736_r0,"acyl-coenzyme A ligase_r0",0,0,NaN,0
+rxn05736_x0,"acyl-coenzyme A ligase_x0",0,0,NaN,0
+rxn06556_d0,"Dodecanoyl-[acyl-carrier-protein] hydrolase_d0",0,0,NaN,0
+rxn07441_d0,"LL-2,6-diaminoheptanedioate:2-oxoglutarate aminotransferase_d0",-8.09057871185493,1.88161270275291e-14,-100,-8.09057871185495
+rxn07579_d0,"R07765_d0",2.19119840112738,-2.44757437407633e-15,-100,2.19119840112738
+rxn08094_m0,"2-Oxoglutarate dehydrogenase complex_m0",0,0,NaN,0
+rxn08104_d0,"L-alanine transport via diffusion (extracellular to periplasm)_d0",-0.00842768615812737,5.55562403150219e-14,-100.000000000659,-0.00842768615818293
+rxn08155_d0,"L-arginine transport via diffusion (extracellular to periplasm)_d0",-9.27045477400044,1.40930980075642e-14,-100,-9.27045477400046
+rxn08155_m0,"L-arginine transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn08155_x0,"L-arginine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn08170_d0,"L-aspartate transport via diffusion (extracellular to periplasm)_d0",-955.834373580604,-1000,4.62063592188562,44.1656264193958
+rxn08170_m0,"L-aspartate transport via diffusion (extracellular to periplasm)_m0",942.798428631129,1000,6.06721114840248,-57.2015713688712
+rxn08170_x0,"L-aspartate transport via diffusion (extracellular to periplasm)_x0",1000,1000,0,0
+rxn08173_j0,"F(1)-ATPase_j0",1000,1000,0,0
+rxn08233_c0,"Chloride/proton antiport_c0",8.84907046609133,-1.77636613881603e-14,-100,8.84907046609135
+rxn08236_d0,"CMP transport via diffusion (extracellular to periplasm)_d0",-0.522095157499388,0,-100,-0.522095157499388
+rxn08236_m0,"CMP transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn08236_v0,"CMP transport via diffusion (extracellular to periplasm)_v0",0,0,NaN,0
+rxn08284_d0,"L-cysteine transport via diffusion (extracellular to periplasm)_d0",-2.54819518678782,5.83104564589199e-14,-100.000000000002,-2.54819518678788
+rxn08284_m0,"L-cysteine transport via diffusion (extracellular to periplasm)_m0",0.00842768615818222,-1.69177727506289e-17,-100,0.00842768615818224
+rxn08335_m0,"(S)-dihydroorotate:quinone oxidoreductase_m0",9.28191642717537,0,-100,9.28191642717537
+rxn08352_d0,"R08210_d0",0,0,NaN,0
+rxn08392_d0,"trans hexadecenoyl-[acp] reductase_d0",29.9182858615469,-2.49904754355876e-15,-100,29.9182858615469
+rxn08436_d0,"RXN-9549.c_d0",27.7270874604195,-5.14731694824258e-17,-100,27.7270874604195
+rxn08440_x0,"lauroyl-CoA hydrolase_x0",0,0,NaN,0
+rxn08444_x0,"Stearoyl-CoA hydrolase_x0",0,0,NaN,0
+rxn08525_d0,"formate transport via diffusion (extracellular to periplasm)_d0",-0.0589938031074844,5.55900758605228e-14,-100.000000000094,-0.05899380310754
+rxn08525_m0,"formate transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn08525_v0,"formate transport via diffusion (extracellular to periplasm)_v0",0,0,NaN,0
+rxn08525_x0,"formate transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn08556_m0,"sn-glycerol 3-phosphate:ubiquinone-8 oxidoreductase_m0",0,0,NaN,0
+rxn08633_d0,"L-glutamate transport via diffusion (extracellular to periplasm)_d0",1000,703.703703703704,-29.6296296296296,296.296296296296
+rxn08633_m0,"L-glutamate transport via diffusion (extracellular to periplasm)_m0",-1000,-1000,-0,0
+rxn08633_x0,"L-glutamate transport via diffusion (extracellular to periplasm)_x0",-743.95258706026,-703.703703703704,-5.41014092250164,-40.2488833565568
+rxn08680_d0,"GTP transport via diffusion (extracellular to periplasm)_d0",0.0168553723163644,2.6498627741062e-28,-100,0.0168553723163644
+rxn08680_m0,"GTP transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn08680_v0,"GTP transport via diffusion (extracellular to periplasm)_v0",0,0,NaN,0
+rxn08689_d0,"h2s transport (periplasm)_d0",0,0,NaN,0
+rxn08689_m0,"h2s transport (periplasm)_m0",0,0,NaN,0
+rxn08703_c0,"S-methylmethionine homocysteine transmethylase_c0",0,0,NaN,0
+rxn08704_d0,"Hexadecanoate transport via facilitated irreversible diffusion (extracellular to periplasm)_d0",-27.7270874604195,5.14731694824258e-17,-100,-27.7270874604195
+rxn08721_d0,"L-histidine transport via diffusion (extracellular to periplasm)_d0",-3.20252074010924,5.77444321975746e-15,-100,-3.20252074010925
+rxn08721_m0,"L-histidine transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn08721_x0,"L-histidine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn08730_c0,"proton transport via diffusion (extracellular to periplasm)_c0",-506.671532216738,5.16518963185857e-13,-100,-506.671532216739
+rxn08730_d0,"proton transport via diffusion (extracellular to periplasm)_d0",-1000,-1000,-0,0
+rxn08730_m0,"proton transport via diffusion (extracellular to periplasm)_m0",1000,1000,0,0
+rxn08730_v0,"proton transport via diffusion (extracellular to periplasm)_v0",0,0,NaN,0
+rxn08747_d0,"L-isoleucine transport via diffusion (extracellular to periplasm)_d0",-6.99497951129124,1.50628465655571e-14,-100,-6.99497951129126
+rxn08747_m0,"L-isoleucine transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn08747_x0,"L-isoleucine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn08749_d0,"IMP transport via diffusion (extracellular to periplasm)_d0",-4.44981829152024,7.03817248826415e-16,-100,-4.44981829152024
+rxn08756_d0,"isopentenyl-diphosphate:NAD+ oxidoreductase_d0",0.522095157499388,0,-100,0.522095157499388
+rxn08766_d0,"FabH_d0",29.9182858615469,-2.49904754355879e-15,-100,29.9182858615469
+rxn08786_d0,"L-leucine transport via diffusion (extracellular to periplasm)_d0",-14.4956201920734,2.52638791623893e-14,-100,-14.4956201920734
+rxn08786_m0,"L-leucine transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn08786_x0,"L-leucine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn08856_d0,"L-lysine transport via diffusion (extracellular to periplasm)_d0",-8.09057871185493,1.88161270275292e-14,-100,-8.09057871185495
+rxn08856_m0,"L-lysine transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn08856_x0,"L-lysine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn08920_d0,"L-methionine transport via diffusion (extracellular to periplasm)_d0",-4.19218392566495,-1.15575657859137e-14,-99.9999999999997,-4.19218392566493
+rxn08920_m0,"L-methionine transport via diffusion (extracellular to periplasm)_m0",-0.0168553723163644,3.38355455012578e-17,-100,-0.0168553723163645
+rxn08920_x0,"L-methionine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn08999_c0,"nitrite transport via diffusion (extracellular to periplasm)_c0",-305.966392153517,-0,-100,-305.966392153517
+rxn08999_d0,"nitrite transport via diffusion (extracellular to periplasm)_d0",305.966392153517,0,-100,305.966392153517
+rxn08999_m0,"nitrite transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn09005_c0,"nitrate transport via diffusion (extracellular to periplasm)_c0",-0,-0,NaN,0
+rxn09005_d0,"nitrate transport via diffusion (extracellular to periplasm)_d0",0,0,NaN,0
+rxn09005_m0,"nitrate transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn09034_d0,"Octadecanoate transport via facilitated irreversible diffusion (extracellular to periplasm)_d0",-0.927045477400044,1.86095500256918e-15,-100,-0.927045477400046
+rxn09048_d0,"ornithine transport via diffusion (extracellular to periplasm)_d0",1.07851838538625e-26,-148.148148148148,-1.37362654318677e+30,148.148148148148
+rxn09048_m0,"ornithine transport via diffusion (extracellular to periplasm)_m0",-1.07851838538625e-26,148.148148148148,-1.37362654318677e+30,-148.148148148148
+rxn09048_x0,"ornithine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn09050_m0,"Orotate transport via diffusion (extracellular to periplasm)_m0",-9.28191642717537,0,-100,-9.28191642717537
+rxn09118_d0,"L-phenylalanine transport via diffusion (extracellular to periplasm)_d0",-59.0022307934335,4.63448936494628e-16,-100,-59.0022307934335
+rxn09118_m0,"L-phenylalanine transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn09118_x0,"L-phenylalanine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn09121_c0,"phosphate transport via diffusion (extracellular to periplasm)_c0",-29.6315759784384,4.07520526840115e-12,-100.000000000014,-29.6315759784425
+rxn09121_d0,"phosphate transport via diffusion (extracellular to periplasm)_d0",-1000,1000,-200,-2000
+rxn09121_m0,"phosphate transport via diffusion (extracellular to periplasm)_m0",999.941006196893,1000,0.00589972835813594,-0.0589938031072279
+rxn09177_c0,"(R)-4'-Phosphopantothenate:L-cysteine ligase_c0",0.095738514756797,-5.43059164504326e-14,-100.000000000057,0.0957385147568513
+rxn09193_d0,"L-proline transport via diffusion (extracellular to periplasm)_d0",-8.09057871185511,-1.99393123196858e-13,-99.9999999999975,-8.09057871185492
+rxn09193_m0,"L-proline transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn09193_x0,"L-proline transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn09248_d0,"L-serine transport via diffusion (extracellular to periplasm)_d0",3.91825601409665,-407.407407407408,-10497.671972982,411.325663421504
+rxn09248_m0,"L-serine transport via diffusion (extracellular to periplasm)_m0",-801.777947647139,-1000,24.722811712963,198.222052352861
+rxn09248_x0,"L-serine transport via diffusion (extracellular to periplasm)_x0",0,3.27114647077739e-13,Inf,-3.27114647077739e-13
+rxn09272_m0,"fumarate reductase complex (i.e. FRD, involved in anaerobic respiration, repressed in aerobic respiration)_m0",287.971946101804,666.666666666667,131.504032143112,-378.694720564863
+rxn09275_c0,"sucrose transport transport via diffusion (extracellular to periplasm)_c0",-347.197615097173,-69.4444444444446,-79.998582529143,-277.753170652728
+rxn09275_d0,"sucrose transport transport via diffusion (extracellular to periplasm)_d0",0,0,NaN,0
+rxn09275_v0,"sucrose transport transport via diffusion (extracellular to periplasm)_v0",0,0,NaN,0
+rxn09300_d0,"Thiamine transport via diffusion (extracellular to periplasm)_d0",999.991572313842,1000,0.000842775718486288,-0.00842768615837031
+rxn09307_d0,"L-threonine transport via diffusion (extracellular to periplasm)_d0",11.1787357507978,-4.13031516073217e-14,-100,11.1787357507978
+rxn09307_m0,"L-threonine transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn09307_x0,"L-threonine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn09339_d0,"L-tyrosine transport via diffusion (extracellular to periplasm)_d0",-4.12956621750929,8.12703258954763e-15,-100,-4.1295662175093
+rxn09339_m0,"L-tyrosine transport via diffusion (extracellular to periplasm)_m0",0,0,NaN,0
+rxn09339_x0,"L-tyrosine transport via diffusion (extracellular to periplasm)_x0",0,0,NaN,0
+rxn09366_d0,"uracil transport via diffusion (extracellular to periplasm)_d0",0.0957385147567969,-5.43059164504326e-14,-100.000000000057,0.0957385147568512
+rxn09444_d0,"octanoyl-CoA ligase_d0",0,0,NaN,0
+rxn09444_r0,"octanoyl-CoA ligase_r0",0,0,NaN,0
+rxn09444_x0,"octanoyl-CoA ligase_x0",0,0,NaN,0
+rxn09449_d0,"acyl-coenzyme A ligase_d0",0,0,NaN,0
+rxn09449_r0,"acyl-coenzyme A ligase_r0",0,0,NaN,0
+rxn09449_x0,"acyl-coenzyme A ligase_x0",0,0,NaN,0
+rxn09453_d0,"RXN-13614.c_d0",0,0,NaN,0
+rxn09453_r0,"RXN-13614.c_r0",0,0,NaN,0
+rxn09453_x0,"RXN-13614.c_x0",0,0,NaN,0
+rxn09686_d0,"TRANS-RXNAVI-26378.ce.brachyexp.TTP_d0",-0,-0,NaN,0
+rxn09686_m0,"TRANS-RXNAVI-26378.ce.brachyexp.TTP_m0",-0,-0,NaN,0
+rxn09686_v0,"TRANS-RXNAVI-26378.ce.brachyexp.TTP_v0",-0,-0,NaN,0
+rxn09711_d0,"Transport of tetrahydrofolate, mitochondrial_d0",-119.550220115694,-1.22670046415863e-13,-99.9999999999999,-119.550220115694
+rxn09711_m0,"Transport of tetrahydrofolate, mitochondrial_m0",-660.850171210889,-703.703703703703,6.48460639940418,42.8535324928148
+rxn09711_v0,"Transport of tetrahydrofolate, mitochondrial_v0",0,0,NaN,0
+rxn09717_m0,"Transport of pyruvate, mitochondrial_m0",791.461361264228,-814.814814814815,-202.950675130026,1606.27617607904
+rxn09736_c0,"TRANS-RXN4LZ-7057.cm_c0",272.006483205326,5.6843418860808e-13,-99.9999999999998,272.006483205325
+rxn09736_d0,"TRANS-RXN4LZ-7057.cm_d0",-317.161983276631,-5.20509595353782e-14,-100,-317.161983276631
+rxn09736_m0,"TRANS-RXN4LZ-7057.cm_m0",-140.978342553199,-296.296296296297,110.17149934536,155.317953743097
+rxn09777_d0,"Tricarboxylate transport protein_d0",-0,-0,NaN,0
+rxn09777_m0,"Tricarboxylate transport protein_m0",-0,-0,NaN,0
+rxn09777_x0,"Tricarboxylate transport protein_x0",0,0,NaN,0
+rxn09784_d0,"TRANS-RXNBWI-115551.cm_d0",0.10366053974585,-5.57474111471037e-14,-100.000000000054,0.103660539745906
+rxn09784_m0,"TRANS-RXNBWI-115551.cm_m0",0.0505661169490933,-1.01506636504368e-16,-100,0.0505661169490934
+rxn09785_d0,"Transport of S-adenosyl-L-homocysteine, mitochondrial_d0",-0.0952328535874591,1.91170832082106e-16,-100,-0.0952328535874593
+rxn09785_m0,"Transport of S-adenosyl-L-homocysteine, mitochondrial_m0",-0.0252830584745467,5.07533182521117e-17,-100,-0.0252830584745467
+rxn09792_m0,"4-Hydroxybenzoate mitochondrial transport_m0",0.00842768615818222,-1.69177727507039e-17,-100,0.00842768615818224
+rxn09794_d0,"4-Aminobenzoate mitochondrial transport via diffusion_d0",-0.0505661169491255,-1.19164732616165e-14,-99.9999999999764,-0.0505661169491136
+rxn09794_m0,"4-Aminobenzoate mitochondrial transport via diffusion_m0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn09817_d0,"(S)-Dihydrooroate nuclear transport_d0",-9.28191642717537,-1.26083519755226e-25,-100,-9.28191642717537
+rxn09817_m0,"(S)-Dihydrooroate nuclear transport_m0",9.28191642717537,0,-100,9.28191642717537
+rxn09839_d0,"glyoxylate transport, peroxisomal_d0",-897.212616206651,-1000,11.456301654331,102.787383793349
+rxn09839_m0,"glyoxylate transport, peroxisomal_m0",-57.2437097996621,296.296296296296,-617.604986352659,-353.540006095958
+rxn09839_x0,"glyoxylate transport, peroxisomal_x0",255.99684682279,296.296296296296,15.7421663484014,-40.2994494735061
+rxn10480_c0,"CO transporter via diffusion_c0",0.00842768615839106,-5.55562403150215e-14,-100.000000000659,0.00842768615844662
+rxn10480_d0,"CO transporter via diffusion_d0",-0.00842768615839106,5.55562403150215e-14,-100.000000000659,-0.00842768615844662
+rxn10480_m0,"CO transporter via diffusion_m0",0,0,NaN,0
+rxn10480_v0,"CO transporter via diffusion_v0",0,0,NaN,0
+rxn10480_x0,"CO transporter via diffusion_x0",0,0,NaN,0
+rxn10826_d0,"TRANS-RXNBWI-115401.ce.maizeexp.HCO3_d0",-311.037039526178,870.370370370371,-379.828528363136,-1181.40740989655
+rxn10826_m0,"TRANS-RXNBWI-115401.ce.maizeexp.HCO3_m0",-0,-0,NaN,0
+rxn10826_v0,"TRANS-RXNBWI-115401.ce.maizeexp.HCO3_v0",-0,-0,NaN,0
+rxn10826_x0,"TRANS-RXNBWI-115401.ce.maizeexp.HCO3_x0",-0,-0,NaN,0
+rxn10832_d0,"CoA transporter_d0",256.033105485576,-740.740740740741,-389.314438199662,996.773846226316
+rxn10832_m0,"CoA transporter_m0",-586.798734977089,0,-100,-586.798734977089
+rxn10867_d0,"Nicotinamide transport_d0",0.00842768615839106,-5.55562403150221e-14,-100.000000000659,0.00842768615844662
+rxn10867_m0,"Nicotinamide transport_m0",-0,-0,NaN,0
+rxn10923_d0,"TRANS-RXNBWI-115377.ce_d0",577.660509926898,555.555555555556,-3.82663415474595,22.1049543713423
+rxn10923_m0,"TRANS-RXNBWI-115377.ce_m0",-965.617147396156,-851.851851851852,-11.7816150894875,-113.765295544304
+rxn10923_x0,"TRANS-RXNBWI-115377.ce_x0",-743.952587060261,-703.703703703704,-5.41014092250173,-40.2488833565575
+rxn10929_d0,"TRANS-RXNAVI-26408.ce.brachyexp.PYRUVATE_d0",940.142443338373,259.25925925926,-72.4234065703225,680.883184079113
+rxn10929_m0,"TRANS-RXNAVI-26408.ce.brachyexp.PYRUVATE_m0",204.671053973296,-814.814814814815,-498.109453680306,1019.48586878811
+rxn10929_x0,"TRANS-RXNAVI-26408.ce.brachyexp.PYRUVATE_x0",0,0,NaN,0
+rxn10952_d0,"TRANS-RXNAVI-26408.ce.brachyexp.SUC_d0",-0,-0,NaN,0
+rxn10952_m0,"TRANS-RXNAVI-26408.ce.brachyexp.SUC_m0",-287.971946101804,-666.666666666667,131.504032143112,378.694720564863
+rxn10952_x0,"TRANS-RXNAVI-26408.ce.brachyexp.SUC_x0",-0,-0,NaN,0
+rxn10967_d0,"TRANS-RXNAVI-26408.ce.brachyexp.MAL_d0",-1000,-1000,-0,0
+rxn10967_m0,"TRANS-RXNAVI-26408.ce.brachyexp.MAL_m0",1000,1000,0,0
+rxn10967_x0,"TRANS-RXNAVI-26408.ce.brachyexp.MAL_x0",0,-3.27114647077739e-13,-Inf,3.27114647077739e-13
+rxn11013_d0,"TRANS-RXNAVI-26408.ce.brachyexp.FUM_d0",26.7931312803653,6.47826046827178e-15,-100,26.7931312803653
+rxn11013_m0,"TRANS-RXNAVI-26408.ce.brachyexp.FUM_m0",-26.7931312803653,-6.47826046827178e-15,-100,-26.7931312803653
+rxn11013_x0,"TRANS-RXNAVI-26408.ce.brachyexp.FUM_x0",-0,-0,NaN,0
+rxn11040_c0,"RXN-3341.c_c0",12.4628622907197,0,-100,12.4628622907197
+rxn11040_d0,"RXN-3341.c_d0",0,0,NaN,0
+rxn11040_m0,"RXN-3341.c_m0",0,0,NaN,0
+rxn11700_d0,"rxn11700_d0",0.927045477400044,-1.86095500256918e-15,-100,0.927045477400046
+rxn11702_d0,"2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase_d0",0.0821699400422766,-1.64948284318632e-16,-100,0.0821699400422768
+rxn11703_d0,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase_d0",0.0821699400422766,-1.64948284318632e-16,-100,0.0821699400422768
+rxn12282_d0,"RXN-9644.c_d0",0,0,NaN,0
+rxn12282_r0,"RXN-9644.c_r0",0,0,NaN,0
+rxn12282_x0,"RXN-9644.c_x0",0,0,NaN,0
+rxn12329_x0,"RXN-9666.c_x0",0,0,NaN,0
+rxn12426_d0,"R_d0",0,1.19164732616165e-14,Inf,-1.19164732616165e-14
+rxn12426_m0,"R_m0",0,0,NaN,0
+rxn12426_x0,"R_x0",0.0505661169491255,0,-100,0.0505661169491255
+rxn12510_c0,"ATP:pantothenate 4'-phosphotransferase_c0",0.095738514756797,-5.43059164504326e-14,-100.000000000057,0.0957385147568513
+rxn13149_c0,"Hypothetical enzyme_c0",0.00842768615818222,-1.69177727506288e-17,-100,0.00842768615818224
+rxn13213_d0,"acetyl-CoA transport, nuclear_d0",256.033105485576,-740.740740740741,-389.314438199662,996.773846226316
+rxn13213_m0,"acetyl-CoA transport, nuclear_m0",-586.798734977089,0,-100,-586.798734977089
+rxn13290_d0,"farnesyl diphosphate transport (mitochondrial)_d0",0.103660539745641,-2.0808860483281e-16,-100,0.103660539745641
+rxn13360_d0,"NADP transporter_d0",-161.752199258347,703.703703703704,-535.050470367803,-865.455902962051
+rxn13360_m0,"NADP transporter_m0",115.223193211498,296.296296296297,157.149874116428,-181.073103084798
+rxn13361_d0,"NAD(+) transport (Peroxisomal membrane)_d0",-1000,-1000,-0,0
+rxn13361_m0,"NAD(+) transport (Peroxisomal membrane)_m0",144.68053653552,-111.111111111111,-176.797552574622,255.791647646631
+rxn13365_d0,"Oxaloacetate transport_d0",-1.24525663933082e-13,1.31976582093675e-13,-205.983439818957,-2.56502246026757e-13
+rxn13365_m0,"Oxaloacetate transport_m0",-257.563506013298,-666.666666666667,158.835840909949,409.103160653369
+rxn13365_x0,"Oxaloacetate transport_x0",-1000,-1000,-1.13686837721616e-14,-1.13686837721616e-13
+rxn13689_j0,"cytochrome-c reductase (ubiquinol8: 4 protons translocated)_j0",518.901545011592,666.666666666667,28.4765237405053,-147.765121655075
+rxn13726_j0,"NADH-DEHYDROG-A-RXN.ce.cornexp.CPD-9956_j0",221.647682482612,0,-100,221.647682482612
+rxn13822_d0,"deoxyadenosine transport_d0",-0.00842768615839107,5.55562403150215e-14,-100.000000000659,-0.00842768615844662
+rxn13822_m0,"deoxyadenosine transport_m0",-0.0168553723163644,3.38355455012579e-17,-100,-0.0168553723163645
+rxn14012_d0,"(E)-nonaprenyl-diphosphate:isopentenyl-diphosphate nonaprenyltranstransferase_d0",0,0,NaN,0
+rxn14012_m0,"(E)-nonaprenyl-diphosphate:isopentenyl-diphosphate nonaprenyltranstransferase_m0",0,0,NaN,0
+rxn14012_r0,"(E)-nonaprenyl-diphosphate:isopentenyl-diphosphate nonaprenyltranstransferase_r0",0,0,NaN,0
+rxn14085_d0,"all-trans-nonaprenyl-diphosphate:homogentisate nonaprenyltransferase (decarboxylating)_d0",0.0130629135451824,-2.62225477634747e-17,-100,0.0130629135451825
+rxn14094_d0,"tetrahydrogeranylgeranyl-diphosphate:NADP+ oxidoreductase_d0",0.0821699400422766,-1.64948284318632e-16,-100,0.0821699400422768
+rxn14142_d0,"dihydrogeranylgeranyl-diphosphate:NADP+ oxidoreductase_d0",0.0821699400422766,-1.64948284318632e-16,-100,0.0821699400422768
+rxn14261_d0,"phytyl-diphosphate:NADP+ oxidoreductase_d0",0.0821699400422766,-1.64948284318632e-16,-100,0.0821699400422768
+rxn15021_d0,"pyruvate:pyruvate acetaldehydetransferase (decarboxylating)_d0",-25.2945201277216,9.91026271651588e-14,-100,-25.2945201277217
+rxn15022_c0,"Isocitrate:NADP+ oxidoreductase (decarboxylating)_c0",0,0,NaN,0
+rxn15022_d0,"Isocitrate:NADP+ oxidoreductase (decarboxylating)_d0",0,0,NaN,0
+rxn15022_m0,"Isocitrate:NADP+ oxidoreductase (decarboxylating)_m0",0,0,NaN,0
+rxn15022_x0,"Isocitrate:NADP+ oxidoreductase (decarboxylating)_x0",0,0,NaN,0
+rxn15045_c0,"isocitrate glyoxylate-lyase (succinate-forming)_c0",287.971946101804,666.666666666667,131.504032143112,-378.694720564863
+rxn15045_x0,"isocitrate glyoxylate-lyase (succinate-forming)_x0",-0,-0,NaN,0
+rxn15056_m0,"Isocitrate:NAD+ oxidoreductase (decarboxylating)_m0",34.433418720793,0,-100,34.433418720793
+rxn15062_c0,"UDP-glucose:D-fructose-6-phosphate 2-alpha-D-glucosyltransferase_c0",-328.058339831941,-69.4444444444446,-78.8316783898803,-258.613895387496
+rxn15069_c0,"sucrose alpha-glucohydrolase_c0",0,0,NaN,0
+rxn15069_d0,"sucrose alpha-glucohydrolase_d0",0,0,NaN,0
+rxn15069_m0,"sucrose alpha-glucohydrolase_m0",0,0,NaN,0
+rxn15069_n0,"sucrose alpha-glucohydrolase_n0",0,0,NaN,0
+rxn15116_c0,"beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)_c0",1000,46.2962962962965,-95.3703703703704,953.703703703703
+rxn15116_d0,"beta-D-fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase (glycerone-phosphate-forming)_d0",-1000,-1000,-0,0
+rxn15118_c0,"Uridine ribohydrolase_c0",0.0957385147567969,-5.43059164504326e-14,-100.000000000057,0.0957385147568512
+rxn15121_m0,"ATP:D-galactose 1-phosphotransferase_m0",0,0,NaN,0
+rxn15151_c0,"myo-Inositol:oxygen oxidoreductase_c0",0,0,NaN,0
+rxn15151_n0,"myo-Inositol:oxygen oxidoreductase_n0",0,0,NaN,0
+rxn15166_d0,"L-cystathionine L-homocysteine-lyase (deaminating; pyruvate-forming)_d0",4.18375623950656,6.71138061009353e-14,-99.9999999999984,4.18375623950649
+rxn15209_c0,"ATP:D-glucuronate 1-phosphotransferase_c0",0,0,NaN,0
+rxn15229_c0,"Guanosine ribohydrolase_c0",-0,-0,NaN,0
+rxn15249_m0,"ATP:alpha-D-glucose 6-phosphotransferase_m0",0,0,NaN,0
+rxn15250_c0,"alpha-D-Glucose 6-phosphate phosphohydrolase_c0",134.000209915097,-8.96641955783329e-15,-100,134.000209915097
+rxn15250_d0,"alpha-D-Glucose 6-phosphate phosphohydrolase_d0",0,0,NaN,0
+rxn15271_d0,"beta-D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase_d0",48.4175907322128,92.5925925925926,91.2375051966181,-44.1750018603799
+rxn15280_c0,"isocitrate hydro-lyase (cis-aconitate-forming)_c0",-287.971946101804,-666.666666666667,131.504032143112,378.694720564863
+rxn15280_d0,"isocitrate hydro-lyase (cis-aconitate-forming)_d0",0,0,NaN,0
+rxn15280_m0,"isocitrate hydro-lyase (cis-aconitate-forming)_m0",-34.433418720793,0,-100,-34.433418720793
+rxn15298_c0,"diphosphate:beta-D-fructose-6-phosphate 1-phosphotransferase_c0",0,-245.37037037037,-Inf,245.37037037037
+rxn15298_d0,"diphosphate:beta-D-fructose-6-phosphate 1-phosphotransferase_d0",-1.70975578095313e-13,0,-100,-1.70975578095313e-13
+rxn15348_c0,"Coniferin beta-D-glucosidase_c0",0,0,NaN,0
+rxn15364_c0,"alpha-D-Glucose 6-phosphate ketol-isomerase_c0",136.17846691968,69.4444444444446,-49.0048272570112,66.7340224752352
+rxn15364_d0,"alpha-D-Glucose 6-phosphate ketol-isomerase_d0",0,0,NaN,0
+rxn15435_c0,"ATP:D-fructose 6-phosphotransferase_c0",0,0,NaN,0
+rxn15435_d0,"ATP:D-fructose 6-phosphotransferase_d0",0,0,NaN,0
+rxn15435_m0,"ATP:D-fructose 6-phosphotransferase_m0",0,0,NaN,0
+rxn15493_c0,"ATP:D-fructose-6-phosphate 1-phosphotransferase_c0",0,0,NaN,0
+rxn15493_d0,"ATP:D-fructose-6-phosphate 1-phosphotransferase_d0",0,0,NaN,0
+rxn15494_c0,"beta-D-Fructose 1,6-bisphosphate 1-phosphohydrolase_c0",-1000,-291.666666666667,-70.8333333333333,-708.333333333333
+rxn15494_d0,"beta-D-Fructose 1,6-bisphosphate 1-phosphohydrolase_d0",1000,1000,0,0
+rxn15780_c0,"R08767_c0",0.00842768615818222,-1.6917772750704e-17,-100,0.00842768615818224
+rxn16289_c0,"Hexadecanoic acid:fatty acid omega-hydroxylase_c0",0,0,NaN,0
+rxn16289_r0,"Hexadecanoic acid:fatty acid omega-hydroxylase_r0",0,0,NaN,0
+rxn16291_c0,"cis-9,10-epoxystearate,NADPH:oxygen oxidoreductase (18-hydroxylating)_c0",0,0,NaN,0
+rxn16291_r0,"cis-9,10-epoxystearate,NADPH:oxygen oxidoreductase (18-hydroxylating)_r0",0,0,NaN,0
+rxn16300_c0,"9,10-dihydroxystearate,NADPH:oxygen oxidoreductase (18-hydroxylating)_c0",0,0,NaN,0
+rxn16300_r0,"9,10-dihydroxystearate,NADPH:oxygen oxidoreductase (18-hydroxylating)_r0",0,0,NaN,0
+rxn17196_c0,"TPNH-ferredoxin reductase_c0",0,0,NaN,0
+rxn17196_d0,"TPNH-ferredoxin reductase_d0",0,0,NaN,0
+rxn17428_m0,"3-Demethylubiquinone-9 3-O-methyltransferase_m0",0.00842768615818222,-1.6917772750704e-17,-100,0.00842768615818224
+rxn17469_d0,"FabF_d0",0,0,NaN,0
+rxn17731_c0,"biotin synthase_c0",0,0,NaN,0
+rxn17731_m0,"biotin synthase_m0",0.00842768615818222,-1.69177727506289e-17,-100,0.00842768615818224
+rxn17744_d0,"2KETO-3METHYLVALERATE-RXN.c_d0",0,0,NaN,0
+rxn17744_m0,"2KETO-3METHYLVALERATE-RXN.c_m0",0,0,NaN,0
+rxn17803_d0,"oleoyl-[acyl-carrier-protein] hydrolase_d0",1.26415292372733,-5.86619371507139e-16,-100,1.26415292372733
+rxn18935_d0,"beta-hydroxybutyryl acyl carrier protein dehydrase_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn18936_d0,"(3R)-3-hydroxyoctanoyl-[acyl-carrier protein] hydro-lyase (oct-2-enoyl-[acyl-carrier protein]-forming)_d0",29.9182858615469,-2.49904754355879e-15,-100,29.9182858615469
+rxn18937_d0,"(3R)-3-hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase (hexadec-2-enoyl-[acyl-carrier protein]-forming)_d0",29.9182858615469,-2.49904754355876e-15,-100,29.9182858615469
+rxn19027_d0,"acetohydroxy acid reductoisomerase_d0",-25.2945201277216,9.91026271651587e-14,-100,-25.2945201277217
+rxn19029_d0,"2,3-dihydroxy-3-methylvalerate dehydrogenase (isomerizing)_d0",-6.99497951129124,1.50628465655571e-14,-100,-6.99497951129126
+rxn19030_d0,"2-aceto-2-hydroxy-butyrate synthase_d0",6.99497951129124,-1.50628465655571e-14,-100,6.99497951129126
+rxn19071_c0,"aminodeoxychorismate lyase_c0",0,0,NaN,0
+rxn19071_d0,"aminodeoxychorismate lyase_d0",0.0505661169491255,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn19077_c0,"ADPREDUCT-RXN.c_c0",0,0,NaN,0
+rxn19240_c0,"Isoleucine transaminase_c0",0,0,NaN,0
+rxn19240_d0,"Isoleucine transaminase_d0",-6.99497951129124,1.50628465655571e-14,-100,-6.99497951129126
+rxn19240_m0,"Isoleucine transaminase_m0",0,0,NaN,0
+rxn19241_c0,"branched-chain-amino-acid transaminase_c0",0,0,NaN,0
+rxn19241_d0,"branched-chain-amino-acid transaminase_d0",-14.4956201920734,2.52638791623893e-14,-100,-14.4956201920734
+rxn19241_m0,"branched-chain-amino-acid transaminase_m0",0,0,NaN,0
+rxn19242_c0,"Valine transaminase_c0",0.095738514756797,-5.43059164504326e-14,-100.000000000057,0.0957385147568513
+rxn19242_d0,"Valine transaminase_d0",-10.7988999356482,7.38387480027695e-14,-100.000000000001,-10.7988999356483
+rxn19242_m0,"Valine transaminase_m0",0,0,NaN,0
+rxn19246_d0,"15-tetracosenoate-CoA ligase_d0",0,0,NaN,0
+rxn19246_r0,"15-tetracosenoate-CoA ligase_r0",0,0,NaN,0
+rxn19246_x0,"15-tetracosenoate-CoA ligase_x0",0,0,NaN,0
+rxn19253_d0,"L-arogenate hydro-lyase (decarboxylating)_d0",59.0022307934335,-4.63448936494565e-16,-100,59.0022307934335
+rxn19277_c0,"CDPREDUCT-RXN.c_c0",0,0,NaN,0
+rxn19316_m0,"citrate condensing enzyme_m0",0,0,NaN,0
+rxn19316_x0,"citrate condensing enzyme_x0",0,0,NaN,0
+rxn19343_c0,"CYSPH-RXN.c_c0",-0,-0,NaN,0
+rxn19343_d0,"CYSPH-RXN.c_d0",4.18375623950656,6.71138061009352e-14,-99.9999999999984,4.18375623950649
+rxn19345_c0,"CYSSYNMULTI-RXN.c_c0",0,0,NaN,0
+rxn19345_d0,"CYSSYNMULTI-RXN.c_d0",6.74037911245277,-4.67528906730068e-14,-100.000000000001,6.74037911245282
+rxn19345_m0,"CYSSYNMULTI-RXN.c_m0",0,0,NaN,0
+rxn19488_m0,"7,8-dihydrofolate synthetase_m0",0.0505661169491256,1.19164732616165e-14,-99.9999999999764,0.0505661169491136
+rxn19544_c0,"alpha,beta-dihydroxyisovalerate dehydratase_c0",0,0,NaN,0
+rxn19544_d0,"alpha,beta-dihydroxyisovalerate dehydratase_d0",25.2945201277216,-9.91026271651587e-14,-100,25.2945201277217
+rxn19545_d0,"2,3-Dihydroxy-3-methylvalerate dehydratase_d0",6.99497951129124,-1.50628465655571e-14,-100,6.99497951129126
+rxn19686_d0,"beta-hydroxydecanoyl thioester dehydrase_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn19701_d0,"ferredoxin-nitrite reductase_d0",-305.966392153517,0,-100,-305.966392153517
+rxn19771_c0,"GDPREDUCT-RXN.c_c0",0,0,NaN,0
+rxn19828_d0,"ferredoxin-dependent glutamate synthase_d0",689.274485417272,-1.4055198170385e-13,-100,689.274485417272
+rxn19828_m0,"ferredoxin-dependent glutamate synthase_m0",-0,-0,NaN,0
+rxn19900_c0,"tetrahydropteroyltriglutamate methyltransferase_c0",-0,-0,NaN,0
+rxn19900_d0,"tetrahydropteroyltriglutamate methyltransferase_d0",-0,-0,NaN,0
+rxn19900_x0,"tetrahydropteroyltriglutamate methyltransferase_x0",-0,-0,NaN,0
+rxn19905_d0,"homoserine kinase_d0",0,9.33541111426988e-14,Inf,-9.33541111426988e-14
+rxn20176_m0,"mannokinase_m0",0,0,NaN,0
+rxn20496_m0,"Ornithine--oxo-glutarate aminotransferase_m0",-1.07578712456908e-26,148.148148148148,-1.37711397324532e+30,-148.148148148148
+rxn20508_c0,"phosphate:oxaloacetate carboxy-lyase (phosphorylating)_c0",-82.6832704061704,74.0740740740731,-189.587740918077,-156.757344480243
+rxn20583_c0,"phosphoglucose mutase_c0",282.641539125497,69.4444444444446,-75.4302058150022,213.197094681052
+rxn20583_d0,"phosphoglucose mutase_d0",-0,-0,NaN,0
+rxn20595_c0,"plastoquinol-plastocyanin reductase_c0",0,0,NaN,0
+rxn20595_d0,"plastoquinol-plastocyanin reductase_d0",250,0,-100,250
+rxn20617_c0,"PROLINE-MULTI.c_c0",-1000,-1000,-0,0
+rxn20617_d0,"PROLINE-MULTI.c_d0",-991.909421288145,-1000,0.815657008413957,8.09057871185507
+rxn20632_d0,"H2O:plastoquinone reductase (light-dependent)_d0",125,0,-100,125
+rxn20643_d0,"thiC (gene name)_d0",0.00842768615839106,-5.55562403150215e-14,-100.000000000659,0.00842768615844662
+rxn20649_m0,"1-pyrroline-5-carboxylate dehydrogenase_m0",-1.08025467127506e-26,148.148148148148,-1.37141872270994e+30,-148.148148148148
+rxn21324_c0,"RXN-1103.c_c0",6.4050414802183,1.03935705455094e-13,-99.9999999999984,6.4050414802182
+rxn21324_r0,"RXN-1103.c_r0",0,0,NaN,0
+rxn21635_c0,"pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)_c0",0.00842768615818222,0,-100,0.00842768615818222
+rxn21635_n0,"pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)_n0",0,0,NaN,0
+rxn22111_m0,"RXN-9242.c_m0",0.00842768615818222,-1.69177727507039e-17,-100,0.00842768615818224
+rxn22116_m0,"3-nonaprenyl-4,5-dihydroxybenzoate methyltransferase_m0",0.00842768615818222,-1.69177727507039e-17,-100,0.00842768615818224
+rxn23155_d0,"NAD(P)H-hydrate epimerase_d0",0,0,NaN,0
+rxn23415_d0,"RXN-13142.c_d0",0,0,NaN,0
+rxn23772_c0,"RXN-2121.c_c0",-0,-0,NaN,0
+rxn23773_c0,"RXN-2122.c_c0",-0,-0,NaN,0
+rxn23801_c0,"RXN-2581.c_c0",0,0,NaN,0
+rxn23801_r0,"RXN-2581.c_r0",0,0,NaN,0
+rxn23803_c0,"RXN-2621.c_c0",0,0,NaN,0
+rxn23805_d0,"RXN-2762.c_d0",0.0130629135451824,-2.62225477634747e-17,-100,0.0130629135451825
+rxn24109_d0,"arogenic dehydrogenase (ambiguous)_d0",4.14262913105447,-8.15325513731112e-15,-100,4.14262913105448
+rxn24131_c0,"UDP-glucose:4-aminobenzoate acylglucosyltransferase_c0",0,0,NaN,0
+rxn24286_c0,"RXN-7401.c_c0",-0,-0,NaN,0
+rxn24310_d0,"RXN-7568.c_d0",0.0821699400422766,-1.64948284318631e-16,-100,0.0821699400422768
+rxn24312_d0,"RXN-7569.c_d0",0.0821699400422766,-1.64948284318631e-16,-100,0.0821699400422768
+rxn24330_d0,"RXN-7614.c_d0",0.0821699400422766,-1.64948284318632e-16,-100,0.0821699400422768
+rxn24330_x0,"RXN-7614.c_x0",0,0,NaN,0
+rxn24348_c0,"RXN-7652.c_c0",0,0,NaN,0
+rxn24358_d0,"RXN-7664.c_d0",0,0,NaN,0
+rxn24360_d0,"RXN-7665.c_d0",0,0,NaN,0
+rxn24362_d0,"RXN-7666.c_d0",-0,-0,NaN,0
+rxn24404_c0,"RXN-7703.c_c0",999.980616321837,1000,0.00193840538972293,-0.019383678162967
+rxn24508_d0,"RXN-7903.c_d0",1.26415292372733,-5.86619371507139e-16,-100,1.26415292372733
+rxn24928_c0,"RXN-8442.c_c0",0,0,NaN,0
+rxn25371_c0,"RXN-91.c.metaexp.CPD-12575_c0",0,0,NaN,0
+rxn25441_c0,"RXN-92.c.metaexp.CPD-12575_c0",0,0,NaN,0
+rxn25468_m0,"RXN-9241.c_m0",0.00842768615818222,-1.69177727507039e-17,-100,0.00842768615818224
+rxn25469_m0,"RXN-9243.c_m0",0.00842768615818222,-1.6917772750704e-17,-100,0.00842768615818224
+rxn25475_m0,"RXN-9278.c_m0",0.00842768615818222,-1.69177727507039e-17,-100,0.00842768615818224
+rxn25480_m0,"RXN-9284.c_m0",0.00842768615818222,-1.69177727507039e-17,-100,0.00842768615818224
+rxn25630_c0,"RXN-95.c.metaexp.CPD-12575_c0",-0,-0,NaN,0
+rxn25637_d0,"acetoacetyl-[acyl-carrier protein] reductase_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn25641_d0,"3-oxo-octanoyl-[acyl-carrier protein] reductase_d0",-29.9182858615469,2.49904754355879e-15,-100,-29.9182858615469
+rxn25647_d0,"3-oxo-palmitoyl-[acyl-carrier protein] synthase_d0",29.9182858615469,-2.49904754355876e-15,-100,29.9182858615469
+rxn25649_d0,"3-oxo-palmitoyl-[acyl-carrier protein] reductase_d0",-29.9182858615469,2.49904754355876e-15,-100,-29.9182858615469
+rxn25661_d0,"3-oxo-cis-vaccenoyl-[acyl-carrier protein] reductase_d0",0,0,NaN,0
+rxn25662_d0,"3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase_d0",0,0,NaN,0
+rxn25716_d0,"3-oxo-stearoyl-[acyl-carrier protein] synthase_d0",2.19119840112738,-2.44757437407633e-15,-100,2.19119840112738
+rxn25718_d0,"3-oxo-stearoyl-[acyl-carrier protein] reductase_d0",-2.19119840112738,2.44757437407633e-15,-100,-2.19119840112738
+rxn25719_d0,"3-hydroxystearoyl-[acyl-carrier protein] dehydratase_d0",2.19119840112738,-2.44757437407634e-15,-100,2.19119840112738
+rxn25743_d0,"crotonyl-[acp] reductase_d0",29.9182858615469,-2.49904754355878e-15,-100,29.9182858615469
+rxn25747_d0,"trans-delta2-decenoyl-[acp]-reductase_d0",-29.9182858615469,2.49904754355878e-15,-100,-29.9182858615469
+rxn25750_d0,"trans tetradec-2-enoyl-[acp] reductase_d0",-29.9182858615469,2.49904754355876e-15,-100,-29.9182858615469
+rxn25762_d0,"RXN-9673.c_d0",0,0,NaN,0
+rxn25762_r0,"RXN-9673.c_r0",0,0,NaN,0
+rxn25762_x0,"RXN-9673.c_x0",0,0,NaN,0
+rxn25847_c0,"RXN-9802.c_c0",0,0,NaN,0
+rxn25848_c0,"RXN-9803.c_c0",0,0,NaN,0
+rxn26013_d0,"L-serine hydro-lyase [adding indole, L-tryptophan-forming]_d0",2.02264467796373,-3.13086156072509e-15,-100,2.02264467796374
+rxn26037_d0,"IscS_d0",-0,-0,NaN,0
+rxn26477_d0,"(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase_d0",-0.522095157499388,0,-100,-0.522095157499388
+rxn26754_d0,"plastocyanin:ferredoxin oxidoreductase (light-dependent)_d0",500,1.16048827125677e-25,-100,500
+rxn27029_d0,"RXNQT-4300.c_d0",0.00842768615839106,-5.5556240315022e-14,-100.000000000659,0.00842768615844662
+rxn27030_d0,"RXNQT-4301.c_d0",0.00842768615839106,-5.55562403150219e-14,-100.000000000659,0.00842768615844662
+rxn27259_c0,"sulfate adenylyltransferase_c0",0,0,NaN,0
+rxn27259_d0,"sulfate adenylyltransferase_d0",6.74037911245277,-4.67528906730071e-14,-100.000000000001,6.74037911245282
+rxn27259_n0,"sulfate adenylyltransferase_n0",0,0,NaN,0
+rxn27266_c0,"sulfite reductase (ferredoxin)_c0",0,0,NaN,0
+rxn27266_d0,"sulfite reductase (ferredoxin)_d0",-6.74037911245277,4.67528906730068e-14,-100.000000000001,-6.74037911245282
+rxn27318_c0,"NADPH-thioredoxin reductase_c0",-9.43900849716409,1.49884875406308e-14,-100,-9.4390084971641
+rxn27318_d0,"NADPH-thioredoxin reductase_d0",0,0,NaN,0
+rxn27318_m0,"NADPH-thioredoxin reductase_m0",0,0,NaN,0
+rxn27360_d0,"transport of PEP_d0",1000,851.851851851851,-14.8148148148149,148.148148148149
+rxn27360_m0,"transport of PEP_m0",0,0,NaN,0
+rxn27360_x0,"transport of PEP_x0",0,0,NaN,0
+rxn27415_c0,"UDPREDUCT-RXN.c_c0",-2.52830584745467,0,-100,-2.52830584745467
+rxn27497_d0,"3-carboxy-3-hydroxy-4-methylpentanoate 3-methyl-2-oxobutanoate-lyase (CoA-acetylating)_d0",14.4956201920734,-2.52638791623894e-14,-100,14.4956201920734
+rxn27709_d0,"anthranilate synthetase_d0",2.02264467796373,-3.13086156072509e-15,-100,2.02264467796374
+rxn27927_d0,"L-histidinol phosphate phosphatase_d0",3.20252074010924,-5.77444321975747e-15,-100,3.20252074010925
+rxn28082_d0,"PRA isomerase_d0",2.02264467796373,-3.13086156072509e-15,-100,2.02264467796374
+rxn28083_d0,"glutamate-prephenate aminotransferase_d0",63.144859924488,-8.61670407380556e-15,-100,63.144859924488
+rxn28487_d0,"RXN-9555.d_d0",0,0,NaN,0
+rxn28606_d0,"TRANS-RXNAVI-26408.ce.brachyexp.OLEATE-CPD_d0",1.26415292372733,-5.8661937150714e-16,-100,1.26415292372733
+rxn28615_d0,"tryptophan synthase alpha_d0",2.02264467796373,-3.13086156072509e-15,-100,2.02264467796374
+rxn29086_d0,"TRANS-RXN-231.cm_d0",-404.896286647204,2.19762650969531e-14,-100,-404.896286647204
+rxn29086_m0,"TRANS-RXN-231.cm_m0",0,0,NaN,0
+rxn29086_x0,"TRANS-RXN-231.cm_x0",0,0,NaN,0
+rxn29122_m0,"TRANS-RXN0-240.cp_m0",0.00842768615818222,-1.69177727506288e-17,-100,0.00842768615818224
+rxn29240_d0,"TRANS-RXN4LZ-6924.cd_d0",1000,-1000,-200,2000
+rxn29240_m0,"TRANS-RXN4LZ-6924.cd_m0",1000,1000,0,0
+rxn29240_v0,"TRANS-RXN4LZ-6924.cd_v0",0,0,NaN,0
+rxn29246_d0,"TRANS-RXNAVI-12503.ce_d0",0,0,NaN,0
+rxn29318_d0,"TRANS-RXNBWI-115471.ce_d0",-329.7228950443,287.037037037037,-187.054020618881,-616.759932081337
+rxn29318_m0,"TRANS-RXNBWI-115471.ce_m0",-0.0800630185027794,-1.78662510064558e-14,-99.9999999999777,-0.0800630185027616
+rxn29318_v0,"TRANS-RXNBWI-115471.ce_v0",-0,-0,NaN,0
+rxn29325_d0,"TRANS-RXNAVI-26378.ce.brachyexp.CTP_d0",-0.522095157499388,0,-100,-0.522095157499388
+rxn29325_m0,"TRANS-RXNAVI-26378.ce.brachyexp.CTP_m0",-0,-0,NaN,0
+rxn29325_v0,"TRANS-RXNAVI-26378.ce.brachyexp.CTP_v0",-0,-0,NaN,0
+rxn29342_d0,"TRANS-RXNAVI-26378.ce.brachyexp.UTP_d0",-0,-0,NaN,0
+rxn29342_m0,"TRANS-RXNAVI-26378.ce.brachyexp.UTP_m0",-0,-0,NaN,0
+rxn29342_v0,"TRANS-RXNAVI-26378.ce.brachyexp.UTP_v0",-0,-0,NaN,0
+rxn29733_d0,"TRANS-RXNBWI-115391.ce_d0",-330.728843290163,824.074074074074,-349.169097522915,-1154.80291736424
+rxn29733_m0,"TRANS-RXNBWI-115391.ce_m0",0.0589938031073078,1.18995554888658e-14,-99.9999999999798,0.0589938031072959
+rxn29733_v0,"TRANS-RXNBWI-115391.ce_v0",-0,-0,NaN,0
+rxn29733_x0,"TRANS-RXNBWI-115391.ce_x0",-0,-0,NaN,0
+rxn29785_d0,"TRANS-RXNAVI-26920.ce_d0",999.991572313842,1000,0.000842775718554501,-0.00842768615905243
+rxn29785_m0,"TRANS-RXNAVI-26920.ce_m0",-144.68053653552,111.111111111111,-176.797552574622,-255.791647646631
+rxn29919_d0,"TRANSALDOL-RXN.d_d0",-415.819216019408,-1000,140.489126397979,584.180783980592
+rxn30639_d0,"CisAconEquiv_d0",0,0,NaN,0
+rxn30639_m0,"CisAconEquiv_m0",-34.433418720793,0,-100,-34.433418720793
+rxn30639_x0,"CisAconEquiv_x0",-0,-0,NaN,0
+rxn31154_d0,"R_d0",1000,1.16048827125677e-25,-100,1000
+rxn31160_m0,"R_m0",-0.0800630185027794,-1.78662510064571e-14,-99.9999999999777,-0.0800630185027616
+rxn31167_d0,"R_d0",-0.00842768615800033,-768.518518518518,9118874.10642149,768.51009083236
+rxn31167_m0,"R_m0",1000,1000,2.27373675443232e-14,-2.27373675443232e-13
+rxn31167_x0,"R_x0",0,0,NaN,0
+rxn31168_d0,"R_d0",989.011982786963,46.2962962962965,-95.3189347447705,942.715686490666
+rxn31168_m0,"R_m0",-1000,-1000,-0,0
+rxn31168_x0,"R_x0",0,0,NaN,0
+rxn31169_d0,"TPT; APE2 (ACCLIMATION OF PHOTOSYNTHESIS TO ENVIRONMENT)_d0",234.569461920729,1000,326.312953021116,-765.430538079271
+rxn31169_m0,"TPT; APE2 (ACCLIMATION OF PHOTOSYNTHESIS TO ENVIRONMENT)_m0",0,0,NaN,0
+rxn31169_x0,"TPT; APE2 (ACCLIMATION OF PHOTOSYNTHESIS TO ENVIRONMENT)_x0",0,0,NaN,0
+rxn31240_c0,"glucose-6-phosphate isomerase, putative_c0",12.4628622907197,0,-100,12.4628622907197
+rxn31358_d0,"R_d0",-334.666491467827,287.037037037037,-185.768083855097,-621.703528504864
+rxn31768_d0,"OPPSYN-RXN.r.plantexp.ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE_d0",0.0214905997033647,-4.31403205141786e-17,-100,0.0214905997033647
+rxn31768_m0,"OPPSYN-RXN.r.plantexp.ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE_m0",0,0,NaN,0
+rxn31768_r0,"OPPSYN-RXN.r.plantexp.ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE_r0",0,0,NaN,0
+rxn31828_d0,"-_d0",-978.019077515956,-1000,2.24749424519123,21.9809224840435
+rxn31828_m0,"-_m0",-21.879790250145,2.24697911149225e-13,-100.000000000001,-21.8797902501453
+rxn31828_v0,"-_v0",0,0,NaN,0
+rxn31927_d0,"-_d0",-1000,-1000,-0,0
+rxn32037_d0,"-_d0",0,0,NaN,0
+rxn32037_m0,"-_m0",0,0,NaN,0
+rxn32037_x0,"-_x0",0,0,NaN,0
+rxn32435_d0,"-_d0",0,3.2711464707774e-13,Inf,-3.2711464707774e-13
+rxn32435_m0,"-_m0",0,0,NaN,0
+rxn32435_x0,"-_x0",0,-3.2711464707774e-13,-Inf,3.2711464707774e-13
+rxn32592_d0,"-_d0",-0,-0,NaN,0
+rxn32592_m0,"-_m0",0,0,NaN,0
+rxn32592_x0,"-_x0",0,0,NaN,0
+rxn32628_d0,"-_d0",-906.614458607856,-148.148148148148,-83.6591897755926,-758.466310459708
+rxn32628_m0,"-_m0",-93.3939690783025,-851.851851851852,812.105846082684,758.457882773549
+rxn32628_v0,"-_v0",0,0,NaN,0
+rxn33186_d0,"-_d0",161.752199258346,-703.703703703703,-535.050470367804,865.45590296205
+rxn33186_m0,"-_m0",-115.223193211498,-296.296296296297,157.149874116428,181.073103084798
+rxn34362_d0,"dimethylallyl-diphosphate transport_d0",0.310981619236924,4.23790207404257e-16,-99.9999999999999,0.310981619236923
+rxn34364_d0,"beta-fructose 6-phosphate transport, chloroplast_d0",535.763193248379,-92.5925925925928,-117.282372839238,628.355785840972
+rxn35347_j0,"cytochrome c oxidase Complex IV_j0",259.450772505796,333.333333333333,28.4765237405053,-73.8825608275374
+rxn37018_c0,"deoxyribokinase_c0",0,7.6621597370778e-15,Inf,-7.6621597370778e-15
+rxn37018_d0,"deoxyribokinase_d0",0,0,NaN,0
+rxn37266_c0,"sucrose-UDP glucosyltransferase_c0",-19.1392752652318,3.84202619128288e-14,-100,-19.1392752652319
+rxn37266_d0,"sucrose-UDP glucosyltransferase_d0",-0,-0,NaN,0
+rxn37324_d0,"acyl-coenzyme A ligase_d0",0,0,NaN,0
+rxn37324_r0,"acyl-coenzyme A ligase_r0",0,0,NaN,0
+rxn37324_x0,"acyl-coenzyme A ligase_x0",0,0,NaN,0
+rxn37585_c0,"N-ribosyladenine ribohydrolase_c0",3.0814991668779,5.55900758605224e-14,-99.9999999999982,3.08149916687784
+rxn37610_d0,"OPPSYN-RXN.c.plantexp.OCTAPRENYL-DIPHOSPHATE_d0",0.0214905997033647,-4.31403205141786e-17,-100,0.0214905997033647
+rxn37610_m0,"OPPSYN-RXN.c.plantexp.OCTAPRENYL-DIPHOSPHATE_m0",0,0,NaN,0
+rxn37610_r0,"OPPSYN-RXN.c.plantexp.OCTAPRENYL-DIPHOSPHATE_r0",0,0,NaN,0
+rxn37651_d0,"1.3.1.9-RXN.c.araexp.Cis-vaccenoyl-ACPs_d0",0,0,NaN,0
+rxn37695_c0,"R15-RXN.c.araexp.L-ALPHA-ALANINE_c0",-986.431425285327,-1000,1.37552133547941,13.5685747146733
+rxn37863_c0,"Galactowaldenase_c0",0,0,NaN,0
+rxn38788_m0,"KAPA transport (Peroxisomal membrane)_m0",-0.00842768615818222,1.69177727506288e-17,-100,-0.00842768615818224
+rxn38788_x0,"KAPA transport (Peroxisomal membrane)_x0",-0,-0,NaN,0
+rxn38795_m0,"hydroxymethyldihydropterin transport (Mitochondrial membrane)_m0",-0.0505661169491255,-1.19164732616165e-14,-99.9999999999764,-0.0505661169491136
+rxn39241_d0,"5-Methyltetrahydrofolate Transport_d0",4.18375623950656,6.71138061009355e-14,-99.9999999999984,4.18375623950649
+rxn39241_m0,"5-Methyltetrahydrofolate Transport_m0",0,0,NaN,0
+rxn39241_v0,"5-Methyltetrahydrofolate Transport_v0",0,0,NaN,0
+rxn39242_d0,"5,10-Methylenetetrahydrofolate Transport_d0",1000,703.703703703703,-29.6296296296297,296.296296296297
+rxn39242_m0,"5,10-Methylenetetrahydrofolate Transport_m0",776.081792108545,1000,28.8523980549897,-223.918207891455
+rxn39242_v0,"5,10-Methylenetetrahydrofolate Transport_v0",0,0,NaN,0
+rxn39243_d0,"5,10-Methylenyltetrahydrofolate Transport_d0",1000,444.444444444445,-55.5555555555555,555.555555555555
+rxn39243_m0,"5,10-Methylenyltetrahydrofolate Transport_m0",-0.00842768615818222,555.555555555555,-6592129.47437928,-555.563983241713
+rxn39243_v0,"5,10-Methylenyltetrahydrofolate Transport_v0",0,0,NaN,0
+rxn39244_d0,"Hydrouracil Transport_d0",-0.0957385147567969,5.43059164504326e-14,-100.000000000057,-0.0957385147568512
+rxn39245_c0,"ATPReduct_c0",-2.52830584745467,4.88599335707316e-15,-100,-2.52830584745467
+rxn39246_c0,"GTPReduct_c0",-2.19119840112738,2.60825041324222e-15,-100,-2.19119840112738
+rxn39247_c0,"CTPReduct_c0",-2.19119840112738,2.60825041324222e-15,-100,-2.19119840112738
+rxn39248_c0,"UTPReduct_c0",0,4.88599335707317e-15,Inf,-4.88599335707317e-15
+rxn39249_m0,"S-Adenosyl-4-methylthio-2-oxobutanoate Transport_m0",-0.00842768615818222,1.69177727506288e-17,-100,-0.00842768615818224
+rxn39250_c0,"5-deoxyadenosine phosphorylase_c0",0.0252830584747555,-5.55900758605225e-14,-100.00000000022,0.0252830584748111
+rxn39251_c0,"5-deoxyribose-1-phosphate isomerase_c0",0.0252830584747555,-5.55900758605222e-14,-100.00000000022,0.0252830584748111
+rxn39252_c0,"5-deoxyribulose-1-phosphate aldolase_c0",0.0252830584747555,-5.55900758605222e-14,-100.00000000022,0.0252830584748111
+rxn39253_d0,"Solanesyl-diphosphate Transport_d0",-0.00842768615818222,1.69177727507039e-17,-100,-0.00842768615818224
+rxn39253_m0,"Solanesyl-diphosphate Transport_m0",0.00842768615818222,-1.69177727507038e-17,-100,0.00842768615818224
+rxn39254_m0,"Ubiquinone-9 Transport_m0",-0.00842768615818222,1.69177727506288e-17,-100,-0.00842768615818224
+rxn39255_d0,"Plastoquinone Transport_d0",-0.0130629135451824,2.62225477634746e-17,-100,-0.0130629135451825
+bio1_biomass,"Plant Leaf (Core) auto biomass",84.2768615818222,-1.69177727506288e-13,-100,84.2768615818224
+bio2_biomass,"Plant Leaf auto biomass",0,0,NaN,0
+EX_cpd00013_e0,"Exchange for NH3_e0",272.006483205326,5.6843418860808e-13,-99.9999999999998,272.006483205325
+EX_cpd00076_e0,"Exchange for Sucrose_e0",-347.197615097173,-69.4444444444446,-79.998582529143,-277.753170652728
+EX_cpd00205_e0,"Exchange for K+_e0",-25.8729965056194,5.19375623444305e-14,-100,-25.8729965056195
+EX_cpd00204_e0,"Exchange for CO_e0",0.00842768615839106,-5.55562403150215e-14,-100.000000000659,0.00842768615844662
+EX_cpd00048_e0,"Exchange for Sulfate_e0",-6.74037911245277,4.6752890673007e-14,-100.000000000001,-6.74037911245282
+EX_cpd00209_e0,"Exchange for Nitrate_e0",-0,-0,NaN,0
+EX_cpd00001_e0,"Exchange for H2O_e0",1000,763.888888888889,-23.6111111111112,236.111111111112
+EX_cpd00075_e0,"Exchange for Nitrite_e0",-305.966392153517,-0,-100,-305.966392153517
+EX_cpd00011_e0,"Exchange for CO2_e0",1000,833.333333333332,-16.6666666666668,166.666666666668
+EX_cpd00007_e0,"Exchange for O2_e0",-194.961137737236,-833.333333333334,327.435612556017,638.372195596098
+EX_cpd00073_e0,"Exchange for Urea_e0",-121.85226929979,3.86868937693213e-13,-100,-121.85226929979
+EX_cpd00067_e0,"Exchange for H+_e0",-497.822461750647,4.98755301797697e-13,-100,-497.822461750647
+EX_cpd00099_e0,"Exchange for Cl-_e0",-17.6981409321827,3.55273227763206e-14,-100,-17.6981409321827
+EX_cpd00009_e0,"Exchange for Phosphate_e0",-29.6315759784384,4.07520526840115e-12,-100.000000000014,-29.6315759784425
+EX_cpd11632_e0,"Exchange for hn_e0",-1000,-1.16048827125677e-25,-100,-1000
+DM_cpd02701_c0,"Demand for S-Adenosyl-4-methylthio-2-oxobutanoate_c0",0.00842768615818222,-1.69177727506288e-17,-100,0.00842768615818224
+DM_cpd11416_c0,"Demand for Biomass_c0",84.2768615818222,-1.69177727506288e-13,-100,84.2768615818224
