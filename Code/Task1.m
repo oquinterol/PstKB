@@ -16,11 +16,11 @@ OptModelOri = optimizeCbModel(ModelOri);
 ModelNew = readCbModel('/home/Oscar/Git/PstKB/Models/PstKB_cobra.xml');
 % Optimize Model
 OptModelNew = optimizeCbModel(ModelNew);
-%% Crear la tabla
+%% Create table
 tabla = table(ModelOri.rxns,ModelOri.rxnNames,OptModelOri.v,OptModelNew.v,'VariableNames',{'rxn ID','rxn Name','Ori','Cobra'});
-% Agregar la Columna Delta es el porcentaje de Cambio respecto a Ori
+% Add Delta Column which is the percentage change relative to Ori
 tabla.DeltaPorcentual = ((tabla.Cobra - tabla.Ori) ./ tabla.Ori) * 100 ;
 % Delta = Ori - Cobra
 tabla.Delta= ((tabla.Ori - tabla.Cobra));
-%% Guarda la tabla en un archivo CSV
+%% Save table to CSV
 writetable(tabla, 'DeltaModels.csv');
