@@ -1,0 +1,1138 @@
+,ID,Name
+0,M_cpd00001_c0,H2O_c0
+1,M_cpd00009_c0,Phosphate_c0
+2,M_cpd00012_c0,PPi_c0
+3,M_cpd00067_c0,H+_c0
+4,M_cpd00001_d0,H2O_d0
+5,M_cpd00009_d0,Phosphate_d0
+6,M_cpd00012_d0,PPi_d0
+7,M_cpd00067_d0,H+_d0
+8,M_cpd00001_g0,H2O_g0
+9,M_cpd00009_g0,Phosphate_g0
+10,M_cpd00012_g0,PPi_g0
+11,M_cpd00067_g0,H+_g0
+12,M_cpd00001_v0,H2O_v0
+13,M_cpd00009_v0,Phosphate_v0
+14,M_cpd00012_v0,PPi_v0
+15,M_cpd00067_v0,H+_v0
+16,M_cpd00001_w0,H2O_w0
+17,M_cpd00009_w0,Phosphate_w0
+18,M_cpd00012_w0,PPi_w0
+19,M_cpd00067_w0,H+_w0
+20,M_cpd00007_c0,O2_c0
+21,M_cpd00025_c0,H2O2_c0
+22,M_cpd00001_x0,H2O_x0
+23,M_cpd00007_x0,O2_x0
+24,M_cpd00025_x0,H2O2_x0
+25,M_cpd00011_d0,CO2_d0
+26,M_cpd00169_d0,3-Phosphoglycerate_d0
+27,M_cpd00871_d0,"D-Ribulose 1,5-bisphosphate_d0"
+28,M_cpd00011_x0,CO2_x0
+29,M_cpd00067_x0,H+_x0
+30,M_cpd00169_x0,3-Phosphoglycerate_x0
+31,M_cpd00871_x0,"D-Ribulose 1,5-bisphosphate_x0"
+32,M_cpd00220_d0,Riboflavin_d0
+33,M_cpd02656_d0,6-7-Dimethyl-8--1-D-ribityllumazine_d0
+34,M_cpd02882_d0,4--1-D-Ribitylamino-5-aminouracil_d0
+35,M_cpd00003_d0,NAD_d0
+36,M_cpd00004_d0,NADH_d0
+37,M_cpd00023_d0,L-Glutamate_d0
+38,M_cpd00024_d0,2-Oxoglutarate_d0
+39,M_cpd00053_d0,L-Glutamine_d0
+40,M_cpd00003_c0,NAD_c0
+41,M_cpd00018_c0,AMP_c0
+42,M_cpd00355_c0,Nicotinamide ribonucleotide_c0
+43,M_cpd00018_d0,AMP_d0
+44,M_cpd00355_d0,Nicotinamide ribonucleotide_d0
+45,M_cpd00002_c0,ATP_c0
+46,M_cpd00006_c0,NADP_c0
+47,M_cpd00008_c0,ADP_c0
+48,M_cpd00002_d0,ATP_d0
+49,M_cpd00006_d0,NADP_d0
+50,M_cpd00008_d0,ADP_d0
+51,M_cpd00004_c0,NADH_c0
+52,M_cpd00005_c0,NADPH_c0
+53,M_cpd00002_x0,ATP_x0
+54,M_cpd00004_x0,NADH_x0
+55,M_cpd00005_x0,NADPH_x0
+56,M_cpd00008_x0,ADP_x0
+57,M_cpd00042_c0,GSH_c0
+58,M_cpd00111_c0,Oxidized glutathione_c0
+59,M_cpd00005_d0,NADPH_d0
+60,M_cpd00042_d0,GSH_d0
+61,M_cpd00111_d0,Oxidized glutathione_d0
+62,M_cpd00005_m0,NADPH_m0
+63,M_cpd00006_m0,NADP_m0
+64,M_cpd00042_m0,GSH_m0
+65,M_cpd00067_m0,H+_m0
+66,M_cpd00111_m0,Oxidized glutathione_m0
+67,M_cpd00002_m0,ATP_m0
+68,M_cpd00008_m0,ADP_m0
+69,M_cpd00018_m0,AMP_m0
+70,M_cpd00002_n0,ATP_n0
+71,M_cpd00008_n0,ADP_n0
+72,M_cpd00018_n0,AMP_n0
+73,M_cpd00067_n0,H+_n0
+74,M_cpd00010_c0,CoA_c0
+75,M_cpd00655_c0,Dephospho-CoA_c0
+76,M_cpd00010_x0,CoA_x0
+77,M_cpd00655_x0,Dephospho-CoA_x0
+78,M_cpd00011_c0,CO2_c0
+79,M_cpd00013_c0,NH3_c0
+80,M_cpd00073_c0,Urea_c0
+81,M_cpd00242_c0,H2CO3_c0
+82,M_cpd00242_d0,H2CO3_d0
+83,M_cpd00014_c0,UDP_c0
+84,M_cpd00091_c0,UMP_c0
+85,M_cpd00014_g0,UDP_g0
+86,M_cpd00091_g0,UMP_g0
+87,M_cpd00062_c0,UTP_c0
+88,M_cpd00014_d0,UDP_d0
+89,M_cpd00062_d0,UTP_d0
+90,M_cpd00014_m0,UDP_m0
+91,M_cpd00062_m0,UTP_m0
+92,M_cpd00014_n0,UDP_n0
+93,M_cpd00062_n0,UTP_n0
+94,M_cpd00014_x0,UDP_x0
+95,M_cpd00062_x0,UTP_x0
+96,M_cpd00062_g0,UTP_g0
+97,M_cpd00015_c0,FAD_c0
+98,M_cpd00050_c0,FMN_c0
+99,M_cpd00015_d0,FAD_d0
+100,M_cpd00050_d0,FMN_d0
+101,M_cpd00016_c0,Pyridoxal phosphate_c0
+102,M_cpd00215_c0,Pyridoxal_c0
+103,M_cpd00016_d0,Pyridoxal phosphate_d0
+104,M_cpd00215_d0,Pyridoxal_d0
+105,M_cpd00017_c0,S-Adenosyl-L-methionine_c0
+106,M_cpd00060_c0,L-Methionine_c0
+107,M_cpd00001_n0,H2O_n0
+108,M_cpd00009_n0,Phosphate_n0
+109,M_cpd00012_n0,PPi_n0
+110,M_cpd00017_n0,S-Adenosyl-L-methionine_n0
+111,M_cpd00060_n0,L-Methionine_n0
+112,M_cpd00147_c0,5-Methylthioadenosine_c0
+113,M_cpd00909_c0,1-Aminocyclopropane-1-carboxylate_c0
+114,M_cpd00182_c0,Adenosine_c0
+115,M_cpd00638_c0,Deamido-NAD_c0
+116,M_cpd00103_c0,PRPP_c0
+117,M_cpd00128_c0,Adenine_c0
+118,M_cpd00019_c0,S-Adenosyl-homocysteine_c0
+119,M_cpd00135_c0,Homocysteine_c0
+120,M_cpd00020_c0,Pyruvate_c0
+121,M_cpd00061_c0,Phosphoenolpyruvate_c0
+122,M_cpd00020_d0,Pyruvate_d0
+123,M_cpd00061_d0,Phosphoenolpyruvate_d0
+124,M_cpd00010_d0,CoA_d0
+125,M_cpd00022_d0,Acetyl-CoA_d0
+126,M_cpd00003_m0,NAD_m0
+127,M_cpd00004_m0,NADH_m0
+128,M_cpd00010_m0,CoA_m0
+129,M_cpd00011_m0,CO2_m0
+130,M_cpd00020_m0,Pyruvate_m0
+131,M_cpd00022_m0,Acetyl-CoA_m0
+132,M_cpd00003_n0,NAD_n0
+133,M_cpd00004_n0,NADH_n0
+134,M_cpd00010_n0,CoA_n0
+135,M_cpd00011_n0,CO2_n0
+136,M_cpd00020_n0,Pyruvate_n0
+137,M_cpd00022_n0,Acetyl-CoA_n0
+138,M_cpd00130_m0,L-Malate_m0
+139,M_cpd00130_c0,L-Malate_c0
+140,M_cpd00130_d0,L-Malate_d0
+141,M_cpd00550_c0,D-Serine_c0
+142,M_cpd00071_c0,Acetaldehyde_c0
+143,M_cpd00029_d0,Acetate_d0
+144,M_cpd00022_c0,Acetyl-CoA_c0
+145,M_cpd00279_c0,Acetoacetyl-CoA_c0
+146,M_cpd00022_x0,Acetyl-CoA_x0
+147,M_cpd00279_x0,Acetoacetyl-CoA_x0
+148,M_cpd00023_c0,L-Glutamate_c0
+149,M_cpd02097_c0,L-Glutamyl 5-phosphate_c0
+150,M_cpd02097_d0,L-Glutamyl 5-phosphate_d0
+151,M_cpd00024_c0,2-Oxoglutarate_c0
+152,M_cpd00053_c0,L-Glutamine_c0
+153,M_cpd00013_d0,NH3_d0
+154,M_cpd00009_m0,Phosphate_m0
+155,M_cpd00013_m0,NH3_m0
+156,M_cpd00023_m0,L-Glutamate_m0
+157,M_cpd00053_m0,L-Glutamine_m0
+158,M_cpd00035_c0,L-Alanine_c0
+159,M_cpd00035_d0,L-Alanine_d0
+160,M_cpd00024_m0,2-Oxoglutarate_m0
+161,M_cpd00035_m0,L-Alanine_m0
+162,M_cpd00020_x0,Pyruvate_x0
+163,M_cpd00023_x0,L-Glutamate_x0
+164,M_cpd00024_x0,2-Oxoglutarate_x0
+165,M_cpd00035_x0,L-Alanine_x0
+166,M_cpd00477_d0,N-Acetyl-L-glutamate_d0
+167,M_cpd00493_c0,Pyridoxamine phosphate_c0
+168,M_cpd00007_d0,O2_d0
+169,M_cpd00025_d0,H2O2_d0
+170,M_cpd00493_d0,Pyridoxamine phosphate_d0
+171,M_cpd00478_c0,Pyridoxine phosphate_c0
+172,M_cpd00478_d0,Pyridoxine phosphate_d0
+173,M_cpd00026_c0,UDP-glucose_c0
+174,M_cpd00144_c0,UDPglucuronate_c0
+175,M_cpd00089_c0,Glucose-1-phosphate_c0
+176,M_cpd00031_c0,GDP_c0
+177,M_cpd00038_c0,GTP_c0
+178,M_cpd00031_d0,GDP_d0
+179,M_cpd00038_d0,GTP_d0
+180,M_cpd00031_m0,GDP_m0
+181,M_cpd00038_m0,GTP_m0
+182,M_cpd00031_n0,GDP_n0
+183,M_cpd00038_n0,GTP_n0
+184,M_cpd00031_x0,GDP_x0
+185,M_cpd00038_x0,GTP_x0
+186,M_cpd00126_c0,GMP_c0
+187,M_cpd00032_c0,Oxaloacetate_c0
+188,M_cpd00032_n0,Oxaloacetate_n0
+189,M_cpd00061_n0,Phosphoenolpyruvate_n0
+190,M_cpd00032_d0,Oxaloacetate_d0
+191,M_cpd00032_m0,Oxaloacetate_m0
+192,M_cpd00003_x0,NAD_x0
+193,M_cpd00032_x0,Oxaloacetate_x0
+194,M_cpd00130_x0,L-Malate_x0
+195,M_cpd00137_c0,Citrate_c0
+196,M_cpd00041_c0,L-Aspartate_c0
+197,M_cpd00041_d0,L-Aspartate_d0
+198,M_cpd00041_m0,L-Aspartate_m0
+199,M_cpd00041_x0,L-Aspartate_x0
+200,M_cpd00033_d0,Glycine_d0
+201,M_cpd00040_d0,Glyoxalate_d0
+202,M_cpd00033_m0,Glycine_m0
+203,M_cpd00040_m0,Glyoxalate_m0
+204,M_cpd00033_x0,Glycine_x0
+205,M_cpd00040_x0,Glyoxalate_x0
+206,M_cpd00036_m0,Succinate_m0
+207,M_cpd00078_m0,Succinyl-CoA_m0
+208,M_cpd00047_c0,Formate_c0
+209,M_cpd02978_c0,"7,8-Dihydroneopterin 3'-triphosphate_c0"
+210,M_cpd00047_d0,Formate_d0
+211,M_cpd00957_d0,"2,5-Diamino-6-(5'-phosphoribosylamino)-4-pyrimidineone_d0"
+212,M_cpd00039_d0,L-Lysine_d0
+213,M_cpd00516_d0,"meso-2,6-Diaminopimelate_d0"
+214,M_cpd00040_c0,Glyoxalate_c0
+215,M_cpd00139_d0,Glycolate_d0
+216,M_cpd00139_x0,Glycolate_x0
+217,M_cpd01977_d0,4-Phospho-L-aspartate_d0
+218,M_cpd03470_c0,Iminoaspartate_c0
+219,M_cpd03470_d0,Iminoaspartate_d0
+220,M_cpd00001_m0,H2O_m0
+221,M_cpd01651_m0,L-3-Cyanoalanine_m0
+222,M_cpd00044_c0,3-phosphoadenylylsulfate_c0
+223,M_cpd00193_c0,APS_c0
+224,M_cpd00044_d0,3-phosphoadenylylsulfate_d0
+225,M_cpd00193_d0,APS_d0
+226,M_cpd00046_c0,CMP_c0
+227,M_cpd00367_c0,Cytidine_c0
+228,M_cpd00096_c0,CDP_c0
+229,M_cpd00046_g0,CMP_g0
+230,M_cpd00096_g0,CDP_g0
+231,M_cpd00047_m0,Formate_m0
+232,M_cpd00048_c0,Sulfate_c0
+233,M_cpd00081_c0,Sulfite_c0
+234,M_cpd00048_x0,Sulfate_x0
+235,M_cpd00081_x0,Sulfite_x0
+236,M_cpd00220_c0,Riboflavin_c0
+237,M_cpd00051_d0,L-Arginine_d0
+238,M_cpd00064_d0,Ornithine_d0
+239,M_cpd00073_d0,Urea_d0
+240,M_cpd00051_m0,L-Arginine_m0
+241,M_cpd00064_m0,Ornithine_m0
+242,M_cpd00073_m0,Urea_m0
+243,M_cpd00052_c0,CTP_c0
+244,M_cpd00052_g0,CTP_g0
+245,M_cpd00052_d0,CTP_d0
+246,M_cpd00096_d0,CDP_d0
+247,M_cpd00052_m0,CTP_m0
+248,M_cpd00096_m0,CDP_m0
+249,M_cpd00052_n0,CTP_n0
+250,M_cpd00096_n0,CDP_n0
+251,M_cpd00052_x0,CTP_x0
+252,M_cpd00096_x0,CDP_x0
+253,M_cpd00146_d0,Carbamoylphosphate_d0
+254,M_cpd00132_c0,L-Asparagine_c0
+255,M_cpd00054_d0,L-Serine_d0
+256,M_cpd00738_d0,phosphoserine_d0
+257,M_cpd00054_x0,L-Serine_x0
+258,M_cpd00145_x0,Hydroxypyruvate_x0
+259,M_cpd00054_c0,L-Serine_c0
+260,M_cpd00056_c0,TPP_c0
+261,M_cpd01937_c0,Thiamin triphosphate_c0
+262,M_cpd00305_c0,Thiamin_c0
+263,M_cpd02027_c0,S-Methyl-L-methionine_c0
+264,M_cpd00033_c0,Glycine_c0
+265,M_cpd00869_c0,4-methylthio 2-oxobutyrate_c0
+266,M_cpd00094_c0,2-Oxobutyrate_c0
+267,M_cpd00324_c0,MTTL_c0
+268,M_cpd00482_c0,2-Phospho-D-glycerate_c0
+269,M_cpd00482_d0,2-Phospho-D-glycerate_d0
+270,M_cpd00482_n0,2-Phospho-D-glycerate_n0
+271,M_cpd00029_c0,Acetate_c0
+272,M_cpd00064_c0,Ornithine_c0
+273,M_cpd00342_c0,N-Acetylornithine_c0
+274,M_cpd00066_c0,L-Phenylalanine_c0
+275,M_cpd00143_c0,Phenylpyruvate_c0
+276,M_cpd00066_d0,L-Phenylalanine_d0
+277,M_cpd00143_d0,Phenylpyruvate_d0
+278,M_cpd00066_m0,L-Phenylalanine_m0
+279,M_cpd00143_m0,Phenylpyruvate_m0
+280,M_cpd00066_x0,L-Phenylalanine_x0
+281,M_cpd00143_x0,Phenylpyruvate_x0
+282,M_cpd00333_c0,(E)-Cinnamate_c0
+283,M_cpd00159_c0,L-Lactate_c0
+284,M_cpd00071_d0,Acetaldehyde_d0
+285,M_cpd00029_m0,Acetate_m0
+286,M_cpd00071_m0,Acetaldehyde_m0
+287,M_cpd00069_c0,L-Tyrosine_c0
+288,M_cpd00868_c0,p-hydroxyphenylpyruvate_c0
+289,M_cpd00069_d0,L-Tyrosine_d0
+290,M_cpd00868_d0,p-hydroxyphenylpyruvate_d0
+291,M_cpd00069_m0,L-Tyrosine_m0
+292,M_cpd00868_m0,p-hydroxyphenylpyruvate_m0
+293,M_cpd00069_x0,L-Tyrosine_x0
+294,M_cpd00868_x0,p-hydroxyphenylpyruvate_x0
+295,M_cpd00070_c0,Malonyl-CoA_c0
+296,M_cpd00070_d0,Malonyl-CoA_d0
+297,M_cpd00161_c0,L-Threonine_c0
+298,M_cpd00363_c0,Ethanol_c0
+299,M_cpd00075_c0,Nitrite_c0
+300,M_cpd00209_c0,Nitrate_c0
+301,M_cpd00076_c0,Sucrose_c0
+302,M_cpd01693_c0,6-Phosphosucrose_c0
+303,M_cpd00080_c0,Glycerol-3-phosphate_c0
+304,M_cpd00095_c0,Glycerone-phosphate_c0
+305,M_cpd00080_d0,Glycerol-3-phosphate_d0
+306,M_cpd00095_d0,Glycerone-phosphate_d0
+307,M_cpd00085_c0,beta-Alanine_c0
+308,M_cpd01720_c0,3-Ureidopropanoate_c0
+309,M_cpd00087_c0,Tetrahydrofolate_c0
+310,M_cpd00330_c0,Dihydrofolate_c0
+311,M_cpd00087_m0,Tetrahydrofolate_m0
+312,M_cpd00330_m0,Dihydrofolate_m0
+313,M_cpd06227_c0,THF-L-glutamate_c0
+314,M_cpd00087_d0,Tetrahydrofolate_d0
+315,M_cpd06227_d0,THF-L-glutamate_d0
+316,M_cpd06227_m0,THF-L-glutamate_m0
+317,M_cpd00201_c0,10-Formyltetrahydrofolate_c0
+318,M_cpd00125_c0,5-10-Methylenetetrahydrofolate_c0
+319,M_cpd00125_d0,5-10-Methylenetetrahydrofolate_d0
+320,M_cpd00054_m0,L-Serine_m0
+321,M_cpd00125_m0,5-10-Methylenetetrahydrofolate_m0
+322,M_cpd00345_c0,5-Methyltetrahydrofolate_c0
+323,M_cpd00060_d0,L-Methionine_d0
+324,M_cpd00135_d0,Homocysteine_d0
+325,M_cpd00345_d0,5-Methyltetrahydrofolate_d0
+326,M_cpd00060_x0,L-Methionine_x0
+327,M_cpd00087_x0,Tetrahydrofolate_x0
+328,M_cpd00135_x0,Homocysteine_x0
+329,M_cpd00345_x0,5-Methyltetrahydrofolate_x0
+330,M_cpd00249_c0,Uridine_c0
+331,M_cpd00810_c0,Orotidylic acid_c0
+332,M_cpd00091_d0,UMP_d0
+333,M_cpd00092_d0,Uracil_d0
+334,M_cpd00103_d0,PRPP_d0
+335,M_cpd00337_d0,Hydrouracil_d0
+336,M_cpd00094_d0,2-Oxobutyrate_d0
+337,M_cpd00161_d0,L-Threonine_d0
+338,M_cpd00102_c0,Glyceraldehyde3-phosphate_c0
+339,M_cpd00102_d0,Glyceraldehyde3-phosphate_d0
+340,M_cpd00095_m0,Glycerone-phosphate_m0
+341,M_cpd00102_m0,Glyceraldehyde3-phosphate_m0
+342,M_cpd00101_c0,ribose-5-phosphate_c0
+343,M_cpd00101_d0,ribose-5-phosphate_d0
+344,M_cpd00171_c0,D-Ribulose5-phosphate_c0
+345,M_cpd00171_d0,D-Ribulose5-phosphate_d0
+346,M_cpd00101_n0,ribose-5-phosphate_n0
+347,M_cpd00171_n0,D-Ribulose5-phosphate_n0
+348,M_cpd00169_c0,3-Phosphoglycerate_c0
+349,M_cpd00203_c0,"1,3-Bisphospho-D-glycerate_c0"
+350,M_cpd00203_d0,"1,3-Bisphospho-D-glycerate_d0"
+351,M_cpd00203_m0,"1,3-Bisphospho-D-glycerate_m0"
+352,M_cpd00102_n0,Glyceraldehyde3-phosphate_n0
+353,M_cpd00203_n0,"1,3-Bisphospho-D-glycerate_n0"
+354,M_cpd01775_d0,Phosphoribosyl-ATP_d0
+355,M_cpd01982_d0,5-Phosphoribosylamine_d0
+356,M_cpd00093_d0,Anthranilate_d0
+357,M_cpd02642_d0,N-5-phosphoribosyl-anthranilate_d0
+358,M_cpd00106_m0,Fumarate_m0
+359,M_cpd00106_d0,Fumarate_d0
+360,M_cpd02375_d0,Adenylosuccinate_d0
+361,M_cpd02152_d0,L-Argininosuccinate_d0
+362,M_cpd00113_c0,Isopentenyldiphosphate_c0
+363,M_cpd00841_c0,5-diphosphomevalonate_c0
+364,M_cpd00009_x0,Phosphate_x0
+365,M_cpd00113_x0,Isopentenyldiphosphate_x0
+366,M_cpd00841_x0,5-diphosphomevalonate_x0
+367,M_cpd00202_c0,DMAPP_c0
+368,M_cpd00113_d0,Isopentenyldiphosphate_d0
+369,M_cpd00202_d0,DMAPP_d0
+370,M_cpd00113_m0,Isopentenyldiphosphate_m0
+371,M_cpd00202_m0,DMAPP_m0
+372,M_cpd00114_d0,IMP_d0
+373,M_cpd02884_d0,FAICAR_d0
+374,M_cpd00114_c0,IMP_c0
+375,M_cpd00497_c0,XMP_c0
+376,M_cpd00115_c0,dATP_c0
+377,M_cpd00177_c0,dADP_c0
+378,M_cpd00115_d0,dATP_d0
+379,M_cpd00177_d0,dADP_d0
+380,M_cpd00115_m0,dATP_m0
+381,M_cpd00177_m0,dADP_m0
+382,M_cpd00115_n0,dATP_n0
+383,M_cpd00177_n0,dADP_n0
+384,M_cpd00115_x0,dATP_x0
+385,M_cpd00177_x0,dADP_x0
+386,M_cpd00119_d0,L-Histidine_d0
+387,M_cpd01324_d0,L-Histidinal_d0
+388,M_cpd00123_d0,3-Methyl-2-oxobutanoate_d0
+389,M_cpd00481_d0,Isobutyryl-CoA_d0
+390,M_cpd00123_m0,3-Methyl-2-oxobutanoate_m0
+391,M_cpd00481_m0,Isobutyryl-CoA_m0
+392,M_cpd00347_c0,5-10-Methenyltetrahydrofolate_c0
+393,M_cpd00347_d0,5-10-Methenyltetrahydrofolate_d0
+394,M_cpd00347_m0,5-10-Methenyltetrahydrofolate_m0
+395,M_cpd00123_c0,3-Methyl-2-oxobutanoate_c0
+396,M_cpd00712_c0,2-Dehydropantoate_c0
+397,M_cpd00712_m0,2-Dehydropantoate_m0
+398,M_cpd00207_c0,Guanine_c0
+399,M_cpd00129_c0,L-Proline_c0
+400,M_cpd02431_c0,1-Pyrroline-5-carboxylate_c0
+401,M_cpd00129_d0,L-Proline_d0
+402,M_cpd02431_d0,1-Pyrroline-5-carboxylate_d0
+403,M_cpd00132_m0,L-Asparagine_m0
+404,M_cpd00133_c0,Nicotinamide_c0
+405,M_cpd00218_c0,Niacin_c0
+406,M_cpd00134_x0,Palmitoyl-CoA_x0
+407,M_cpd00214_x0,Palmitate_x0
+408,M_cpd00134_d0,Palmitoyl-CoA_d0
+409,M_cpd00214_d0,Palmitate_d0
+410,M_cpd00002_r0,ATP_r0
+411,M_cpd00010_r0,CoA_r0
+412,M_cpd00012_r0,PPi_r0
+413,M_cpd00018_r0,AMP_r0
+414,M_cpd00067_r0,H+_r0
+415,M_cpd00134_r0,Palmitoyl-CoA_r0
+416,M_cpd00214_r0,Palmitate_r0
+417,M_cpd00012_x0,PPi_x0
+418,M_cpd00018_x0,AMP_x0
+419,M_cpd00136_c0,4-Hydroxybenzoate_c0
+420,M_cpd01892_c0,4-Hydroxybenzoyl-CoA_c0
+421,M_cpd00331_c0,cis-Aconitate_c0
+422,M_cpd00137_d0,Citrate_d0
+423,M_cpd00331_d0,cis-Aconitate_d0
+424,M_cpd00137_m0,Citrate_m0
+425,M_cpd00331_m0,cis-Aconitate_m0
+426,M_cpd00139_c0,Glycolate_c0
+427,M_cpd00229_c0,Glycolaldehyde_c0
+428,M_cpd00727_c0,2-Phosphoglycolate_c0
+429,M_cpd00727_d0,2-Phosphoglycolate_d0
+430,M_cpd00139_n0,Glycolate_n0
+431,M_cpd00727_n0,2-Phosphoglycolate_n0
+432,M_cpd00219_d0,Prephenate_d0
+433,M_cpd00880_c0,1-Phospho-alpha-D-glucuronate_c0
+434,M_cpd00163_c0,UDP-xylose_c0
+435,M_cpd01140_c0,UDP-apiose_c0
+436,M_cpd00145_d0,Hydroxypyruvate_d0
+437,M_cpd00223_d0,Glycerate_d0
+438,M_cpd00223_x0,Glycerate_x0
+439,M_cpd00343_d0,N-Carbamoyl-L-aspartate_d0
+440,M_cpd00274_d0,Citrulline_d0
+441,M_cpd01981_c0,5-Methylthio-D-ribose_c0
+442,M_cpd00809_d0,O-Phospho-L-homoserine_d0
+443,M_cpd02069_d0,3-Phosphonooxypyruvate_d0
+444,M_cpd00284_c0,6-Phospho-D-gluconate_c0
+445,M_cpd00284_d0,6-Phospho-D-gluconate_d0
+446,M_cpd00171_m0,D-Ribulose5-phosphate_m0
+447,M_cpd00284_m0,6-Phospho-D-gluconate_m0
+448,M_cpd00198_d0,D-Xylulose5-phosphate_d0
+449,M_cpd00190_m0,beta-D-Glucose_m0
+450,M_cpd00863_m0,beta-D-Glucose 6-phosphate_m0
+451,M_cpd00192_c0,4-Coumaroyl-CoA_c0
+452,M_cpd03969_c0,Isosalipurpol_c0
+453,M_cpd00070_n0,Malonyl-CoA_n0
+454,M_cpd00192_n0,4-Coumaroyl-CoA_n0
+455,M_cpd03969_n0,Isosalipurpol_n0
+456,M_cpd00011_r0,CO2_r0
+457,M_cpd00070_r0,Malonyl-CoA_r0
+458,M_cpd00192_r0,4-Coumaroyl-CoA_r0
+459,M_cpd03969_r0,Isosalipurpol_r0
+460,M_cpd03332_c0,p-Coumaraldehyde_c0
+461,M_cpd00604_c0,4-Coumarate_c0
+462,M_cpd00238_d0,Sedoheptulose7-phosphate_d0
+463,M_cpd00200_d0,4MOP_d0
+464,M_cpd01882_d0,Isovaleryl-CoA_d0
+465,M_cpd00200_m0,4MOP_m0
+466,M_cpd01882_m0,Isovaleryl-CoA_m0
+467,M_cpd02605_d0,2-isopropyl-3-oxosuccinate_d0
+468,M_cpd00201_d0,10-Formyltetrahydrofolate_d0
+469,M_cpd00201_m0,10-Formyltetrahydrofolate_m0
+470,M_cpd00283_c0,Geranyldiphosphate_c0
+471,M_cpd00012_m0,PPi_m0
+472,M_cpd00283_m0,Geranyldiphosphate_m0
+473,M_cpd00206_c0,dCMP_c0
+474,M_cpd00299_c0,dUMP_c0
+475,M_cpd00263_c0,Pyridoxol_c0
+476,M_cpd00263_d0,Pyridoxol_d0
+477,M_cpd00419_c0,PM_c0
+478,M_cpd00216_d0,Chorismate_d0
+479,M_cpd00932_d0,5-O--1-Carboxyvinyl-3-phosphoshikimate_d0
+480,M_cpd00216_c0,Chorismate_c0
+481,M_cpd00219_c0,Prephenate_c0
+482,M_cpd08210_d0,ADC_d0
+483,M_cpd00658_d0,Isochorismate_d0
+484,M_cpd00737_c0,Gynesine_c0
+485,M_cpd01926_c0,N-Glucosylnicotinate_c0
+486,M_cpd00873_c0,Nicotinate ribonucleotide_c0
+487,M_cpd00222_c0,GLCN_c0
+488,M_cpd00227_d0,L-Homoserine_d0
+489,M_cpd00346_d0,L-Aspartate4-semialdehyde_d0
+490,M_cpd00236_d0,D-Erythrose4-phosphate_d0
+491,M_cpd02857_d0,DAHP_d0
+492,M_cpd00236_c0,D-Erythrose4-phosphate_c0
+493,M_cpd00349_c0,"Sedoheptulose 1,7-bisphosphate_c0"
+494,M_cpd00349_d0,"Sedoheptulose 1,7-bisphosphate_d0"
+495,M_cpd00238_c0,Sedoheptulose7-phosphate_c0
+496,M_cpd00241_c0,dGTP_c0
+497,M_cpd00295_c0,dGDP_c0
+498,M_cpd00241_d0,dGTP_d0
+499,M_cpd00295_d0,dGDP_d0
+500,M_cpd00241_m0,dGTP_m0
+501,M_cpd00295_m0,dGDP_m0
+502,M_cpd00241_n0,dGTP_n0
+503,M_cpd00295_n0,dGDP_n0
+504,M_cpd00241_x0,dGTP_x0
+505,M_cpd00295_x0,dGDP_x0
+506,M_cpd00247_c0,Orotate_c0
+507,M_cpd02479_c0,5'-O-beta-D-Glucosylpyridoxine_c0
+508,M_cpd00270_c0,Caffeoyl-CoA_c0
+509,M_cpd00321_c0,Feruloyl-CoA_c0
+510,M_cpd00881_c0,Caffeate_c0
+511,M_cpd00248_c0,Quinate_c0
+512,M_cpd00634_c0,Chlorogenate_c0
+513,M_cpd00292_c0,HMG-CoA_c0
+514,M_cpd00282_c0,S-Dihydroorotate_c0
+515,M_cpd00343_c0,N-Carbamoyl-L-aspartate_c0
+516,M_cpd00282_d0,S-Dihydroorotate_d0
+517,M_cpd00350_c0,Farnesyldiphosphate_c0
+518,M_cpd00911_c0,6-phospho-D-glucono-1-5-lactone_c0
+519,M_cpd00911_d0,6-phospho-D-glucono-1-5-lactone_d0
+520,M_cpd00289_d0,Geranylgeranyl diphosphate_d0
+521,M_cpd00350_d0,Farnesyldiphosphate_d0
+522,M_cpd00289_m0,Geranylgeranyl diphosphate_m0
+523,M_cpd00350_m0,Farnesyldiphosphate_m0
+524,M_cpd00113_r0,Isopentenyldiphosphate_r0
+525,M_cpd00289_r0,Geranylgeranyl diphosphate_r0
+526,M_cpd00350_r0,Farnesyldiphosphate_r0
+527,M_cpd00291_c0,L-Dopa_c0
+528,M_cpd02914_c0,"4-(L-Alanin-3-yl)-2-hydroxy-cis,cis-muconate 6-semialdehyde_c0"
+529,M_cpd00332_c0,Mevalonic acid_c0
+530,M_cpd00005_r0,NADPH_r0
+531,M_cpd00006_r0,NADP_r0
+532,M_cpd00292_r0,HMG-CoA_r0
+533,M_cpd00332_r0,Mevalonic acid_r0
+534,M_cpd00297_c0,dTDP_c0
+535,M_cpd00298_c0,dTMP_c0
+536,M_cpd00297_g0,dTDP_g0
+537,M_cpd00298_g0,dTMP_g0
+538,M_cpd00357_c0,TTP_c0
+539,M_cpd00297_d0,dTDP_d0
+540,M_cpd00357_d0,TTP_d0
+541,M_cpd00297_m0,dTDP_m0
+542,M_cpd00357_m0,TTP_m0
+543,M_cpd00297_n0,dTDP_n0
+544,M_cpd00357_n0,TTP_n0
+545,M_cpd00297_x0,dTDP_x0
+546,M_cpd00357_x0,TTP_x0
+547,M_cpd00298_m0,dTMP_m0
+548,M_cpd00357_g0,TTP_g0
+549,M_cpd00358_c0,dUTP_c0
+550,M_cpd00793_c0,Thiamine phosphate_c0
+551,M_cpd00305_d0,Thiamin_d0
+552,M_cpd00793_d0,Thiamine phosphate_d0
+553,M_cpd01733_c0,Ferulaldehyde_c0
+554,M_cpd01059_c0,Ferulate_c0
+555,M_cpd00812_c0,5-phosphomevalonate_c0
+556,M_cpd00001_r0,H2O_r0
+557,M_cpd00007_r0,O2_r0
+558,M_cpd00333_r0,(E)-Cinnamate_r0
+559,M_cpd00604_r0,4-Coumarate_r0
+560,M_cpd01224_c0,trans-2-Hydroxycinnamate_c0
+561,M_cpd00422_c0,Cinnamoyl-CoA_c0
+562,M_cpd00337_c0,Hydrouracil_c0
+563,M_cpd00337_r0,Hydrouracil_r0
+564,M_cpd01720_r0,3-Ureidopropanoate_r0
+565,M_cpd00342_d0,N-Acetylornithine_d0
+566,M_cpd00918_d0,2-Acetamido-5-oxopentanoate_d0
+567,M_cpd00346_c0,L-Aspartate4-semialdehyde_c0
+568,M_cpd01977_c0,4-Phospho-L-aspartate_c0
+569,M_cpd02120_d0,Dihydrodipicolinate_d0
+570,M_cpd02197_c0,5-Formyltetrahydrofolate_c0
+571,M_cpd02197_d0,5-Formyltetrahydrofolate_d0
+572,M_cpd02197_m0,5-Formyltetrahydrofolate_m0
+573,M_cpd02016_c0,N-Ribosylnicotinamide_c0
+574,M_cpd00356_c0,dCTP_c0
+575,M_cpd00533_c0,dCDP_c0
+576,M_cpd00356_d0,dCTP_d0
+577,M_cpd00533_d0,dCDP_d0
+578,M_cpd00356_m0,dCTP_m0
+579,M_cpd00533_m0,dCDP_m0
+580,M_cpd00356_n0,dCTP_n0
+581,M_cpd00533_n0,dCDP_n0
+582,M_cpd00356_x0,dCTP_x0
+583,M_cpd00533_x0,dCDP_x0
+584,M_cpd00978_c0,dUDP_c0
+585,M_cpd00358_d0,dUTP_d0
+586,M_cpd00978_d0,dUDP_d0
+587,M_cpd00358_m0,dUTP_m0
+588,M_cpd00978_m0,dUDP_m0
+589,M_cpd00358_n0,dUTP_n0
+590,M_cpd00978_n0,dUDP_n0
+591,M_cpd00358_x0,dUTP_x0
+592,M_cpd00978_x0,dUDP_x0
+593,M_cpd00373_c0,Sinapate_c0
+594,M_cpd03337_c0,5-Hydroxyferulate_c0
+595,M_cpd00374_c0,Tyramine_c0
+596,M_cpd01761_c0,N-Feruloyltyramine_c0
+597,M_cpd00383_d0,Shikimate_d0
+598,M_cpd02030_d0,3-phosphoshikimate_d0
+599,M_cpd01716_d0,3-Dehydroshikimate_d0
+600,M_cpd00383_c0,Shikimate_c0
+601,M_cpd01890_c0,4-Coumaroylshikimate_c0
+602,M_cpd00398_r0,Naringenin_r0
+603,M_cpd03344_r0,Eriodictyol_r0
+604,M_cpd00408_c0,Pantoate_c0
+605,M_cpd00644_c0,PAN_c0
+606,M_cpd00419_d0,PM_d0
+607,M_cpd00426_c0,Homogentisate_c0
+608,M_cpd00426_d0,Homogentisate_d0
+609,M_cpd00458_c0,Coniferol_c0
+610,M_cpd00005_w0,NADPH_w0
+611,M_cpd00006_w0,NADP_w0
+612,M_cpd00458_w0,Coniferol_w0
+613,M_cpd01733_w0,Ferulaldehyde_w0
+614,M_cpd00565_c0,Coniferin_c0
+615,M_cpd00472_c0,UDPgalacturonate_c0
+616,M_cpd02497_c0,D-Galacturonate 1-phosphate_c0
+617,M_cpd02552_d0,n-acetylglutamyl-phosphate_d0
+618,M_cpd00504_d0,"LL-2,6-Diaminopimelate_d0"
+619,M_cpd00863_c0,beta-D-Glucose 6-phosphate_c0
+620,M_cpd00863_d0,beta-D-Glucose 6-phosphate_d0
+621,M_cpd00641_d0,L-Histidinol_d0
+622,M_cpd00834_c0,Phosphopantetheine_c0
+623,M_cpd00443_c0,ABEE_c0
+624,M_cpd00683_c0,Dihydropteroate_c0
+625,M_cpd02920_c0,2-Amino-4-hydroxy-6-hydroxymethyl-7-8-dihydropteridinediphosphate_c0
+626,M_cpd00443_m0,ABEE_m0
+627,M_cpd00683_m0,Dihydropteroate_m0
+628,M_cpd02920_m0,2-Amino-4-hydroxy-6-hydroxymethyl-7-8-dihydropteridinediphosphate_m0
+629,M_cpd00699_d0,5-Dehydroquinate_d0
+630,M_cpd00727_x0,2-Phosphoglycolate_x0
+631,M_cpd00764_m0,7-8-Diaminononanoate_m0
+632,M_cpd01311_m0,Dethiobiotin_m0
+633,M_cpd00782_c0,Pimeloyl-CoA_c0
+634,M_cpd00800_c0,8-Amino-7-oxononanoate_c0
+635,M_cpd00084_c0,L-Cysteine_c0
+636,M_cpd00424_c0,Cystathionine_c0
+637,M_cpd00790_c0,O-Acetyl-L-homoserine_c0
+638,M_cpd02654_d0,4-Methyl-5--2-phosphoethyl-thiazole_d0
+639,M_cpd02894_d0,4-Amino-2-methyl-5-diphosphomethylpyrimidine_d0
+640,M_cpd00017_m0,S-Adenosyl-L-methionine_m0
+641,M_cpd00800_m0,8-Amino-7-oxononanoate_m0
+642,M_cpd02701_m0,S-Adenosyl-4-methylthio-2-oxobutanoate_m0
+643,M_cpd00807_d0,L-histidinol-phosphate_d0
+644,M_cpd00930_d0,imidazole acetol-phosphate_d0
+645,M_cpd00812_x0,5-phosphomevalonate_x0
+646,M_cpd02666_c0,(R)-4'-Phosphopantothenoyl-L-cysteine_c0
+647,M_cpd00858_c0,L-Glutamate5-semialdehyde_c0
+648,M_cpd00858_d0,L-Glutamate5-semialdehyde_d0
+649,M_cpd00858_m0,L-Glutamate5-semialdehyde_m0
+650,M_cpd02431_m0,1-Pyrroline-5-carboxylate_m0
+651,M_cpd00858_v0,L-Glutamate5-semialdehyde_v0
+652,M_cpd02431_v0,1-Pyrroline-5-carboxylate_v0
+653,M_cpd00858_x0,L-Glutamate5-semialdehyde_x0
+654,M_cpd02431_x0,1-Pyrroline-5-carboxylate_x0
+655,M_cpd00072_c0,D-fructose-6-phosphate_c0
+656,M_cpd00072_d0,D-fructose-6-phosphate_d0
+657,M_cpd02333_c0,Quinolinate_c0
+658,M_cpd00873_d0,Nicotinate ribonucleotide_d0
+659,M_cpd02333_d0,Quinolinate_d0
+660,M_cpd02843_d0,D-erythro-imidazol-glycerol-phosphate_d0
+661,M_cpd00931_d0,5-Amino-6--5-phosphoribosylaminouracil_d0
+662,M_cpd02720_d0,5-Amino-6--5-phosphoribitylaminouracil_d0
+663,M_cpd00939_d0,Toxopyrimidine_d0
+664,M_cpd02775_d0,4-Amino-5-phosphomethyl-2-methylpyrimidine_d0
+665,M_cpd00954_c0,6-hydroxymethyl dihydropterin_c0
+666,M_cpd00954_m0,6-hydroxymethyl dihydropterin_m0
+667,M_cpd02961_c0,Dihydroneopterin_c0
+668,M_cpd00956_d0,1-(2-carboxyphenylamino)-1-deoxyribulose 5-phosphate_d0
+669,M_cpd02210_d0,Indoleglycerol phosphate_d0
+670,M_cpd00084_m0,L-Cysteine_m0
+671,M_cpd00150_m0,HCN_m0
+672,M_cpd00239_m0,H2S_m0
+673,M_cpd01059_r0,Ferulate_r0
+674,M_cpd03337_r0,5-Hydroxyferulate_r0
+675,M_cpd01082_c0,Syringin_c0
+676,M_cpd01554_c0,Sinapyl alcohol_c0
+677,M_cpd03333_c0,Sinapaldehyde_c0
+678,M_cpd01554_w0,Sinapyl alcohol_w0
+679,M_cpd03333_w0,Sinapaldehyde_w0
+680,M_cpd01646_d0,2-Isopropylmalate_d0
+681,M_cpd01710_d0,2-Isopropylmaleate_d0
+682,M_cpd02693_d0,3-Isopropylmalate_d0
+683,M_cpd01722_c0,p-Coumaryl alcohol_c0
+684,M_cpd01722_w0,p-Coumaryl alcohol_w0
+685,M_cpd03332_w0,p-Coumaraldehyde_w0
+686,M_cpd01772_d0,Succinylbenzoate_d0
+687,M_cpd03451_d0,SHCHC_d0
+688,M_cpd01777_d0,Phosphoribosyl-AMP_d0
+689,M_cpd02979_d0,phosphoribosylformiminoaicar-phosphate_d0
+690,M_cpd02574_c0,methylthioribose-1-phosphate_c0
+691,M_cpd02394_d0,GAR_d0
+692,M_cpd02465_d0,tetrahydrodipicolinate_d0
+693,M_cpd02140_d0,AIR_d0
+694,M_cpd02826_d0,5'-Phosphoribosylformylglycinamidine_d0
+695,M_cpd02893_d0,5'-Phosphoribosyl-4-carboxy-5-aminoimidazole_d0
+696,M_cpd02678_d0,N-Formyl-GAR_d0
+697,M_cpd02595_c0,p-Coumaroyl quinic acid_c0
+698,M_cpd00634_r0,Chlorogenate_r0
+699,M_cpd02595_r0,p-Coumaroyl quinic acid_r0
+700,M_cpd02791_c0,methylthioribulose-1-phosphate_c0
+701,M_cpd02636_c0,4-Methyl-5--2-hydroxyethyl-thiazole_c0
+702,M_cpd02654_c0,4-Methyl-5--2-phosphoethyl-thiazole_c0
+703,M_cpd11225_d0,3-4-dihydroxy-2-butanone4-phosphate_d0
+704,M_cpd02678_m0,N-Formyl-GAR_m0
+705,M_cpd02826_m0,5'-Phosphoribosylformylglycinamidine_m0
+706,M_cpd02851_d0,AICAR_d0
+707,M_cpd02991_d0,phosphoribulosylformimino-AICAR-phosphate_d0
+708,M_cpd02921_d0,SAICAR_d0
+709,M_cpd03521_c0,Dihydroneopterin phosphate_c0
+710,M_cpd00906_d0,all-trans-Hexaprenyl diphosphate_d0
+711,M_cpd02590_d0,all-trans-Heptaprenyl diphosphate_d0
+712,M_cpd00906_m0,all-trans-Hexaprenyl diphosphate_m0
+713,M_cpd02590_m0,all-trans-Heptaprenyl diphosphate_m0
+714,M_cpd00906_r0,all-trans-Hexaprenyl diphosphate_r0
+715,M_cpd02590_r0,all-trans-Heptaprenyl diphosphate_r0
+716,M_cpd02591_d0,pendp_d0
+717,M_cpd02591_m0,pendp_m0
+718,M_cpd02591_r0,pendp_r0
+719,M_cpd08286_d0,2-C-methyl-D-erythritol4-phosphate_d0
+720,M_cpd08287_d0,4--cytidine5-diphospho-2-C-methyl-D-erythritol_d0
+721,M_cpd08288_d0,2-phospho-4--cytidine5-diphospho-2-C-methyl-D-erythritol_d0
+722,M_cpd08289_d0,1-deoxy-D-xylulose5-phosphate_d0
+723,M_cpd00046_d0,CMP_d0
+724,M_cpd08301_d0,2-C-methyl-D-erythritol2-4-cyclodiphosphate_d0
+725,M_cpd00081_d0,Sulfite_d0
+726,M_cpd08615_d0,1-Hydroxy-2-methyl-2-butenyl 4-diphosphate_d0
+727,M_cpd08984_c0,5-Hydroxyconiferaldehyde_c0
+728,M_cpd01733_r0,Ferulaldehyde_r0
+729,M_cpd08984_r0,5-Hydroxyconiferaldehyde_r0
+730,M_cpd02295_d0,1-4-Dihydroxy-2-naphthoate_d0
+731,M_cpd11217_d0,"1,4-Dihydroxy-2-naphthoyl-CoA_d0"
+732,M_cpd02295_x0,1-4-Dihydroxy-2-naphthoate_x0
+733,M_cpd11217_x0,"1,4-Dihydroxy-2-naphthoyl-CoA_x0"
+734,M_cpd02021_d0,Succinylbenzoyl-CoA_d0
+735,M_cpd02021_x0,Succinylbenzoyl-CoA_x0
+736,M_cpd00136_m0,4-Hydroxybenzoate_m0
+737,M_cpd02172_m0,Solanesyl diphosphate_m0
+738,M_cpd02419_m0,Nonaprenyl-4-hydroxybenzoate_m0
+739,M_cpd11255_c0,"1,2-dihydroxy-3-keto-5-methylthiopentene_c0"
+740,M_cpd11295_c0,"2,3-diketo5-methylthio-1-phosphopentane_c0"
+741,M_cpd02791_d0,methylthioribulose-1-phosphate_d0
+742,M_cpd11295_d0,"2,3-diketo5-methylthio-1-phosphopentane_d0"
+743,M_cpd11296_d0,2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate_d0
+744,M_cpd11255_d0,"1,2-dihydroxy-3-keto-5-methylthiopentene_d0"
+745,M_cpd00205_c0,K+_c0
+746,M_cpd00205_e0,K+_e0
+747,M_cpd00132_d0,L-Asparagine_d0
+748,M_cpd00132_x0,L-Asparagine_x0
+749,M_cpd00065_c0,L-Tryptophan_c0
+750,M_cpd00065_d0,L-Tryptophan_d0
+751,M_cpd00065_m0,L-Tryptophan_m0
+752,M_cpd00065_x0,L-Tryptophan_x0
+753,M_cpd00220_m0,Riboflavin_m0
+754,M_cpd00048_e0,Sulfate_e0
+755,M_cpd00048_d0,Sulfate_d0
+756,M_cpd00048_v0,Sulfate_v0
+757,M_cpd00156_c0,L-Valine_c0
+758,M_cpd00156_d0,L-Valine_d0
+759,M_cpd00156_m0,L-Valine_m0
+760,M_cpd00156_x0,L-Valine_x0
+761,M_cpd00001_e0,H2O_e0
+762,M_cpd11468_d0,Dodecanoyl-ACP_d0
+763,M_cpd11469_d0,(2E)-Dodecenoyl-[acp]_d0
+764,M_cpd11470_d0,Octanoyl-ACP_d0
+765,M_cpd11471_d0,(2E)-Octenoyl-[acp]_d0
+766,M_cpd11472_d0,Hexanoyl-ACP_d0
+767,M_cpd11473_d0,(2E)-Hexenoyl-[acp]_d0
+768,M_cpd11479_d0,D-3-Hydroxyhexanoyl-[acp]_d0
+769,M_cpd11480_d0,D-3-Hydroxydodecanoyl-[acp]_d0
+770,M_cpd11467_d0,(2E)-Tetradecenoyl-[acp]_d0
+771,M_cpd11484_d0,HMA_d0
+772,M_cpd11486_d0,3-Oxohexanoyl-[acp]_d0
+773,M_cpd11482_d0,(R)-3-Hydroxydecanoyl-[acyl-carrier protein]_d0
+774,M_cpd11487_d0,3-oxodecanoyl-acp_d0
+775,M_cpd11489_d0,3-oxododecanoyl-acp_d0
+776,M_cpd11491_d0,3-oxotetradecanoyl-acp_d0
+777,M_cpd11492_d0,Malonyl-acyl-carrierprotein-_d0
+778,M_cpd11493_d0,ACP_d0
+779,M_cpd11464_d0,Butyryl-ACP_d0
+780,M_cpd11474_d0,Decanoyl-ACP_d0
+781,M_cpd11490_d0,3-oxooctanoyl-acp_d0
+782,M_cpd00011_e0,CO2_e0
+783,M_cpd00007_e0,O2_e0
+784,M_cpd00007_m0,O2_m0
+785,M_cpd00073_e0,Urea_e0
+786,M_cpd01695_d0,Myristoyl-CoA_d0
+787,M_cpd03847_d0,Myristic acid_d0
+788,M_cpd01695_r0,Myristoyl-CoA_r0
+789,M_cpd03847_r0,Myristic acid_r0
+790,M_cpd01695_x0,Myristoyl-CoA_x0
+791,M_cpd03847_x0,Myristic acid_x0
+792,M_cpd01741_d0,ddca_d0
+793,M_cpd12458_d0,Stearoyl-[acyl-carrier protein]_d0
+794,M_cpd14940_d0,(2E)-Octadecenoyl-[acp]_d0
+795,M_cpd00051_c0,L-Arginine_c0
+796,M_cpd00051_x0,L-Arginine_x0
+797,M_cpd00067_j0,H+_j0
+798,M_cpd00067_e0,H+_e0
+799,M_cpd00099_c0,Cl-_c0
+800,M_cpd00099_e0,Cl-_e0
+801,M_cpd00046_m0,CMP_m0
+802,M_cpd00046_v0,CMP_v0
+803,M_cpd00084_d0,L-Cysteine_d0
+804,M_cpd00247_m0,Orotate_m0
+805,M_cpd00282_m0,S-Dihydroorotate_m0
+806,M_cpd15560_m0,Ubiquinone-8_m0
+807,M_cpd15561_m0,Ubiquinol-8_m0
+808,M_cpd11477_d0,(2E)-Hexadecenoyl-[acp]_d0
+809,M_cpd15277_d0,Palmitoyl-ACP_d0
+810,M_cpd01260_x0,Lauroyl-CoA_x0
+811,M_cpd01741_x0,ddca_x0
+812,M_cpd00327_x0,strcoa_x0
+813,M_cpd01080_x0,ocdca_x0
+814,M_cpd00047_v0,Formate_v0
+815,M_cpd00047_x0,Formate_x0
+816,M_cpd00080_m0,Glycerol-3-phosphate_m0
+817,M_cpd00038_v0,GTP_v0
+818,M_cpd00239_c0,H2S_c0
+819,M_cpd00239_d0,H2S_d0
+820,M_cpd00214_c0,Palmitate_c0
+821,M_cpd00119_c0,L-Histidine_c0
+822,M_cpd00119_m0,L-Histidine_m0
+823,M_cpd00119_x0,L-Histidine_x0
+824,M_cpd00322_c0,L-Isoleucine_c0
+825,M_cpd00322_d0,L-Isoleucine_d0
+826,M_cpd00322_m0,L-Isoleucine_m0
+827,M_cpd00322_x0,L-Isoleucine_x0
+828,M_cpd11488_d0,Acetoacetyl-ACP_d0
+829,M_cpd00107_c0,L-Leucine_c0
+830,M_cpd00107_d0,L-Leucine_d0
+831,M_cpd00107_m0,L-Leucine_m0
+832,M_cpd00107_x0,L-Leucine_x0
+833,M_cpd00039_c0,L-Lysine_c0
+834,M_cpd00039_m0,L-Lysine_m0
+835,M_cpd00039_x0,L-Lysine_x0
+836,M_cpd00060_m0,L-Methionine_m0
+837,M_cpd00075_e0,Nitrite_e0
+838,M_cpd00075_d0,Nitrite_d0
+839,M_cpd00075_m0,Nitrite_m0
+840,M_cpd00209_e0,Nitrate_e0
+841,M_cpd00209_d0,Nitrate_d0
+842,M_cpd00209_m0,Nitrate_m0
+843,M_cpd01080_c0,ocdca_c0
+844,M_cpd01080_d0,ocdca_d0
+845,M_cpd00064_x0,Ornithine_x0
+846,M_cpd00009_e0,Phosphate_e0
+847,M_cpd02201_c0,4-phosphopantothenate_c0
+848,M_cpd00129_m0,L-Proline_m0
+849,M_cpd00129_x0,L-Proline_x0
+850,M_cpd00076_e0,Sucrose_e0
+851,M_cpd00076_d0,Sucrose_d0
+852,M_cpd00076_v0,Sucrose_v0
+853,M_cpd00161_m0,L-Threonine_m0
+854,M_cpd00161_x0,L-Threonine_x0
+855,M_cpd00092_c0,Uracil_c0
+856,M_cpd01335_d0,Octanoyl-CoA_d0
+857,M_cpd03846_d0,octanoate_d0
+858,M_cpd01335_r0,Octanoyl-CoA_r0
+859,M_cpd03846_r0,octanoate_r0
+860,M_cpd01335_x0,Octanoyl-CoA_x0
+861,M_cpd03846_x0,octanoate_x0
+862,M_cpd00327_d0,strcoa_d0
+863,M_cpd00327_r0,strcoa_r0
+864,M_cpd01080_r0,ocdca_r0
+865,M_cpd01107_d0,Decanoate_d0
+866,M_cpd03128_d0,Decanoyl-CoA_d0
+867,M_cpd01107_r0,Decanoate_r0
+868,M_cpd03128_r0,Decanoyl-CoA_r0
+869,M_cpd01107_x0,Decanoate_x0
+870,M_cpd03128_x0,Decanoyl-CoA_x0
+871,M_cpd00357_v0,TTP_v0
+872,M_cpd00087_v0,Tetrahydrofolate_v0
+873,M_cpd00013_e0,NH3_e0
+874,M_cpd00260_c0,Isocitrate_c0
+875,M_cpd00260_d0,Isocitrate_d0
+876,M_cpd00260_m0,Isocitrate_m0
+877,M_cpd00137_x0,Citrate_x0
+878,M_cpd00260_x0,Isocitrate_x0
+879,M_cpd00017_d0,S-Adenosyl-L-methionine_d0
+880,M_cpd00019_d0,S-Adenosyl-homocysteine_d0
+881,M_cpd00019_m0,S-Adenosyl-homocysteine_m0
+882,M_cpd00443_d0,ABEE_d0
+883,M_cpd00204_c0,CO_c0
+884,M_cpd00204_e0,CO_e0
+885,M_cpd00204_d0,CO_d0
+886,M_cpd00204_m0,CO_m0
+887,M_cpd00204_v0,CO_v0
+888,M_cpd00204_x0,CO_x0
+889,M_cpd00242_m0,H2CO3_m0
+890,M_cpd00242_v0,H2CO3_v0
+891,M_cpd00242_x0,H2CO3_x0
+892,M_cpd00133_d0,Nicotinamide_d0
+893,M_cpd00133_m0,Nicotinamide_m0
+894,M_cpd00036_c0,Succinate_c0
+895,M_cpd00036_d0,Succinate_d0
+896,M_cpd00036_x0,Succinate_x0
+897,M_cpd00106_c0,Fumarate_c0
+898,M_cpd00106_x0,Fumarate_x0
+899,M_cpd16335_d0,2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate_d0
+900,M_cpd00536_d0,Oleate_d0
+901,M_cpd16638_d0,cis-octadec-9-enoyl-coa_d0
+902,M_cpd00536_r0,Oleate_r0
+903,M_cpd16638_r0,cis-octadec-9-enoyl-coa_r0
+904,M_cpd00536_x0,Oleate_x0
+905,M_cpd16638_x0,cis-octadec-9-enoyl-coa_x0
+906,M_cpd00139_m0,Glycolate_m0
+907,M_cpd00109_m0,Cytochrome c3+_m0
+908,M_cpd00110_m0,Cytochrome c2+_m0
+909,M_cpd03091_c0,5'-Deoxyadenosine_c0
+910,M_cpd03091_d0,5'-Deoxyadenosine_d0
+911,M_cpd03091_m0,5'-Deoxyadenosine_m0
+912,M_cpd02172_d0,Solanesyl diphosphate_d0
+913,M_cpd02746_d0,all trans Decaprenyl diphosphate_d0
+914,M_cpd02746_m0,all trans Decaprenyl diphosphate_m0
+915,M_cpd02172_r0,Solanesyl diphosphate_r0
+916,M_cpd02746_r0,all trans Decaprenyl diphosphate_r0
+917,M_cpd17691_d0,"2-Methyl-6-solanyl-1,4-benzoquinol_d0"
+918,M_cpd17569_d0,Dihydrogeranylgeranyl diphosphate_d0
+919,M_cpd17570_d0,Tetrahydrogeranylgeranyl diphosphate_d0
+920,M_cpd03214_d0,Phytyl diphosphate_d0
+921,M_cpd19047_d0,(S)-2-Acetolactate_d0
+922,M_cpd00353_c0,D-threo-Isocitric acid_c0
+923,M_cpd00353_d0,D-threo-Isocitric acid_d0
+924,M_cpd00353_m0,D-threo-Isocitric acid_m0
+925,M_cpd00006_x0,NADP_x0
+926,M_cpd00353_x0,D-threo-Isocitric acid_x0
+927,M_cpd19035_c0,beta-D-Fructose 6-phosphate_c0
+928,M_cpd19001_c0,alpha-D-Glucose_c0
+929,M_cpd30321_c0,beta-D-Fructose_c0
+930,M_cpd19001_d0,alpha-D-Glucose_d0
+931,M_cpd30321_d0,beta-D-Fructose_d0
+932,M_cpd00076_m0,Sucrose_m0
+933,M_cpd19001_m0,alpha-D-Glucose_m0
+934,M_cpd30321_m0,beta-D-Fructose_m0
+935,M_cpd00076_n0,Sucrose_n0
+936,M_cpd19001_n0,alpha-D-Glucose_n0
+937,M_cpd30321_n0,beta-D-Fructose_n0
+938,M_cpd19036_c0,"beta-D-Fructose 1,6-bisphosphate_c0"
+939,M_cpd19036_d0,"beta-D-Fructose 1,6-bisphosphate_d0"
+940,M_cpd16443_c0,beta-D-Ribofuranose_c0
+941,M_cpd00348_m0,D-Galactose 1-phosphate_m0
+942,M_cpd00724_m0,alpha-D-Galactose_m0
+943,M_cpd00121_c0,L-Inositol_c0
+944,M_cpd05264_c0,beta-D-Glucuronic acid_c0
+945,M_cpd00007_n0,O2_n0
+946,M_cpd00121_n0,L-Inositol_n0
+947,M_cpd05264_n0,beta-D-Glucuronic acid_n0
+948,M_cpd19019_d0,L-Cystathionine_d0
+949,M_cpd00311_c0,Guanosine_c0
+950,M_cpd19006_m0,alpha-D-Glucose 6-phosphate_m0
+951,M_cpd19006_c0,alpha-D-Glucose 6-phosphate_c0
+952,M_cpd19006_d0,alpha-D-Glucose 6-phosphate_d0
+953,M_cpd19035_d0,beta-D-Fructose 6-phosphate_d0
+954,M_cpd00190_c0,beta-D-Glucose_c0
+955,M_cpd19035_m0,beta-D-Fructose 6-phosphate_m0
+956,M_cpd19486_c0,16-Hydroxypalmitate_c0
+957,M_cpd19486_r0,16-Hydroxypalmitate_r0
+958,M_cpd20674_c0,"cis-9,10-Epoxystearic acid_c0"
+959,M_cpd20873_c0,"9,10-Epoxy-18-hydroxystearate_c0"
+960,M_cpd20674_r0,"cis-9,10-Epoxystearic acid_r0"
+961,M_cpd20873_r0,"9,10-Epoxy-18-hydroxystearate_r0"
+962,M_cpd05229_c0,"9,10-Dihydroxystearic acid_c0"
+963,M_cpd20874_c0,"9,10,18-Trihydroxystearate_c0"
+964,M_cpd05229_r0,"9,10-Dihydroxystearic acid_r0"
+965,M_cpd20874_r0,"9,10,18-Trihydroxystearate_r0"
+966,M_cpd27757_c0,Oxidized-ferredoxins_c0
+967,M_cpd28082_c0,Reduced-ferredoxins_c0
+968,M_cpd27757_d0,Oxidized-ferredoxins_d0
+969,M_cpd28082_d0,Reduced-ferredoxins_d0
+970,M_cpd24737_m0,3-demethylubiquinol-9_m0
+971,M_cpd25914_m0,ubiquinol(9)_m0
+972,M_cpd22077_d0,3-oxo-cis-vaccenoyl-ACPs_d0
+973,M_cpd27830_d0,Palmitoleoyl-ACPs_d0
+974,M_cpd00104_c0,BIOT_c0
+975,M_cpd01311_c0,Dethiobiotin_c0
+976,M_cpd00104_m0,BIOT_m0
+977,M_cpd00508_d0,3MOP_d0
+978,M_cpd00760_d0,2-Methylbutyryl-CoA_d0
+979,M_cpd00508_m0,3MOP_m0
+980,M_cpd00760_m0,2-Methylbutyryl-CoA_m0
+981,M_cpd27716_d0,Oleoyl-ACPs_d0
+982,M_cpd22445_d0,Beta-3-hydroxybutyryl-ACPs_d0
+983,M_cpd26755_d0,Crotonyl-ACPs_d0
+984,M_cpd22021_d0,3-Hydroxy-octanoyl-ACPs_d0
+985,M_cpd28023_d0,R-3-Hydroxypalmitoyl-ACPs_d0
+986,M_cpd26869_d0,DIOH-ISOVALERATE_d0
+987,M_cpd00498_d0,2-Aceto-2-hydroxybutanoate_d0
+988,M_cpd02535_d0,"2,3-Dihydroxy-3-methylvalerate_d0"
+989,M_cpd08210_c0,ADC_c0
+990,M_cpd27735_c0,Ox-Thioredoxin_c0
+991,M_cpd28060_c0,Red-Thioredoxin_c0
+992,M_cpd00508_c0,3MOP_c0
+993,M_cpd00200_c0,4MOP_c0
+994,M_cpd05238_d0,Nervonic acid_d0
+995,M_cpd16346_d0,Nervonoyl-CoA_d0
+996,M_cpd05238_r0,Nervonic acid_r0
+997,M_cpd16346_r0,Nervonoyl-CoA_r0
+998,M_cpd05238_x0,Nervonic acid_x0
+999,M_cpd16346_x0,Nervonoyl-CoA_x0
+1000,M_cpd00616_d0,Pretyrosine_d0
+1001,M_cpd00809_c0,O-Phospho-L-homoserine_c0
+1002,M_cpd19019_c0,L-Cystathionine_c0
+1003,M_cpd26869_c0,DIOH-ISOVALERATE_c0
+1004,M_cpd28273_d0,Trans-D2-decenoyl-ACPs_d0
+1005,M_cpd27757_m0,Oxidized-ferredoxins_m0
+1006,M_cpd28082_m0,Reduced-ferredoxins_m0
+1007,M_cpd02738_c0,5-Methyltetrahydropteroyltri-L-glutamate_c0
+1008,M_cpd23695_c0,tetrahydropteroyl tri-L-glutamate_c0
+1009,M_cpd02738_d0,5-Methyltetrahydropteroyltri-L-glutamate_d0
+1010,M_cpd23695_d0,tetrahydropteroyl tri-L-glutamate_d0
+1011,M_cpd02738_x0,5-Methyltetrahydropteroyltri-L-glutamate_x0
+1012,M_cpd23695_x0,tetrahydropteroyl tri-L-glutamate_x0
+1013,M_cpd00235_m0,D-mannose-6-phosphate_m0
+1014,M_cpd27437_m0,MANNOSE_m0
+1015,M_cpd00089_d0,Glucose-1-phosphate_d0
+1016,M_cpd27746_c0,Oxidized-Plastocyanins_c0
+1017,M_cpd27796_c0,PLASTOQUINOL-1_c0
+1018,M_cpd27797_c0,PLASTOQUINONE_c0
+1019,M_cpd27884_c0,Plastocyanin-Reduced_c0
+1020,M_cpd27746_d0,Oxidized-Plastocyanins_d0
+1021,M_cpd27796_d0,PLASTOQUINOL-1_d0
+1022,M_cpd27797_d0,PLASTOQUINONE_d0
+1023,M_cpd27884_d0,Plastocyanin-Reduced_d0
+1024,M_cpd11632_d0,hn_d0
+1025,M_cpd00881_r0,Caffeate_r0
+1026,M_cpd00016_n0,Pyridoxal phosphate_n0
+1027,M_cpd00023_n0,L-Glutamate_n0
+1028,M_cpd00053_n0,L-Glutamine_n0
+1029,M_cpd25885_m0,"2-methoxy-6-all trans-nonaprenyl-2-methoxy-1,4-benzoquinol_m0"
+1030,M_cpd25887_m0,"2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol_m0"
+1031,M_cpd25895_m0,"3,4-dihydroxy-5-all-trans-nonaprenylbenzoate_m0"
+1032,M_cpd25897_m0,"3-(3,7,11,15,19,23-nonamethyltetracosa-2,6,10,14,18,22-hexaenyl) -4-hydroxy-5-methoxy-benzoic acid_m0"
+1033,M_cpd02951_d0,"(6S)-6-beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide_d0"
+1034,M_cpd26514_d0,"(6R)-6-beta-hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide_d0"
+1035,M_cpd02980_d0,"(6S)-6-beta-Hydroxy-1,4,5,6-tetrahydronicotinamide-adenine dinucleotide 2'-phosphate_d0"
+1036,M_cpd24196_d0,(R)-NADPHX_d0
+1037,M_cpd20869_c0,18-Hydroxyoleate_c0
+1038,M_cpd20870_c0,18-Oxooleate_c0
+1039,M_cpd20871_c0,"Octadec-9-ene-1,18-dioic-acid_c0"
+1040,M_cpd22504_c0,caffeoylshikimate_c0
+1041,M_cpd01890_r0,4-Coumaroylshikimate_r0
+1042,M_cpd22504_r0,caffeoylshikimate_r0
+1043,M_cpd16503_d0,Plastoquinol-9_d0
+1044,M_cpd24597_c0,p-PAPA-Glc_c0
+1045,M_cpd02428_c0,beta-L-Arabinose 1-phosphate_c0
+1046,M_cpd28294_c0,UDP-L-ARABINOSE_c0
+1047,M_cpd23602_d0,"3-phytyl-1,4-naphtoquinol_d0"
+1048,M_cpd12844_d0,Phytonadiol_d0
+1049,M_cpd01772_x0,Succinylbenzoate_x0
+1050,M_cpd03344_c0,Eriodictyol_c0
+1051,M_cpd27666_c0,Naringenin_c0
+1052,M_cpd24684_d0,dihydroGG-chl a_d0
+1053,M_cpd24685_d0,GG-chl a_d0
+1054,M_cpd24686_d0,tetrahydroGG-chl a_d0
+1055,M_cpd03148_d0,Chlorophyll a_d0
+1056,M_cpd03471_c0,Nicotinate D-ribonucleoside_c0
+1057,M_cpd26827_c0,D-ribulose-1-P_c0
+1058,M_cpd25048_c0,coniferaldehyde glucoside_c0
+1059,M_cpd24956_c0,sinapaldehyde glucoside_c0
+1060,M_cpd25882_m0,2-methoxy-6-(all-trans-nonaprenyl)phenol_m0
+1061,M_cpd07334_c0,Dihydroconiferyl alcohol_c0
+1062,M_cpd25087_c0,dihydroconiferyl alcohol glucoside_c0
+1063,M_cpd11485_d0,3-oxohexadecanoyl-acp_d0
+1064,M_cpd27551_d0,Myristoyl-ACPs_d0
+1065,M_cpd28024_d0,R-3-hydroxy-cis-vaccenoyl-ACPs_d0
+1066,M_cpd28473_d0,a cis-vaccen-2-enoyl-[acp]_d0
+1067,M_cpd14938_d0,3-Oxostearoyl-[acp]_d0
+1068,M_cpd28030_d0,R-3-hydroxystearoyl-ACPs_d0
+1069,M_cpd01122_d0,Linoleate_d0
+1070,M_cpd01398_d0,Linoleoyl-CoA_d0
+1071,M_cpd01122_r0,Linoleate_r0
+1072,M_cpd01398_r0,Linoleoyl-CoA_r0
+1073,M_cpd01122_x0,Linoleate_x0
+1074,M_cpd01398_x0,Linoleoyl-CoA_x0
+1075,M_cpd20867_c0,16-Oxo-palmitate_c0
+1076,M_cpd20868_c0,Hexadecanedioate_c0
+1077,M_cpd00359_d0,indol_d0
+1078,M_cpd27355_d0,L-Cysteine-Desulfurases_d0
+1079,M_cpd27847_d0,Persulfurated-L-cysteine-desulfurases_d0
+1080,M_cpd26630_d0,2-carboxylate-4-methyl-5-beta-(ethyl adenosine 5-diphosphate) thiazole_d0
+1081,M_cpd00048_n0,Sulfate_n0
+1082,M_cpd00193_n0,APS_n0
+1083,M_cpd27735_d0,Ox-Thioredoxin_d0
+1084,M_cpd28060_d0,Red-Thioredoxin_d0
+1085,M_cpd27735_m0,Ox-Thioredoxin_m0
+1086,M_cpd28060_m0,Red-Thioredoxin_m0
+1087,M_cpd00061_m0,Phosphoenolpyruvate_m0
+1088,M_cpd00061_x0,Phosphoenolpyruvate_x0
+1089,M_cpd25615_d0,(Z)-11-octadecenoic acid_d0
+1090,M_cpd26730_d0,Cis-vaccenoyl-ACPs_d0
+1091,M_cpd00536_c0,Oleate_c0
+1092,M_cpd00053_x0,L-Glutamine_x0
+1093,M_cpd00002_v0,ATP_v0
+1094,M_cpd00008_v0,ADP_v0
+1095,M_cpd00052_v0,CTP_v0
+1096,M_cpd00062_v0,UTP_v0
+1097,M_cpd00331_x0,cis-Aconitate_x0
+1098,M_cpd11632_e0,hn_e0
+1099,M_cpd00102_x0,Glyceraldehyde3-phosphate_x0
+1100,M_cpd00095_x0,Glycerone-phosphate_x0
+1101,M_cpd00169_m0,3-Phosphoglycerate_m0
+1102,M_cpd30761_d0,OPP_d0
+1103,M_cpd30761_m0,OPP_m0
+1104,M_cpd30761_r0,OPP_r0
+1105,M_cpd00201_v0,10-Formyltetrahydrofolate_v0
+1106,M_cpd00478_m0,Pyridoxine phosphate_m0
+1107,M_cpd00478_x0,Pyridoxine phosphate_x0
+1108,M_cpd00223_c0,Glycerate_c0
+1109,M_cpd00223_m0,Glycerate_m0
+1110,M_cpd00216_m0,Chorismate_m0
+1111,M_cpd00216_x0,Chorismate_x0
+1112,M_cpd02197_v0,5-Formyltetrahydrofolate_v0
+1113,M_cpd16443_d0,beta-D-Ribofuranose_d0
+1114,M_cpd00026_d0,UDP-glucose_d0
+1115,M_cpd05196_d0,Docosanoate_d0
+1116,M_cpd16343_d0,Behenoyl-CoA_d0
+1117,M_cpd05196_r0,Docosanoate_r0
+1118,M_cpd16343_r0,Behenoyl-CoA_r0
+1119,M_cpd05196_x0,Docosanoate_x0
+1120,M_cpd16343_x0,Behenoyl-CoA_x0
+1121,M_cpd00043_c0,UDP-galactose_c0
+1122,M_cpd00800_x0,8-Amino-7-oxononanoate_x0
+1123,M_cpd00345_m0,5-Methyltetrahydrofolate_m0
+1124,M_cpd00345_v0,5-Methyltetrahydrofolate_v0
+1125,M_cpd00125_v0,5-10-Methylenetetrahydrofolate_v0
+1126,M_cpd00347_v0,5-10-Methenyltetrahydrofolate_v0
+1127,M_cpd02701_c0,S-Adenosyl-4-methylthio-2-oxobutanoate_c0
+1128,M_cpd16441_c0,5-Deoxyribose-1-phosphate_c0
+1129,M_cpd30797_c0,5-deoxy-D-ribulose 1-phosphate_c0
+1130,M_cpd02172_c0,Solanesyl diphosphate_c0
+1131,M_cpd25914_c0,ubiquinol(9)_c0
+1132,M_cpd16503_c0,Plastoquinol-9_c0
+1133,M_cpd11416_c0,Biomass_c0
+1134,M_cpd01420_c0,beta-Carotene_c0
+1135,M_cpd01628_c0,Vitamin E_c0
+1136,M_cpd00059_c0,L-Ascorbate_c0
