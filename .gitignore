@@ -7,3 +7,5 @@
 .Rhistory
 # Archivo por extensión
 *.asv
+# Carpeta del entorno virtual
+.venv
