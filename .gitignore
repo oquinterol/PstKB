@@ -1,4 +1,5 @@
-# Carptetas
+# Carpeta del entorno virtual
+.venv
 .potato-model/
 .vscode/
 # Archivos especificos
@@ -7,5 +8,3 @@
 .Rhistory
 # Archivo por extensión
 *.asv
-# Carpeta del entorno virtual
-.venv
