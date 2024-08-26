@@ -1,4 +1,10 @@
+# Carpeta del entorno virtual
+.venv
+.potato-model/
+.vscode/
 # Archivos especificos
 .~lock.modelData*
 .~lock.*
+.Rhistory
 # Archivo por extensión
+*.asv
